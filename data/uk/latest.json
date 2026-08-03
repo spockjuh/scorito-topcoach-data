@@ -1,0 +1,7086 @@
+{
+  "competition": "uk",
+  "marketId": 314,
+  "name": "TopCoach UK (Premier League)",
+  "fetchedAt": "2026-08-03T18:55:40.232972+00:00",
+  "status": "active",
+  "marketStructure": {
+    "Id": 314,
+    "PreviousMarketId": 295,
+    "Deadline": "2026-09-18T19:00:00",
+    "IsDeadlinePassed": false,
+    "MarketPhases": [
+      {
+        "Id": 485,
+        "Order": 1,
+        "Type": 0,
+        "MarketRounds": [
+          {
+            "Id": 7523,
+            "Order": 1,
+            "Deadline": "2026-08-21T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-08-17T08:00:00",
+            "Name": "1",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7524,
+            "Order": 2,
+            "Deadline": "2026-08-28T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-08-24T08:00:00",
+            "Name": "2",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7525,
+            "Order": 3,
+            "Deadline": "2026-09-04T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-08-31T08:00:00",
+            "Name": "3",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7526,
+            "Order": 4,
+            "Deadline": "2026-09-11T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-09-07T08:00:00",
+            "Name": "4",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      },
+      {
+        "Id": 486,
+        "Order": 2,
+        "Type": 1,
+        "MarketRounds": [
+          {
+            "Id": 7527,
+            "Order": 5,
+            "Deadline": "2026-09-18T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-09-14T08:00:00",
+            "Name": "5",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7528,
+            "Order": 6,
+            "Deadline": "2026-10-09T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-09-21T08:00:00",
+            "Name": "6",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7529,
+            "Order": 7,
+            "Deadline": "2026-10-16T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-10-12T08:00:00",
+            "Name": "7",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7530,
+            "Order": 8,
+            "Deadline": "2026-10-23T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-10-19T08:00:00",
+            "Name": "8",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7531,
+            "Order": 9,
+            "Deadline": "2026-10-30T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-10-26T08:00:00",
+            "Name": "9",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7532,
+            "Order": 10,
+            "Deadline": "2026-11-06T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-02T09:00:00",
+            "Name": "10",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7533,
+            "Order": 11,
+            "Deadline": "2026-11-20T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-09T09:00:00",
+            "Name": "11",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7534,
+            "Order": 12,
+            "Deadline": "2026-11-27T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-23T09:00:00",
+            "Name": "12",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7535,
+            "Order": 13,
+            "Deadline": "2026-12-02T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-30T09:00:00",
+            "Name": "13",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7536,
+            "Order": 14,
+            "Deadline": "2026-12-05T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-05T09:00:00",
+            "Name": "14",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7537,
+            "Order": 15,
+            "Deadline": "2026-12-11T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-07T09:00:00",
+            "Name": "15",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7538,
+            "Order": 16,
+            "Deadline": "2026-12-18T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-14T09:00:00",
+            "Name": "16",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7539,
+            "Order": 17,
+            "Deadline": "2026-12-26T12:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-21T09:00:00",
+            "Name": "17",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7540,
+            "Order": 18,
+            "Deadline": "2026-12-30T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-28T09:00:00",
+            "Name": "18",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      },
+      {
+        "Id": 487,
+        "Order": 3,
+        "Type": 2,
+        "MarketRounds": [
+          {
+            "Id": 7541,
+            "Order": 19,
+            "Deadline": "2027-01-02T15:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-01T09:00:00",
+            "Name": "19",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7542,
+            "Order": 20,
+            "Deadline": "2027-01-06T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-05T09:00:00",
+            "Name": "20",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7543,
+            "Order": 21,
+            "Deadline": "2027-01-15T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-08T08:00:00",
+            "Name": "21",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7544,
+            "Order": 22,
+            "Deadline": "2027-01-22T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-18T08:00:00",
+            "Name": "22",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7545,
+            "Order": 23,
+            "Deadline": "2027-01-29T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-25T08:00:00",
+            "Name": "23",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      },
+      {
+        "Id": 488,
+        "Order": 4,
+        "Type": 3,
+        "MarketRounds": [
+          {
+            "Id": 7546,
+            "Order": 24,
+            "Deadline": "2027-02-05T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-01T08:00:00",
+            "Name": "24",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7547,
+            "Order": 25,
+            "Deadline": "2027-02-10T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-08T08:00:00",
+            "Name": "25",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7548,
+            "Order": 26,
+            "Deadline": "2027-02-19T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-15T08:00:00",
+            "Name": "26",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7549,
+            "Order": 27,
+            "Deadline": "2027-02-26T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-22T08:00:00",
+            "Name": "27",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7550,
+            "Order": 28,
+            "Deadline": "2027-03-03T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-01T08:00:00",
+            "Name": "28",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7551,
+            "Order": 29,
+            "Deadline": "2027-03-12T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-08T08:00:00",
+            "Name": "29",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7552,
+            "Order": 30,
+            "Deadline": "2027-03-19T20:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-15T08:00:00",
+            "Name": "30",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7553,
+            "Order": 31,
+            "Deadline": "2027-04-09T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-22T08:00:00",
+            "Name": "31",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7554,
+            "Order": 32,
+            "Deadline": "2027-04-16T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-12T08:00:00",
+            "Name": "32",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7555,
+            "Order": 33,
+            "Deadline": "2027-04-23T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-19T08:00:00",
+            "Name": "33",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7556,
+            "Order": 34,
+            "Deadline": "2027-04-30T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-26T08:00:00",
+            "Name": "34",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7557,
+            "Order": 35,
+            "Deadline": "2027-05-07T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-05-03T08:00:00",
+            "Name": "35",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7558,
+            "Order": 36,
+            "Deadline": "2027-05-14T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-05-10T08:00:00",
+            "Name": "36",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7559,
+            "Order": 37,
+            "Deadline": "2027-05-21T19:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-05-17T08:00:00",
+            "Name": "37",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7560,
+            "Order": 38,
+            "Deadline": "2027-05-30T15:00:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-05-24T08:00:00",
+            "Name": "38",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      }
+    ],
+    "MarketRounds": [
+      {
+        "Id": 7523,
+        "Order": 1,
+        "Deadline": "2026-08-21T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-08-17T08:00:00",
+        "Name": "1",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7524,
+        "Order": 2,
+        "Deadline": "2026-08-28T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-08-24T08:00:00",
+        "Name": "2",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7525,
+        "Order": 3,
+        "Deadline": "2026-09-04T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-08-31T08:00:00",
+        "Name": "3",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7526,
+        "Order": 4,
+        "Deadline": "2026-09-11T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-09-07T08:00:00",
+        "Name": "4",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7527,
+        "Order": 5,
+        "Deadline": "2026-09-18T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-09-14T08:00:00",
+        "Name": "5",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7528,
+        "Order": 6,
+        "Deadline": "2026-10-09T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-09-21T08:00:00",
+        "Name": "6",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7529,
+        "Order": 7,
+        "Deadline": "2026-10-16T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-10-12T08:00:00",
+        "Name": "7",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7530,
+        "Order": 8,
+        "Deadline": "2026-10-23T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-10-19T08:00:00",
+        "Name": "8",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7531,
+        "Order": 9,
+        "Deadline": "2026-10-30T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-10-26T08:00:00",
+        "Name": "9",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7532,
+        "Order": 10,
+        "Deadline": "2026-11-06T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-02T09:00:00",
+        "Name": "10",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7533,
+        "Order": 11,
+        "Deadline": "2026-11-20T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-09T09:00:00",
+        "Name": "11",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7534,
+        "Order": 12,
+        "Deadline": "2026-11-27T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-23T09:00:00",
+        "Name": "12",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7535,
+        "Order": 13,
+        "Deadline": "2026-12-02T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-30T09:00:00",
+        "Name": "13",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7536,
+        "Order": 14,
+        "Deadline": "2026-12-05T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-05T09:00:00",
+        "Name": "14",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7537,
+        "Order": 15,
+        "Deadline": "2026-12-11T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-07T09:00:00",
+        "Name": "15",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7538,
+        "Order": 16,
+        "Deadline": "2026-12-18T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-14T09:00:00",
+        "Name": "16",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7539,
+        "Order": 17,
+        "Deadline": "2026-12-26T12:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-21T09:00:00",
+        "Name": "17",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7540,
+        "Order": 18,
+        "Deadline": "2026-12-30T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-28T09:00:00",
+        "Name": "18",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7541,
+        "Order": 19,
+        "Deadline": "2027-01-02T15:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-01T09:00:00",
+        "Name": "19",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7542,
+        "Order": 20,
+        "Deadline": "2027-01-06T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-05T09:00:00",
+        "Name": "20",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7543,
+        "Order": 21,
+        "Deadline": "2027-01-15T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-08T08:00:00",
+        "Name": "21",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7544,
+        "Order": 22,
+        "Deadline": "2027-01-22T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-18T08:00:00",
+        "Name": "22",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7545,
+        "Order": 23,
+        "Deadline": "2027-01-29T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-25T08:00:00",
+        "Name": "23",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7546,
+        "Order": 24,
+        "Deadline": "2027-02-05T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-01T08:00:00",
+        "Name": "24",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7547,
+        "Order": 25,
+        "Deadline": "2027-02-10T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-08T08:00:00",
+        "Name": "25",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7548,
+        "Order": 26,
+        "Deadline": "2027-02-19T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-15T08:00:00",
+        "Name": "26",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7549,
+        "Order": 27,
+        "Deadline": "2027-02-26T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-22T08:00:00",
+        "Name": "27",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7550,
+        "Order": 28,
+        "Deadline": "2027-03-03T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-01T08:00:00",
+        "Name": "28",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7551,
+        "Order": 29,
+        "Deadline": "2027-03-12T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-08T08:00:00",
+        "Name": "29",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7552,
+        "Order": 30,
+        "Deadline": "2027-03-19T20:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-15T08:00:00",
+        "Name": "30",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7553,
+        "Order": 31,
+        "Deadline": "2027-04-09T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-22T08:00:00",
+        "Name": "31",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7554,
+        "Order": 32,
+        "Deadline": "2027-04-16T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-12T08:00:00",
+        "Name": "32",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7555,
+        "Order": 33,
+        "Deadline": "2027-04-23T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-19T08:00:00",
+        "Name": "33",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7556,
+        "Order": 34,
+        "Deadline": "2027-04-30T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-26T08:00:00",
+        "Name": "34",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7557,
+        "Order": 35,
+        "Deadline": "2027-05-07T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-05-03T08:00:00",
+        "Name": "35",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7558,
+        "Order": 36,
+        "Deadline": "2027-05-14T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-05-10T08:00:00",
+        "Name": "36",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7559,
+        "Order": 37,
+        "Deadline": "2027-05-21T19:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-05-17T08:00:00",
+        "Name": "37",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7560,
+        "Order": 38,
+        "Deadline": "2027-05-30T15:00:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-05-24T08:00:00",
+        "Name": "38",
+        "DefinitiveCalculationDate": null
+      }
+    ]
+  },
+  "gamePhase": [
+    {
+      "id": 1140,
+      "marketId": 314,
+      "amountOfGoalKeepers": 2,
+      "amountOfDefenders": 5,
+      "amountOfMidfielders": 6,
+      "amountOfForwards": 5,
+      "maxPlayersPerTeam": 4,
+      "transferBudget": 50000000,
+      "teamSelectionOpensAt": "2026-12-31T08:00:00+00:00",
+      "teamSelectionDeadline": "2027-02-05T20:00:00+00:00",
+      "goldenSubstituteAmount": 2,
+      "goldenSubstituteBonusPoints": 250,
+      "marketPhaseIds": [
+        488,
+        487
+      ]
+    },
+    {
+      "id": 1139,
+      "marketId": 314,
+      "amountOfGoalKeepers": 2,
+      "amountOfDefenders": 5,
+      "amountOfMidfielders": 6,
+      "amountOfForwards": 5,
+      "maxPlayersPerTeam": 4,
+      "transferBudget": 47000000,
+      "teamSelectionOpensAt": "2026-07-29T08:00:00+00:00",
+      "teamSelectionDeadline": "2026-09-18T19:00:00+00:00",
+      "goldenSubstituteAmount": 2,
+      "goldenSubstituteBonusPoints": 250,
+      "marketPhaseIds": [
+        486,
+        485
+      ]
+    }
+  ],
+  "currentPhase": {
+    "id": 1139,
+    "marketId": 314,
+    "amountOfGoalKeepers": 2,
+    "amountOfDefenders": 5,
+    "amountOfMidfielders": 6,
+    "amountOfForwards": 5,
+    "maxPlayersPerTeam": 4,
+    "transferBudget": 47000000,
+    "teamSelectionOpensAt": "2026-07-29T08:00:00+00:00",
+    "teamSelectionDeadline": "2026-09-18T19:00:00+00:00",
+    "goldenSubstituteAmount": 2,
+    "goldenSubstituteBonusPoints": 250,
+    "marketPhaseIds": [
+      486,
+      485
+    ]
+  },
+  "players": [
+    {
+      "id": 57314,
+      "teamPlayerId": 675998,
+      "playerId": 22413,
+      "playerPosition": 1,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57315,
+      "teamPlayerId": 1186360,
+      "playerId": 4170,
+      "playerPosition": 1,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57316,
+      "teamPlayerId": 360634,
+      "playerId": 9211,
+      "playerPosition": 1,
+      "teamId": 143,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57317,
+      "teamPlayerId": 880309,
+      "playerId": 30511,
+      "playerPosition": 1,
+      "teamId": 143,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57318,
+      "teamPlayerId": 1199911,
+      "playerId": 43576,
+      "playerPosition": 1,
+      "teamId": 143,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57319,
+      "teamPlayerId": 988642,
+      "playerId": 50817,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57320,
+      "teamPlayerId": 355281,
+      "playerId": 18828,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57321,
+      "teamPlayerId": 825914,
+      "playerId": 13856,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57322,
+      "teamPlayerId": 875273,
+      "playerId": 42906,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57323,
+      "teamPlayerId": 875262,
+      "playerId": 50624,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57324,
+      "teamPlayerId": 872914,
+      "playerId": 56974,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57325,
+      "teamPlayerId": 224472,
+      "playerId": 12279,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57326,
+      "teamPlayerId": 558320,
+      "playerId": 26871,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57327,
+      "teamPlayerId": 825919,
+      "playerId": 19852,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57328,
+      "teamPlayerId": 8780,
+      "playerId": 1110,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57329,
+      "teamPlayerId": 818697,
+      "playerId": 38431,
+      "playerPosition": 2,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57330,
+      "teamPlayerId": 988643,
+      "playerId": 50637,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57331,
+      "teamPlayerId": 1203453,
+      "playerId": 48014,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57332,
+      "teamPlayerId": 252042,
+      "playerId": 12490,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 5000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57333,
+      "teamPlayerId": 656369,
+      "playerId": 43845,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57334,
+      "teamPlayerId": 651426,
+      "playerId": 18511,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57335,
+      "teamPlayerId": 1160550,
+      "playerId": 44599,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57336,
+      "teamPlayerId": 1186134,
+      "playerId": 6309,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57337,
+      "teamPlayerId": 836488,
+      "playerId": 36873,
+      "playerPosition": 4,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57338,
+      "teamPlayerId": 863345,
+      "playerId": 18417,
+      "playerPosition": 8,
+      "teamId": 143,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57339,
+      "teamPlayerId": 656355,
+      "playerId": 29327,
+      "playerPosition": 8,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57340,
+      "teamPlayerId": 874268,
+      "playerId": 34735,
+      "playerPosition": 8,
+      "teamId": 143,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57341,
+      "teamPlayerId": 988858,
+      "playerId": 3996,
+      "playerPosition": 8,
+      "teamId": 143,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57342,
+      "teamPlayerId": 877927,
+      "playerId": 33441,
+      "playerPosition": 8,
+      "teamId": 143,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57343,
+      "teamPlayerId": 817767,
+      "playerId": 23554,
+      "playerPosition": 8,
+      "teamId": 143,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57344,
+      "teamPlayerId": 822972,
+      "playerId": 32951,
+      "playerPosition": 1,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57345,
+      "teamPlayerId": 1035731,
+      "playerId": 38447,
+      "playerPosition": 1,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57346,
+      "teamPlayerId": 660071,
+      "playerId": 32787,
+      "playerPosition": 1,
+      "teamId": 211,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57347,
+      "teamPlayerId": 863157,
+      "playerId": 38509,
+      "playerPosition": 1,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57348,
+      "teamPlayerId": 851621,
+      "playerId": 50698,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57349,
+      "teamPlayerId": 789535,
+      "playerId": 4014,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57350,
+      "teamPlayerId": 1069138,
+      "playerId": 54237,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57351,
+      "teamPlayerId": 608261,
+      "playerId": 23516,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57352,
+      "teamPlayerId": 855102,
+      "playerId": 20179,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57353,
+      "teamPlayerId": 656365,
+      "playerId": 41415,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57354,
+      "teamPlayerId": 1197461,
+      "playerId": 34186,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57355,
+      "teamPlayerId": 575392,
+      "playerId": 25782,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57356,
+      "teamPlayerId": 650575,
+      "playerId": 34202,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57357,
+      "teamPlayerId": 876062,
+      "playerId": 44040,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57358,
+      "teamPlayerId": 224246,
+      "playerId": 28830,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57359,
+      "teamPlayerId": 946540,
+      "playerId": 47983,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57360,
+      "teamPlayerId": 901155,
+      "playerId": 44471,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57361,
+      "teamPlayerId": 1197463,
+      "playerId": 45347,
+      "playerPosition": 2,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57362,
+      "teamPlayerId": 662908,
+      "playerId": 34097,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57363,
+      "teamPlayerId": 863056,
+      "playerId": 33797,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57364,
+      "teamPlayerId": 613686,
+      "playerId": 39070,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57365,
+      "teamPlayerId": 664243,
+      "playerId": 37150,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57366,
+      "teamPlayerId": 675999,
+      "playerId": 30386,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57367,
+      "teamPlayerId": 955630,
+      "playerId": 48999,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57368,
+      "teamPlayerId": 1203203,
+      "playerId": 50521,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 4500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57369,
+      "teamPlayerId": 870588,
+      "playerId": 38376,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57370,
+      "teamPlayerId": 862667,
+      "playerId": 32618,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57371,
+      "teamPlayerId": 933732,
+      "playerId": 32007,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57372,
+      "teamPlayerId": 871257,
+      "playerId": 54515,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57373,
+      "teamPlayerId": 1069140,
+      "playerId": 33488,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57374,
+      "teamPlayerId": 881615,
+      "playerId": 45569,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57375,
+      "teamPlayerId": 1196596,
+      "playerId": 37248,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57376,
+      "teamPlayerId": 610290,
+      "playerId": 24430,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57377,
+      "teamPlayerId": 825774,
+      "playerId": 17840,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57378,
+      "teamPlayerId": 870282,
+      "playerId": 30166,
+      "playerPosition": 8,
+      "teamId": 211,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57379,
+      "teamPlayerId": 60077,
+      "playerId": 10092,
+      "playerPosition": 1,
+      "teamId": 289,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57380,
+      "teamPlayerId": 938794,
+      "playerId": 29687,
+      "playerPosition": 1,
+      "teamId": 289,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57381,
+      "teamPlayerId": 863867,
+      "playerId": 22285,
+      "playerPosition": 1,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57382,
+      "teamPlayerId": 875268,
+      "playerId": 4221,
+      "playerPosition": 1,
+      "teamId": 289,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57383,
+      "teamPlayerId": 713287,
+      "playerId": 34425,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57384,
+      "teamPlayerId": 863873,
+      "playerId": 29303,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57385,
+      "teamPlayerId": 12255,
+      "playerId": 4070,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57386,
+      "teamPlayerId": 930593,
+      "playerId": 45437,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57387,
+      "teamPlayerId": 864894,
+      "playerId": 37942,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57388,
+      "teamPlayerId": 878406,
+      "playerId": 53234,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57389,
+      "teamPlayerId": 875265,
+      "playerId": 28835,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57390,
+      "teamPlayerId": 983551,
+      "playerId": 2564,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57391,
+      "teamPlayerId": 40915,
+      "playerId": 513,
+      "playerPosition": 2,
+      "teamId": 289,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57392,
+      "teamPlayerId": 869035,
+      "playerId": 40011,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57393,
+      "teamPlayerId": 1203205,
+      "playerId": 24192,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57394,
+      "teamPlayerId": 664315,
+      "playerId": 20674,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57395,
+      "teamPlayerId": 676223,
+      "playerId": 24177,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57396,
+      "teamPlayerId": 44706,
+      "playerId": 20334,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57397,
+      "teamPlayerId": 639691,
+      "playerId": 30176,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57398,
+      "teamPlayerId": 878276,
+      "playerId": 49200,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57399,
+      "teamPlayerId": 648223,
+      "playerId": 15884,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57400,
+      "teamPlayerId": 864624,
+      "playerId": 30067,
+      "playerPosition": 4,
+      "teamId": 289,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57401,
+      "teamPlayerId": 835435,
+      "playerId": 14179,
+      "playerPosition": 8,
+      "teamId": 289,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57402,
+      "teamPlayerId": 874861,
+      "playerId": 32840,
+      "playerPosition": 8,
+      "teamId": 289,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57403,
+      "teamPlayerId": 606040,
+      "playerId": 20135,
+      "playerPosition": 8,
+      "teamId": 289,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57404,
+      "teamPlayerId": 880550,
+      "playerId": 10618,
+      "playerPosition": 8,
+      "teamId": 289,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57405,
+      "teamPlayerId": 930400,
+      "playerId": 53864,
+      "playerPosition": 8,
+      "teamId": 289,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57406,
+      "teamPlayerId": 878261,
+      "playerId": 53880,
+      "playerPosition": 8,
+      "teamId": 289,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57407,
+      "teamPlayerId": 863029,
+      "playerId": 21685,
+      "playerPosition": 1,
+      "teamId": 295,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57408,
+      "teamPlayerId": 880654,
+      "playerId": 12583,
+      "playerPosition": 1,
+      "teamId": 295,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57409,
+      "teamPlayerId": 875482,
+      "playerId": 32958,
+      "playerPosition": 1,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57410,
+      "teamPlayerId": 862860,
+      "playerId": 34109,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57411,
+      "teamPlayerId": 891538,
+      "playerId": 50159,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57412,
+      "teamPlayerId": 313336,
+      "playerId": 9132,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57413,
+      "teamPlayerId": 893644,
+      "playerId": 25280,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57414,
+      "teamPlayerId": 660072,
+      "playerId": 28612,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57415,
+      "teamPlayerId": 986928,
+      "playerId": 49239,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57416,
+      "teamPlayerId": 986926,
+      "playerId": 29258,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57417,
+      "teamPlayerId": 855106,
+      "playerId": 47421,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57418,
+      "teamPlayerId": 608000,
+      "playerId": 40005,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57419,
+      "teamPlayerId": 861486,
+      "playerId": 45489,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 4500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57420,
+      "teamPlayerId": 986925,
+      "playerId": 54043,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57421,
+      "teamPlayerId": 986712,
+      "playerId": 37168,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57422,
+      "teamPlayerId": 949313,
+      "playerId": 34102,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57423,
+      "teamPlayerId": 863061,
+      "playerId": 29307,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57424,
+      "teamPlayerId": 986927,
+      "playerId": 55203,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57425,
+      "teamPlayerId": 1205115,
+      "playerId": 15151,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57426,
+      "teamPlayerId": 856298,
+      "playerId": 36929,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57427,
+      "teamPlayerId": 643058,
+      "playerId": 1659,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57428,
+      "teamPlayerId": 675992,
+      "playerId": 30254,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57429,
+      "teamPlayerId": 985020,
+      "playerId": 32057,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57430,
+      "teamPlayerId": 863059,
+      "playerId": 19107,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57431,
+      "teamPlayerId": 218382,
+      "playerId": 8675,
+      "playerPosition": 4,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57432,
+      "teamPlayerId": 671701,
+      "playerId": 24438,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57433,
+      "teamPlayerId": 986711,
+      "playerId": 4339,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57434,
+      "teamPlayerId": 533116,
+      "playerId": 22464,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 7000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57435,
+      "teamPlayerId": 855191,
+      "playerId": 30064,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57436,
+      "teamPlayerId": 1170539,
+      "playerId": 54211,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57437,
+      "teamPlayerId": 818743,
+      "playerId": 39090,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57438,
+      "teamPlayerId": 890654,
+      "playerId": 40599,
+      "playerPosition": 8,
+      "teamId": 295,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57439,
+      "teamPlayerId": 869879,
+      "playerId": 13063,
+      "playerPosition": 1,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57440,
+      "teamPlayerId": 1194231,
+      "playerId": 34100,
+      "playerPosition": 1,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57441,
+      "teamPlayerId": 663023,
+      "playerId": 34744,
+      "playerPosition": 1,
+      "teamId": 312,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57442,
+      "teamPlayerId": 1194232,
+      "playerId": 44896,
+      "playerPosition": 1,
+      "teamId": 312,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57443,
+      "teamPlayerId": 822928,
+      "playerId": 29316,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57444,
+      "teamPlayerId": 305417,
+      "playerId": 25934,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57445,
+      "teamPlayerId": 880548,
+      "playerId": 36946,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57446,
+      "teamPlayerId": 852403,
+      "playerId": 50076,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57447,
+      "teamPlayerId": 874978,
+      "playerId": 37192,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57448,
+      "teamPlayerId": 554987,
+      "playerId": 26651,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57449,
+      "teamPlayerId": 655619,
+      "playerId": 26422,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57450,
+      "teamPlayerId": 368970,
+      "playerId": 16224,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57451,
+      "teamPlayerId": 879011,
+      "playerId": 57822,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57452,
+      "teamPlayerId": 879293,
+      "playerId": 34135,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57453,
+      "teamPlayerId": 833890,
+      "playerId": 10035,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57454,
+      "teamPlayerId": 871662,
+      "playerId": 7429,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57455,
+      "teamPlayerId": 962360,
+      "playerId": 43615,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57456,
+      "teamPlayerId": 377011,
+      "playerId": 2737,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57457,
+      "teamPlayerId": 655871,
+      "playerId": 15252,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57458,
+      "teamPlayerId": 962238,
+      "playerId": 28053,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57459,
+      "teamPlayerId": 871266,
+      "playerId": 24955,
+      "playerPosition": 4,
+      "teamId": 312,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57460,
+      "teamPlayerId": 875192,
+      "playerId": 19948,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 4500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57461,
+      "teamPlayerId": 833459,
+      "playerId": 14087,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57462,
+      "teamPlayerId": 554862,
+      "playerId": 13854,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57463,
+      "teamPlayerId": 873581,
+      "playerId": 29047,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57464,
+      "teamPlayerId": 216592,
+      "playerId": 27776,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57465,
+      "teamPlayerId": 962237,
+      "playerId": 18212,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57466,
+      "teamPlayerId": 656180,
+      "playerId": 24451,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57467,
+      "teamPlayerId": 1199056,
+      "playerId": 30274,
+      "playerPosition": 8,
+      "teamId": 312,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57468,
+      "teamPlayerId": 386905,
+      "playerId": 18462,
+      "playerPosition": 1,
+      "teamId": 406,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57469,
+      "teamPlayerId": 853195,
+      "playerId": 46946,
+      "playerPosition": 1,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57470,
+      "teamPlayerId": 643168,
+      "playerId": 43604,
+      "playerPosition": 1,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57471,
+      "teamPlayerId": 856212,
+      "playerId": 15113,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57472,
+      "teamPlayerId": 9778,
+      "playerId": 4315,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57473,
+      "teamPlayerId": 1197554,
+      "playerId": 47688,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57474,
+      "teamPlayerId": 613373,
+      "playerId": 19714,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57475,
+      "teamPlayerId": 923338,
+      "playerId": 9432,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57476,
+      "teamPlayerId": 372557,
+      "playerId": 24289,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57477,
+      "teamPlayerId": 924924,
+      "playerId": 29082,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57478,
+      "teamPlayerId": 899887,
+      "playerId": 58882,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57479,
+      "teamPlayerId": 820265,
+      "playerId": 39721,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57480,
+      "teamPlayerId": 1197549,
+      "playerId": 56628,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57481,
+      "teamPlayerId": 651546,
+      "playerId": 46709,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57482,
+      "teamPlayerId": 660484,
+      "playerId": 29224,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57483,
+      "teamPlayerId": 1197555,
+      "playerId": 24322,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57484,
+      "teamPlayerId": 403344,
+      "playerId": 16762,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57485,
+      "teamPlayerId": 821382,
+      "playerId": 44957,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57486,
+      "teamPlayerId": 1204980,
+      "playerId": 42103,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57487,
+      "teamPlayerId": 891702,
+      "playerId": 25701,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57488,
+      "teamPlayerId": 808801,
+      "playerId": 37627,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57489,
+      "teamPlayerId": 1204982,
+      "playerId": 20363,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57490,
+      "teamPlayerId": 643222,
+      "playerId": 21692,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57491,
+      "teamPlayerId": 828539,
+      "playerId": 39850,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57492,
+      "teamPlayerId": 556965,
+      "playerId": 34634,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57493,
+      "teamPlayerId": 879691,
+      "playerId": 32728,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57494,
+      "teamPlayerId": 1064309,
+      "playerId": 24402,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57495,
+      "teamPlayerId": 871910,
+      "playerId": 23620,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57496,
+      "teamPlayerId": 1197553,
+      "playerId": 50892,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57497,
+      "teamPlayerId": 542428,
+      "playerId": 19042,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57498,
+      "teamPlayerId": 1197548,
+      "playerId": 33157,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57499,
+      "teamPlayerId": 825076,
+      "playerId": 1872,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57500,
+      "teamPlayerId": 1197551,
+      "playerId": 15897,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57501,
+      "teamPlayerId": 856279,
+      "playerId": 36919,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57502,
+      "teamPlayerId": 1197552,
+      "playerId": 53972,
+      "playerPosition": 8,
+      "teamId": 406,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57503,
+      "teamPlayerId": 889281,
+      "playerId": 1491,
+      "playerPosition": 1,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57504,
+      "teamPlayerId": 872696,
+      "playerId": 26131,
+      "playerPosition": 1,
+      "teamId": 494,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57505,
+      "teamPlayerId": 1026813,
+      "playerId": 30159,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57506,
+      "teamPlayerId": 854098,
+      "playerId": 53982,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57507,
+      "teamPlayerId": 1027075,
+      "playerId": 40398,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57508,
+      "teamPlayerId": 878203,
+      "playerId": 39827,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57509,
+      "teamPlayerId": 706951,
+      "playerId": 38568,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57510,
+      "teamPlayerId": 881673,
+      "playerId": 54048,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57511,
+      "teamPlayerId": 7854,
+      "playerId": 4203,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57512,
+      "teamPlayerId": 854094,
+      "playerId": 53981,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57513,
+      "teamPlayerId": 869417,
+      "playerId": 31515,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57514,
+      "teamPlayerId": 676034,
+      "playerId": 24471,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57515,
+      "teamPlayerId": 533136,
+      "playerId": 5534,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57516,
+      "teamPlayerId": 19422,
+      "playerId": 12298,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57517,
+      "teamPlayerId": 818283,
+      "playerId": 15178,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57518,
+      "teamPlayerId": 693456,
+      "playerId": 48919,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57519,
+      "teamPlayerId": 565413,
+      "playerId": 41319,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57520,
+      "teamPlayerId": 894388,
+      "playerId": 45048,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57521,
+      "teamPlayerId": 878657,
+      "playerId": 35983,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57522,
+      "teamPlayerId": 818286,
+      "playerId": 19623,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57523,
+      "teamPlayerId": 878532,
+      "playerId": 37651,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57524,
+      "teamPlayerId": 826606,
+      "playerId": 32672,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57525,
+      "teamPlayerId": 1027869,
+      "playerId": 34276,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57526,
+      "teamPlayerId": 875331,
+      "playerId": 45339,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57527,
+      "teamPlayerId": 898124,
+      "playerId": 58834,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57528,
+      "teamPlayerId": 1187389,
+      "playerId": 43879,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57529,
+      "teamPlayerId": 713781,
+      "playerId": 10166,
+      "playerPosition": 8,
+      "teamId": 494,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57530,
+      "teamPlayerId": 879322,
+      "playerId": 29364,
+      "playerPosition": 1,
+      "teamId": 497,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57531,
+      "teamPlayerId": 23700,
+      "playerId": 4531,
+      "playerPosition": 1,
+      "teamId": 497,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57532,
+      "teamPlayerId": 872564,
+      "playerId": 23996,
+      "playerPosition": 1,
+      "teamId": 497,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57533,
+      "teamPlayerId": 875501,
+      "playerId": 50461,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57534,
+      "teamPlayerId": 656294,
+      "playerId": 30362,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57535,
+      "teamPlayerId": 24327,
+      "playerId": 14024,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57536,
+      "teamPlayerId": 390806,
+      "playerId": 19208,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57537,
+      "teamPlayerId": 822971,
+      "playerId": 32373,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57538,
+      "teamPlayerId": 393148,
+      "playerId": 23467,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57539,
+      "teamPlayerId": 545489,
+      "playerId": 12291,
+      "playerPosition": 2,
+      "teamId": 497,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57540,
+      "teamPlayerId": 856293,
+      "playerId": 44625,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57541,
+      "teamPlayerId": 922586,
+      "playerId": 53095,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57542,
+      "teamPlayerId": 877352,
+      "playerId": 32633,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57543,
+      "teamPlayerId": 879314,
+      "playerId": 38473,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57544,
+      "teamPlayerId": 576453,
+      "playerId": 23052,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57545,
+      "teamPlayerId": 1196779,
+      "playerId": 61264,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57546,
+      "teamPlayerId": 818292,
+      "playerId": 42407,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57547,
+      "teamPlayerId": 561786,
+      "playerId": 20462,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57548,
+      "teamPlayerId": 880671,
+      "playerId": 42065,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57549,
+      "teamPlayerId": 871655,
+      "playerId": 46912,
+      "playerPosition": 8,
+      "teamId": 497,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57550,
+      "teamPlayerId": 673858,
+      "playerId": 47847,
+      "playerPosition": 8,
+      "teamId": 497,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57551,
+      "teamPlayerId": 901250,
+      "playerId": 50848,
+      "playerPosition": 8,
+      "teamId": 497,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57552,
+      "teamPlayerId": 818471,
+      "playerId": 34096,
+      "playerPosition": 8,
+      "teamId": 497,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57553,
+      "teamPlayerId": 864796,
+      "playerId": 10586,
+      "playerPosition": 1,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57554,
+      "teamPlayerId": 675269,
+      "playerId": 9101,
+      "playerPosition": 1,
+      "teamId": 498,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57555,
+      "teamPlayerId": 363235,
+      "playerId": 9148,
+      "playerPosition": 1,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57556,
+      "teamPlayerId": 1100972,
+      "playerId": 42100,
+      "playerPosition": 1,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57557,
+      "teamPlayerId": 1100974,
+      "playerId": 37999,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57558,
+      "teamPlayerId": 880308,
+      "playerId": 51274,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57559,
+      "teamPlayerId": 348496,
+      "playerId": 4494,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57560,
+      "teamPlayerId": 875277,
+      "playerId": 53506,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57561,
+      "teamPlayerId": 842409,
+      "playerId": 32074,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-31T11:48:50.4512022+00:00"
+    },
+    {
+      "id": 57562,
+      "teamPlayerId": 1158519,
+      "playerId": 23642,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57563,
+      "teamPlayerId": 292177,
+      "playerId": 30156,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57564,
+      "teamPlayerId": 712181,
+      "playerId": 30431,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57565,
+      "teamPlayerId": 814000,
+      "playerId": 43820,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57566,
+      "teamPlayerId": 561789,
+      "playerId": 23807,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57567,
+      "teamPlayerId": 872015,
+      "playerId": 9895,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57568,
+      "teamPlayerId": 851162,
+      "playerId": 52774,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57569,
+      "teamPlayerId": 557348,
+      "playerId": 34680,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57570,
+      "teamPlayerId": 1027340,
+      "playerId": 47671,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57571,
+      "teamPlayerId": 383116,
+      "playerId": 18933,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57572,
+      "teamPlayerId": 814001,
+      "playerId": 16897,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57573,
+      "teamPlayerId": 656288,
+      "playerId": 18535,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57574,
+      "teamPlayerId": 713784,
+      "playerId": 50517,
+      "playerPosition": 4,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57575,
+      "teamPlayerId": 1027074,
+      "playerId": 54050,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57576,
+      "teamPlayerId": 889276,
+      "playerId": 32694,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57577,
+      "teamPlayerId": 348124,
+      "playerId": 14817,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57578,
+      "teamPlayerId": 843227,
+      "playerId": 18211,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57579,
+      "teamPlayerId": 879695,
+      "playerId": 32865,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57580,
+      "teamPlayerId": 1026034,
+      "playerId": 34128,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57581,
+      "teamPlayerId": 825641,
+      "playerId": 20657,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57582,
+      "teamPlayerId": 901176,
+      "playerId": 23744,
+      "playerPosition": 8,
+      "teamId": 498,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57583,
+      "teamPlayerId": 901117,
+      "playerId": 33920,
+      "playerPosition": 1,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57584,
+      "teamPlayerId": 1024480,
+      "playerId": 57403,
+      "playerPosition": 1,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57585,
+      "teamPlayerId": 875663,
+      "playerId": 29561,
+      "playerPosition": 1,
+      "teamId": 501,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57586,
+      "teamPlayerId": 878206,
+      "playerId": 27678,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57587,
+      "teamPlayerId": 1024738,
+      "playerId": 34573,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57588,
+      "teamPlayerId": 923304,
+      "playerId": 3087,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57589,
+      "teamPlayerId": 875328,
+      "playerId": 24937,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57590,
+      "teamPlayerId": 1024739,
+      "playerId": 33332,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57591,
+      "teamPlayerId": 875369,
+      "playerId": 28563,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57592,
+      "teamPlayerId": 1185870,
+      "playerId": 3125,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57593,
+      "teamPlayerId": 878424,
+      "playerId": 22356,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57594,
+      "teamPlayerId": 863421,
+      "playerId": 55469,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57595,
+      "teamPlayerId": 871598,
+      "playerId": 26650,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57596,
+      "teamPlayerId": 1024737,
+      "playerId": 33024,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57597,
+      "teamPlayerId": 868775,
+      "playerId": 56169,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57598,
+      "teamPlayerId": 1025250,
+      "playerId": 15853,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57599,
+      "teamPlayerId": 871298,
+      "playerId": 36914,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57600,
+      "teamPlayerId": 854644,
+      "playerId": 34784,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57601,
+      "teamPlayerId": 713398,
+      "playerId": 36967,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57602,
+      "teamPlayerId": 863437,
+      "playerId": 55476,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57603,
+      "teamPlayerId": 871278,
+      "playerId": 38433,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57604,
+      "teamPlayerId": 875565,
+      "playerId": 1061,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57605,
+      "teamPlayerId": 863442,
+      "playerId": 44838,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57606,
+      "teamPlayerId": 1025509,
+      "playerId": 39027,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57607,
+      "teamPlayerId": 901210,
+      "playerId": 38962,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57608,
+      "teamPlayerId": 880241,
+      "playerId": 26269,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57609,
+      "teamPlayerId": 875371,
+      "playerId": 20889,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57610,
+      "teamPlayerId": 1025774,
+      "playerId": 57400,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57611,
+      "teamPlayerId": 904028,
+      "playerId": 58977,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57612,
+      "teamPlayerId": 871659,
+      "playerId": 45043,
+      "playerPosition": 8,
+      "teamId": 501,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57613,
+      "teamPlayerId": 872549,
+      "playerId": 444,
+      "playerPosition": 1,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57614,
+      "teamPlayerId": 348499,
+      "playerId": 4135,
+      "playerPosition": 1,
+      "teamId": 502,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57615,
+      "teamPlayerId": 875287,
+      "playerId": 37008,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57616,
+      "teamPlayerId": 355321,
+      "playerId": 34112,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 3000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57617,
+      "teamPlayerId": 396957,
+      "playerId": 1166,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57618,
+      "teamPlayerId": 289747,
+      "playerId": 30215,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57619,
+      "teamPlayerId": 880549,
+      "playerId": 3034,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57620,
+      "teamPlayerId": 805000,
+      "playerId": 29206,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57621,
+      "teamPlayerId": 289748,
+      "playerId": 4435,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57622,
+      "teamPlayerId": 945175,
+      "playerId": 47463,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57623,
+      "teamPlayerId": 655061,
+      "playerId": 19218,
+      "playerPosition": 2,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57624,
+      "teamPlayerId": 818293,
+      "playerId": 1067,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57625,
+      "teamPlayerId": 875422,
+      "playerId": 18585,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57626,
+      "teamPlayerId": 1193837,
+      "playerId": 44746,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57627,
+      "teamPlayerId": 945054,
+      "playerId": 38532,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57628,
+      "teamPlayerId": 656209,
+      "playerId": 18294,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57629,
+      "teamPlayerId": 1189248,
+      "playerId": 52580,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57630,
+      "teamPlayerId": 289751,
+      "playerId": 9409,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57631,
+      "teamPlayerId": 819771,
+      "playerId": 36346,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57632,
+      "teamPlayerId": 898411,
+      "playerId": 9522,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57633,
+      "teamPlayerId": 894357,
+      "playerId": 58771,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57634,
+      "teamPlayerId": 895929,
+      "playerId": 12085,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57635,
+      "teamPlayerId": 1200017,
+      "playerId": 38405,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57636,
+      "teamPlayerId": 944762,
+      "playerId": 31990,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57637,
+      "teamPlayerId": 891514,
+      "playerId": 54617,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57638,
+      "teamPlayerId": 348511,
+      "playerId": 33781,
+      "playerPosition": 8,
+      "teamId": 502,
+      "price": 5000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57639,
+      "teamPlayerId": 304003,
+      "playerId": 32042,
+      "playerPosition": 1,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57640,
+      "teamPlayerId": 924589,
+      "playerId": 59579,
+      "playerPosition": 1,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57641,
+      "teamPlayerId": 534247,
+      "playerId": 12303,
+      "playerPosition": 1,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57642,
+      "teamPlayerId": 534303,
+      "playerId": 26274,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57643,
+      "teamPlayerId": 403493,
+      "playerId": 23753,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57644,
+      "teamPlayerId": 670172,
+      "playerId": 37642,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57645,
+      "teamPlayerId": 660526,
+      "playerId": 34280,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57646,
+      "teamPlayerId": 875275,
+      "playerId": 49185,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57647,
+      "teamPlayerId": 63499,
+      "playerId": 1579,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57648,
+      "teamPlayerId": 878078,
+      "playerId": 30002,
+      "playerPosition": 2,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57649,
+      "teamPlayerId": 1203470,
+      "playerId": 53741,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57650,
+      "teamPlayerId": 402530,
+      "playerId": 29643,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57651,
+      "teamPlayerId": 656220,
+      "playerId": 11705,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57652,
+      "teamPlayerId": 698436,
+      "playerId": 44839,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57653,
+      "teamPlayerId": 878417,
+      "playerId": 33092,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57654,
+      "teamPlayerId": 1096018,
+      "playerId": 50915,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57655,
+      "teamPlayerId": 375873,
+      "playerId": 18215,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57656,
+      "teamPlayerId": 657492,
+      "playerId": 15156,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57657,
+      "teamPlayerId": 872252,
+      "playerId": 33944,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57658,
+      "teamPlayerId": 376072,
+      "playerId": 4247,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57659,
+      "teamPlayerId": 826177,
+      "playerId": 34383,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57660,
+      "teamPlayerId": 1042853,
+      "playerId": 50815,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57661,
+      "teamPlayerId": 880553,
+      "playerId": 34769,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57662,
+      "teamPlayerId": 879723,
+      "playerId": 30009,
+      "playerPosition": 8,
+      "teamId": 503,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57663,
+      "teamPlayerId": 1195806,
+      "playerId": 4351,
+      "playerPosition": 1,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57664,
+      "teamPlayerId": 938463,
+      "playerId": 59869,
+      "playerPosition": 1,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57665,
+      "teamPlayerId": 941371,
+      "playerId": 59947,
+      "playerPosition": 1,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57666,
+      "teamPlayerId": 941580,
+      "playerId": 40155,
+      "playerPosition": 1,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57667,
+      "teamPlayerId": 869456,
+      "playerId": 34131,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57668,
+      "teamPlayerId": 941402,
+      "playerId": 59950,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57669,
+      "teamPlayerId": 930599,
+      "playerId": 34257,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57670,
+      "teamPlayerId": 930594,
+      "playerId": 15721,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57671,
+      "teamPlayerId": 941400,
+      "playerId": 24004,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57672,
+      "teamPlayerId": 941401,
+      "playerId": 59949,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57673,
+      "teamPlayerId": 941587,
+      "playerId": 59957,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57674,
+      "teamPlayerId": 941625,
+      "playerId": 2412,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57675,
+      "teamPlayerId": 1199359,
+      "playerId": 4097,
+      "playerPosition": 2,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57676,
+      "teamPlayerId": 933813,
+      "playerId": 48835,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57677,
+      "teamPlayerId": 941630,
+      "playerId": 16832,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57678,
+      "teamPlayerId": 897476,
+      "playerId": 9508,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57679,
+      "teamPlayerId": 881657,
+      "playerId": 39147,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57680,
+      "teamPlayerId": 941446,
+      "playerId": 34197,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57681,
+      "teamPlayerId": 1203572,
+      "playerId": 36669,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57682,
+      "teamPlayerId": 941365,
+      "playerId": 12822,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57683,
+      "teamPlayerId": 923337,
+      "playerId": 59562,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57684,
+      "teamPlayerId": 1197054,
+      "playerId": 49329,
+      "playerPosition": 4,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57685,
+      "teamPlayerId": 941403,
+      "playerId": 38574,
+      "playerPosition": 8,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57686,
+      "teamPlayerId": 941528,
+      "playerId": 2705,
+      "playerPosition": 8,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57687,
+      "teamPlayerId": 941404,
+      "playerId": 33896,
+      "playerPosition": 8,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57688,
+      "teamPlayerId": 941366,
+      "playerId": 38354,
+      "playerPosition": 8,
+      "teamId": 553,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57689,
+      "teamPlayerId": 941532,
+      "playerId": 14093,
+      "playerPosition": 8,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57690,
+      "teamPlayerId": 941447,
+      "playerId": 26583,
+      "playerPosition": 8,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57691,
+      "teamPlayerId": 633156,
+      "playerId": 45526,
+      "playerPosition": 1,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57692,
+      "teamPlayerId": 968236,
+      "playerId": 47362,
+      "playerPosition": 1,
+      "teamId": 630,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57693,
+      "teamPlayerId": 62725,
+      "playerId": 23261,
+      "playerPosition": 1,
+      "teamId": 630,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57694,
+      "teamPlayerId": 651044,
+      "playerId": 28808,
+      "playerPosition": 1,
+      "teamId": 630,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57695,
+      "teamPlayerId": 870283,
+      "playerId": 11580,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57696,
+      "teamPlayerId": 968220,
+      "playerId": 54161,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57697,
+      "teamPlayerId": 940401,
+      "playerId": 32198,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57698,
+      "teamPlayerId": 871277,
+      "playerId": 29766,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57699,
+      "teamPlayerId": 33577,
+      "playerId": 16836,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57700,
+      "teamPlayerId": 899125,
+      "playerId": 16480,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57701,
+      "teamPlayerId": 833979,
+      "playerId": 13817,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57702,
+      "teamPlayerId": 940061,
+      "playerId": 27385,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57703,
+      "teamPlayerId": 968216,
+      "playerId": 52104,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57704,
+      "teamPlayerId": 1184662,
+      "playerId": 47329,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57705,
+      "teamPlayerId": 1203469,
+      "playerId": 26836,
+      "playerPosition": 2,
+      "teamId": 630,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57706,
+      "teamPlayerId": 613226,
+      "playerId": 30520,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57707,
+      "teamPlayerId": 673860,
+      "playerId": 38359,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57708,
+      "teamPlayerId": 968386,
+      "playerId": 44781,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57709,
+      "teamPlayerId": 854584,
+      "playerId": 42394,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57710,
+      "teamPlayerId": 889280,
+      "playerId": 12697,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57711,
+      "teamPlayerId": 875457,
+      "playerId": 44488,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57712,
+      "teamPlayerId": 527206,
+      "playerId": 36872,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57713,
+      "teamPlayerId": 901745,
+      "playerId": 21705,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57714,
+      "teamPlayerId": 968389,
+      "playerId": 52300,
+      "playerPosition": 4,
+      "teamId": 630,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57715,
+      "teamPlayerId": 968228,
+      "playerId": 42892,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57716,
+      "teamPlayerId": 968226,
+      "playerId": 37026,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57717,
+      "teamPlayerId": 863339,
+      "playerId": 52930,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57718,
+      "teamPlayerId": 806966,
+      "playerId": 46295,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57719,
+      "teamPlayerId": 923302,
+      "playerId": 47337,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57720,
+      "teamPlayerId": 828464,
+      "playerId": 23890,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57721,
+      "teamPlayerId": 870006,
+      "playerId": 44638,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57722,
+      "teamPlayerId": 968391,
+      "playerId": 55474,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57723,
+      "teamPlayerId": 374035,
+      "playerId": 1709,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57724,
+      "teamPlayerId": 968387,
+      "playerId": 57421,
+      "playerPosition": 8,
+      "teamId": 630,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57725,
+      "teamPlayerId": 875174,
+      "playerId": 24066,
+      "playerPosition": 1,
+      "teamId": 689,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57726,
+      "teamPlayerId": 564825,
+      "playerId": 2501,
+      "playerPosition": 1,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57727,
+      "teamPlayerId": 832121,
+      "playerId": 839,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57728,
+      "teamPlayerId": 658857,
+      "playerId": 30708,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57729,
+      "teamPlayerId": 822929,
+      "playerId": 10497,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57730,
+      "teamPlayerId": 823751,
+      "playerId": 23640,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57731,
+      "teamPlayerId": 348621,
+      "playerId": 34122,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57732,
+      "teamPlayerId": 823777,
+      "playerId": 21679,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57733,
+      "teamPlayerId": 348576,
+      "playerId": 934,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:26:46.325+00:00"
+    },
+    {
+      "id": 57734,
+      "teamPlayerId": 829317,
+      "playerId": 15321,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57735,
+      "teamPlayerId": 898716,
+      "playerId": 37754,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57736,
+      "teamPlayerId": 48523,
+      "playerId": 15688,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57737,
+      "teamPlayerId": 687340,
+      "playerId": 2591,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57738,
+      "teamPlayerId": 875345,
+      "playerId": 50535,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57739,
+      "teamPlayerId": 613656,
+      "playerId": 3486,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57740,
+      "teamPlayerId": 880284,
+      "playerId": 50499,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57741,
+      "teamPlayerId": 348551,
+      "playerId": 4215,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57742,
+      "teamPlayerId": 826151,
+      "playerId": 23049,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57743,
+      "teamPlayerId": 880551,
+      "playerId": 50558,
+      "playerPosition": 8,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57744,
+      "teamPlayerId": 656298,
+      "playerId": 40013,
+      "playerPosition": 8,
+      "teamId": 689,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57745,
+      "teamPlayerId": 863417,
+      "playerId": 55464,
+      "playerPosition": 1,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57746,
+      "teamPlayerId": 875204,
+      "playerId": 48289,
+      "playerPosition": 1,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57747,
+      "teamPlayerId": 869401,
+      "playerId": 20960,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57748,
+      "teamPlayerId": 874720,
+      "playerId": 34121,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57749,
+      "teamPlayerId": 874719,
+      "playerId": 20177,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57750,
+      "teamPlayerId": 871519,
+      "playerId": 8854,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57751,
+      "teamPlayerId": 871517,
+      "playerId": 27101,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57752,
+      "teamPlayerId": 879315,
+      "playerId": 30207,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57753,
+      "teamPlayerId": 1196597,
+      "playerId": 34236,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57754,
+      "teamPlayerId": 661191,
+      "playerId": 4539,
+      "playerPosition": 2,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57755,
+      "teamPlayerId": 874724,
+      "playerId": 32899,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57756,
+      "teamPlayerId": 1203511,
+      "playerId": 15889,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57757,
+      "teamPlayerId": 874722,
+      "playerId": 30008,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57758,
+      "teamPlayerId": 873582,
+      "playerId": 23960,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57759,
+      "teamPlayerId": 874412,
+      "playerId": 35057,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57760,
+      "teamPlayerId": 863419,
+      "playerId": 40467,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57761,
+      "teamPlayerId": 878609,
+      "playerId": 14992,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57762,
+      "teamPlayerId": 1197198,
+      "playerId": 34095,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57763,
+      "teamPlayerId": 576454,
+      "playerId": 38587,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57764,
+      "teamPlayerId": 863410,
+      "playerId": 4540,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57765,
+      "teamPlayerId": 863597,
+      "playerId": 19565,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57766,
+      "teamPlayerId": 878935,
+      "playerId": 20140,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57767,
+      "teamPlayerId": 874727,
+      "playerId": 24774,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57768,
+      "teamPlayerId": 1203515,
+      "playerId": 29426,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57769,
+      "teamPlayerId": 1197168,
+      "playerId": 15382,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57770,
+      "teamPlayerId": 875332,
+      "playerId": 39999,
+      "playerPosition": 1,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57771,
+      "teamPlayerId": 875346,
+      "playerId": 54152,
+      "playerPosition": 1,
+      "teamId": 882,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57772,
+      "teamPlayerId": 862665,
+      "playerId": 23058,
+      "playerPosition": 1,
+      "teamId": 882,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57773,
+      "teamPlayerId": 712151,
+      "playerId": 35567,
+      "playerPosition": 1,
+      "teamId": 882,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57774,
+      "teamPlayerId": 366907,
+      "playerId": 9997,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57775,
+      "teamPlayerId": 875325,
+      "playerId": 50692,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57776,
+      "teamPlayerId": 651508,
+      "playerId": 29360,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57777,
+      "teamPlayerId": 1195943,
+      "playerId": 50306,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57778,
+      "teamPlayerId": 355055,
+      "playerId": 34746,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57779,
+      "teamPlayerId": 656396,
+      "playerId": 38263,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57780,
+      "teamPlayerId": 855402,
+      "playerId": 44539,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57781,
+      "teamPlayerId": 1195840,
+      "playerId": 46223,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57782,
+      "teamPlayerId": 875455,
+      "playerId": 39581,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57783,
+      "teamPlayerId": 1195907,
+      "playerId": 53288,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57784,
+      "teamPlayerId": 354940,
+      "playerId": 34749,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57785,
+      "teamPlayerId": 1195908,
+      "playerId": 55444,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57786,
+      "teamPlayerId": 828849,
+      "playerId": 20082,
+      "playerPosition": 2,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57787,
+      "teamPlayerId": 825835,
+      "playerId": 34094,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57788,
+      "teamPlayerId": 656215,
+      "playerId": 22755,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57789,
+      "teamPlayerId": 1203491,
+      "playerId": 14816,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57790,
+      "teamPlayerId": 872460,
+      "playerId": 1377,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57791,
+      "teamPlayerId": 354858,
+      "playerId": 12678,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57792,
+      "teamPlayerId": 355370,
+      "playerId": 20515,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57793,
+      "teamPlayerId": 702341,
+      "playerId": 50367,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57794,
+      "teamPlayerId": 870587,
+      "playerId": 36175,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57795,
+      "teamPlayerId": 656213,
+      "playerId": 43976,
+      "playerPosition": 4,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57796,
+      "teamPlayerId": 1195807,
+      "playerId": 38577,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57797,
+      "teamPlayerId": 891596,
+      "playerId": 53573,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57798,
+      "teamPlayerId": 1195978,
+      "playerId": 53215,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57799,
+      "teamPlayerId": 878414,
+      "playerId": 36399,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57800,
+      "teamPlayerId": 608210,
+      "playerId": 33163,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57801,
+      "teamPlayerId": 788235,
+      "playerId": 42452,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-30T06:58:05.553+00:00"
+    },
+    {
+      "id": 57802,
+      "teamPlayerId": 1195711,
+      "playerId": 4453,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57803,
+      "teamPlayerId": 880164,
+      "playerId": 54559,
+      "playerPosition": 1,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57804,
+      "teamPlayerId": 713773,
+      "playerId": 3827,
+      "playerPosition": 1,
+      "teamId": 933,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57805,
+      "teamPlayerId": 1193747,
+      "playerId": 48840,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57806,
+      "teamPlayerId": 872251,
+      "playerId": 54520,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57807,
+      "teamPlayerId": 818789,
+      "playerId": 12149,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57808,
+      "teamPlayerId": 843079,
+      "playerId": 33507,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57809,
+      "teamPlayerId": 686313,
+      "playerId": 48302,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57810,
+      "teamPlayerId": 901199,
+      "playerId": 30242,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57811,
+      "teamPlayerId": 657499,
+      "playerId": 3405,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57812,
+      "teamPlayerId": 1193749,
+      "playerId": 34492,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57813,
+      "teamPlayerId": 880081,
+      "playerId": 53042,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57814,
+      "teamPlayerId": 557349,
+      "playerId": 29335,
+      "playerPosition": 2,
+      "teamId": 933,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57815,
+      "teamPlayerId": 676205,
+      "playerId": 40554,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57816,
+      "teamPlayerId": 570893,
+      "playerId": 21694,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 4000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57817,
+      "teamPlayerId": 687353,
+      "playerId": 19925,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57818,
+      "teamPlayerId": 878425,
+      "playerId": 37776,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57819,
+      "teamPlayerId": 878429,
+      "playerId": 37188,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57820,
+      "teamPlayerId": 677254,
+      "playerId": 32669,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57821,
+      "teamPlayerId": 1203495,
+      "playerId": 9988,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57822,
+      "teamPlayerId": 560139,
+      "playerId": 40004,
+      "playerPosition": 4,
+      "teamId": 933,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57823,
+      "teamPlayerId": 534175,
+      "playerId": 14094,
+      "playerPosition": 8,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57824,
+      "teamPlayerId": 880304,
+      "playerId": 36038,
+      "playerPosition": 8,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57825,
+      "teamPlayerId": 871279,
+      "playerId": 54602,
+      "playerPosition": 8,
+      "teamId": 933,
+      "price": 2500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57826,
+      "teamPlayerId": 1196598,
+      "playerId": 29191,
+      "playerPosition": 8,
+      "teamId": 933,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57827,
+      "teamPlayerId": 875695,
+      "playerId": 31472,
+      "playerPosition": 8,
+      "teamId": 933,
+      "price": 1500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57828,
+      "teamPlayerId": 611155,
+      "playerId": 19215,
+      "playerPosition": 8,
+      "teamId": 933,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57829,
+      "teamPlayerId": 941308,
+      "playerId": 21687,
+      "playerPosition": 1,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57830,
+      "teamPlayerId": 856829,
+      "playerId": 9507,
+      "playerPosition": 1,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57831,
+      "teamPlayerId": 1204198,
+      "playerId": 20808,
+      "playerPosition": 1,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57832,
+      "teamPlayerId": 1195874,
+      "playerId": 41318,
+      "playerPosition": 1,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57833,
+      "teamPlayerId": 1203549,
+      "playerId": 16638,
+      "playerPosition": 1,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57834,
+      "teamPlayerId": 941050,
+      "playerId": 37747,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57835,
+      "teamPlayerId": 818479,
+      "playerId": 34152,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57836,
+      "teamPlayerId": 1199382,
+      "playerId": 21682,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57837,
+      "teamPlayerId": 941251,
+      "playerId": 34157,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57838,
+      "teamPlayerId": 818261,
+      "playerId": 52299,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57839,
+      "teamPlayerId": 818480,
+      "playerId": 19745,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57840,
+      "teamPlayerId": 941051,
+      "playerId": 33473,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57841,
+      "teamPlayerId": 832145,
+      "playerId": 32816,
+      "playerPosition": 2,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57842,
+      "teamPlayerId": 818485,
+      "playerId": 10540,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57843,
+      "teamPlayerId": 1203550,
+      "playerId": 52712,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57844,
+      "teamPlayerId": 872465,
+      "playerId": 20373,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57845,
+      "teamPlayerId": 941237,
+      "playerId": 37507,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57846,
+      "teamPlayerId": 941309,
+      "playerId": 45152,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57847,
+      "teamPlayerId": 941312,
+      "playerId": 40350,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57848,
+      "teamPlayerId": 941025,
+      "playerId": 50743,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57849,
+      "teamPlayerId": 818482,
+      "playerId": 33093,
+      "playerPosition": 4,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57850,
+      "teamPlayerId": 878023,
+      "playerId": 9950,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57851,
+      "teamPlayerId": 941079,
+      "playerId": 41381,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57852,
+      "teamPlayerId": 832118,
+      "playerId": 30257,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57853,
+      "teamPlayerId": 1118887,
+      "playerId": 57916,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57854,
+      "teamPlayerId": 1203552,
+      "playerId": 40675,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57855,
+      "teamPlayerId": 818488,
+      "playerId": 30552,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57856,
+      "teamPlayerId": 1203551,
+      "playerId": 37711,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57857,
+      "teamPlayerId": 835124,
+      "playerId": 10611,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57858,
+      "teamPlayerId": 854965,
+      "playerId": 34111,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57859,
+      "teamPlayerId": 941108,
+      "playerId": 49062,
+      "playerPosition": 8,
+      "teamId": 971,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57860,
+      "teamPlayerId": 940772,
+      "playerId": 31274,
+      "playerPosition": 1,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57861,
+      "teamPlayerId": 940830,
+      "playerId": 21683,
+      "playerPosition": 1,
+      "teamId": 1060,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": "2026-07-29T21:13:55.861+00:00"
+    },
+    {
+      "id": 57862,
+      "teamPlayerId": 1187938,
+      "playerId": 34360,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57863,
+      "teamPlayerId": 940926,
+      "playerId": 38419,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57864,
+      "teamPlayerId": 940861,
+      "playerId": 59896,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57865,
+      "teamPlayerId": 940776,
+      "playerId": 49960,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57866,
+      "teamPlayerId": 940829,
+      "playerId": 50487,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57867,
+      "teamPlayerId": 940831,
+      "playerId": 59893,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57868,
+      "teamPlayerId": 940857,
+      "playerId": 18891,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57869,
+      "teamPlayerId": 933733,
+      "playerId": 30368,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57870,
+      "teamPlayerId": 940886,
+      "playerId": 26696,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57871,
+      "teamPlayerId": 940889,
+      "playerId": 52709,
+      "playerPosition": 2,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57872,
+      "teamPlayerId": 940773,
+      "playerId": 54609,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57873,
+      "teamPlayerId": 940893,
+      "playerId": 59897,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57874,
+      "teamPlayerId": 940806,
+      "playerId": 4456,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57875,
+      "teamPlayerId": 940833,
+      "playerId": 59892,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57876,
+      "teamPlayerId": 940751,
+      "playerId": 17267,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57877,
+      "teamPlayerId": 940805,
+      "playerId": 59891,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57878,
+      "teamPlayerId": 940928,
+      "playerId": 16652,
+      "playerPosition": 4,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57879,
+      "teamPlayerId": 940749,
+      "playerId": 59886,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57880,
+      "teamPlayerId": 940859,
+      "playerId": 37978,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 500000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57881,
+      "teamPlayerId": 940802,
+      "playerId": 37736,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57882,
+      "teamPlayerId": 940803,
+      "playerId": 30586,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57883,
+      "teamPlayerId": 1199224,
+      "playerId": 36045,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57884,
+      "teamPlayerId": 940855,
+      "playerId": 59482,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57885,
+      "teamPlayerId": 940832,
+      "playerId": 15830,
+      "playerPosition": 8,
+      "teamId": 1060,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T12:35:32.029+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57889,
+      "teamPlayerId": 880654,
+      "playerId": 12583,
+      "playerPosition": 1,
+      "teamId": 295,
+      "price": 3500000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57890,
+      "teamPlayerId": 853195,
+      "playerId": 46946,
+      "playerPosition": 1,
+      "teamId": 406,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57891,
+      "teamPlayerId": 643168,
+      "playerId": 43604,
+      "playerPosition": 1,
+      "teamId": 406,
+      "price": 2000000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57892,
+      "teamPlayerId": 872696,
+      "playerId": 26131,
+      "playerPosition": 1,
+      "teamId": 494,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57893,
+      "teamPlayerId": 23700,
+      "playerId": 4531,
+      "playerPosition": 1,
+      "teamId": 497,
+      "price": 1750000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57894,
+      "teamPlayerId": 1195806,
+      "playerId": 4351,
+      "playerPosition": 1,
+      "teamId": 553,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57895,
+      "teamPlayerId": 941580,
+      "playerId": 40155,
+      "playerPosition": 1,
+      "teamId": 553,
+      "price": 750000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57896,
+      "teamPlayerId": 875204,
+      "playerId": 48289,
+      "playerPosition": 1,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57897,
+      "teamPlayerId": 940772,
+      "playerId": 31274,
+      "playerPosition": 1,
+      "teamId": 1060,
+      "price": 1000000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57898,
+      "teamPlayerId": 940830,
+      "playerId": 21683,
+      "playerPosition": 1,
+      "teamId": 1060,
+      "price": 750000,
+      "startDateTime": "2026-07-29T21:13:55.861+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57899,
+      "teamPlayerId": 660072,
+      "playerId": 28612,
+      "playerPosition": 2,
+      "teamId": 295,
+      "price": 3500000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57900,
+      "teamPlayerId": 822928,
+      "playerId": 29316,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 3500000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57901,
+      "teamPlayerId": 305417,
+      "playerId": 25934,
+      "playerPosition": 2,
+      "teamId": 312,
+      "price": 4500000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57902,
+      "teamPlayerId": 1197555,
+      "playerId": 24322,
+      "playerPosition": 2,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57903,
+      "teamPlayerId": 869417,
+      "playerId": 31515,
+      "playerPosition": 2,
+      "teamId": 494,
+      "price": 2000000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57904,
+      "teamPlayerId": 292177,
+      "playerId": 30156,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57905,
+      "teamPlayerId": 712181,
+      "playerId": 30431,
+      "playerPosition": 2,
+      "teamId": 498,
+      "price": 3000000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57906,
+      "teamPlayerId": 878424,
+      "playerId": 22356,
+      "playerPosition": 2,
+      "teamId": 501,
+      "price": 1750000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57907,
+      "teamPlayerId": 832121,
+      "playerId": 839,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57908,
+      "teamPlayerId": 658857,
+      "playerId": 30708,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57909,
+      "teamPlayerId": 348576,
+      "playerId": 934,
+      "playerPosition": 2,
+      "teamId": 689,
+      "price": 1250000,
+      "startDateTime": "2026-07-30T06:26:46.325+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57910,
+      "teamPlayerId": 613686,
+      "playerId": 39070,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 3500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57911,
+      "teamPlayerId": 675999,
+      "playerId": 30386,
+      "playerPosition": 4,
+      "teamId": 211,
+      "price": 4000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57912,
+      "teamPlayerId": 1204980,
+      "playerId": 42103,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57913,
+      "teamPlayerId": 1204982,
+      "playerId": 20363,
+      "playerPosition": 4,
+      "teamId": 406,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57914,
+      "teamPlayerId": 693456,
+      "playerId": 48919,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 1750000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57915,
+      "teamPlayerId": 565413,
+      "playerId": 41319,
+      "playerPosition": 4,
+      "teamId": 494,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57916,
+      "teamPlayerId": 877352,
+      "playerId": 32633,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57917,
+      "teamPlayerId": 576453,
+      "playerId": 23052,
+      "playerPosition": 4,
+      "teamId": 497,
+      "price": 2000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57918,
+      "teamPlayerId": 854644,
+      "playerId": 34784,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 2000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57919,
+      "teamPlayerId": 875565,
+      "playerId": 1061,
+      "playerPosition": 4,
+      "teamId": 501,
+      "price": 1500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57920,
+      "teamPlayerId": 289751,
+      "playerId": 9409,
+      "playerPosition": 4,
+      "teamId": 502,
+      "price": 2500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57921,
+      "teamPlayerId": 402530,
+      "playerId": 29643,
+      "playerPosition": 4,
+      "teamId": 503,
+      "price": 3000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57922,
+      "teamPlayerId": 687340,
+      "playerId": 2591,
+      "playerPosition": 4,
+      "teamId": 689,
+      "price": 1750000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57923,
+      "teamPlayerId": 874724,
+      "playerId": 32899,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 2000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57924,
+      "teamPlayerId": 1203511,
+      "playerId": 15889,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 1250000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57925,
+      "teamPlayerId": 874412,
+      "playerId": 35057,
+      "playerPosition": 4,
+      "teamId": 864,
+      "price": 1500000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57926,
+      "teamPlayerId": 878609,
+      "playerId": 14992,
+      "playerPosition": 8,
+      "teamId": 864,
+      "price": 3000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    },
+    {
+      "id": 57927,
+      "teamPlayerId": 788235,
+      "playerId": 42452,
+      "playerPosition": 8,
+      "teamId": 882,
+      "price": 4000000,
+      "startDateTime": "2026-07-30T06:58:05.553+00:00",
+      "endDateTime": null
+    }
+  ],
+  "playerPoints": [],
+  "transferFeed": [
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Lacroix",
+      "price": 1750000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-07-31T11:48:50.4435169+00:00"
+    }
+  ],
+  "currentMarketRoundId": 7523,
+  "marketRoundMatches": [
+    {
+      "marketRoundId": 7523,
+      "matchId": 66340,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 630,
+      "awayTeamId": 502,
+      "dateModified": "2026-07-27T19:22:35.1789834+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66333,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 933,
+      "awayTeamId": 864,
+      "dateModified": "2026-07-27T19:22:31.7324877+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66243,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 497,
+      "awayTeamId": 498,
+      "dateModified": "2026-07-27T19:22:31.2351311+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66219,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 295,
+      "awayTeamId": 494,
+      "dateModified": "2026-07-27T19:22:32.8675816+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66217,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 882,
+      "awayTeamId": 406,
+      "dateModified": "2026-07-27T19:22:32.3109638+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66186,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 971,
+      "awayTeamId": 501,
+      "dateModified": "2026-07-27T19:22:30.6801487+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66156,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 689,
+      "awayTeamId": 211,
+      "dateModified": "2026-07-27T19:22:36.6871061+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66137,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 503,
+      "awayTeamId": 289,
+      "dateModified": "2026-07-27T19:22:35.9310583+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 66101,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 312,
+      "awayTeamId": 1060,
+      "dateModified": "2026-07-27T19:22:28.5417517+00:00"
+    },
+    {
+      "marketRoundId": 7523,
+      "matchId": 65975,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 553,
+      "awayTeamId": 143,
+      "dateModified": "2026-07-27T19:22:29.9487854+00:00"
+    }
+  ],
+  "marketRoundEnriched": {
+    "marketRoundId": 7523,
+    "marketId": 314,
+    "matchOfWeekId": 66137,
+    "captainFactor": 2,
+    "deadline": "2026-08-21T19:00:00+00:00",
+    "gamePhaseId": 1139
+  }
+}

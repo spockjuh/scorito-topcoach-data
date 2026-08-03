@@ -1,0 +1,876 @@
+{
+  "competition": "de",
+  "marketId": 328,
+  "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
+  "fetchedAt": "2026-08-03T18:56:02.386612+00:00",
+  "status": "active",
+  "marketStructure": {
+    "Id": 328,
+    "PreviousMarketId": 217,
+    "Deadline": "2026-09-18T18:30:00",
+    "IsDeadlinePassed": false,
+    "MarketPhases": [
+      {
+        "Id": 489,
+        "Order": 1,
+        "Type": 0,
+        "MarketRounds": [
+          {
+            "Id": 7561,
+            "Order": 1,
+            "Deadline": "2026-08-28T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": true,
+            "StartDateTime": "2026-07-14T08:00:00",
+            "Name": "1",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7562,
+            "Order": 2,
+            "Deadline": "2026-09-04T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-08-31T08:00:00",
+            "Name": "2",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7563,
+            "Order": 3,
+            "Deadline": "2026-09-11T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-09-07T08:00:00",
+            "Name": "3",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      },
+      {
+        "Id": 490,
+        "Order": 2,
+        "Type": 1,
+        "MarketRounds": [
+          {
+            "Id": 7564,
+            "Order": 4,
+            "Deadline": "2026-09-18T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-09-14T08:00:00",
+            "Name": "4",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7565,
+            "Order": 5,
+            "Deadline": "2026-10-09T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-09-21T08:00:00",
+            "Name": "5",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7566,
+            "Order": 6,
+            "Deadline": "2026-10-16T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-10-12T08:00:00",
+            "Name": "6",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7567,
+            "Order": 7,
+            "Deadline": "2026-10-23T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-10-19T08:00:00",
+            "Name": "7",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7568,
+            "Order": 8,
+            "Deadline": "2026-10-30T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-10-26T08:00:00",
+            "Name": "8",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7569,
+            "Order": 9,
+            "Deadline": "2026-11-06T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-02T09:00:00",
+            "Name": "9",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7570,
+            "Order": 10,
+            "Deadline": "2026-11-20T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-09T09:00:00",
+            "Name": "10",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7571,
+            "Order": 11,
+            "Deadline": "2026-11-27T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-23T09:00:00",
+            "Name": "11",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7572,
+            "Order": 12,
+            "Deadline": "2026-12-04T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-11-30T09:00:00",
+            "Name": "12",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7573,
+            "Order": 13,
+            "Deadline": "2026-12-11T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-07T09:00:00",
+            "Name": "13",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7574,
+            "Order": 14,
+            "Deadline": "2026-12-18T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-14T09:00:00",
+            "Name": "14",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      },
+      {
+        "Id": 491,
+        "Order": 3,
+        "Type": 2,
+        "MarketRounds": [
+          {
+            "Id": 7575,
+            "Order": 15,
+            "Deadline": "2027-01-08T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2026-12-21T09:00:00",
+            "Name": "15",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7576,
+            "Order": 16,
+            "Deadline": "2027-01-13T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-11T09:00:00",
+            "Name": "16",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7577,
+            "Order": 17,
+            "Deadline": "2027-01-16T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-16T09:00:00",
+            "Name": "17",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7578,
+            "Order": 18,
+            "Deadline": "2027-01-22T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-19T09:00:00",
+            "Name": "18",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7579,
+            "Order": 19,
+            "Deadline": "2027-01-29T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-01-25T09:00:00",
+            "Name": "19",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      },
+      {
+        "Id": 492,
+        "Order": 4,
+        "Type": 3,
+        "MarketRounds": [
+          {
+            "Id": 7580,
+            "Order": 20,
+            "Deadline": "2027-02-06T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-01T09:00:00",
+            "Name": "20",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7581,
+            "Order": 21,
+            "Deadline": "2027-02-12T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-09T09:00:00",
+            "Name": "21",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7582,
+            "Order": 22,
+            "Deadline": "2027-02-19T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-15T09:00:00",
+            "Name": "22",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7583,
+            "Order": 23,
+            "Deadline": "2027-02-26T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-02-22T09:00:00",
+            "Name": "23",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7584,
+            "Order": 24,
+            "Deadline": "2027-03-03T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-01T09:00:00",
+            "Name": "24",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7585,
+            "Order": 25,
+            "Deadline": "2027-03-06T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-05T09:00:00",
+            "Name": "25",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7586,
+            "Order": 26,
+            "Deadline": "2027-03-12T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-08T09:00:00",
+            "Name": "26",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7587,
+            "Order": 27,
+            "Deadline": "2027-03-19T19:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-15T09:00:00",
+            "Name": "27",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7588,
+            "Order": 28,
+            "Deadline": "2027-04-02T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-03-22T09:00:00",
+            "Name": "28",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7589,
+            "Order": 29,
+            "Deadline": "2027-04-09T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-05T08:00:00",
+            "Name": "29",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7590,
+            "Order": 30,
+            "Deadline": "2027-04-16T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-12T08:00:00",
+            "Name": "30",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7591,
+            "Order": 31,
+            "Deadline": "2027-04-23T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-19T08:00:00",
+            "Name": "31",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7592,
+            "Order": 32,
+            "Deadline": "2027-05-07T18:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-04-26T08:00:00",
+            "Name": "32",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7593,
+            "Order": 33,
+            "Deadline": "2027-05-15T13:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-05-10T08:00:00",
+            "Name": "33",
+            "DefinitiveCalculationDate": null
+          },
+          {
+            "Id": 7594,
+            "Order": 34,
+            "Deadline": "2027-05-22T13:30:00",
+            "IsDeadlinePassed": false,
+            "IsStarted": false,
+            "StartDateTime": "2027-05-17T08:00:00",
+            "Name": "34",
+            "DefinitiveCalculationDate": null
+          }
+        ]
+      }
+    ],
+    "MarketRounds": [
+      {
+        "Id": 7561,
+        "Order": 1,
+        "Deadline": "2026-08-28T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": true,
+        "StartDateTime": "2026-07-14T08:00:00",
+        "Name": "1",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7562,
+        "Order": 2,
+        "Deadline": "2026-09-04T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-08-31T08:00:00",
+        "Name": "2",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7563,
+        "Order": 3,
+        "Deadline": "2026-09-11T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-09-07T08:00:00",
+        "Name": "3",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7564,
+        "Order": 4,
+        "Deadline": "2026-09-18T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-09-14T08:00:00",
+        "Name": "4",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7565,
+        "Order": 5,
+        "Deadline": "2026-10-09T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-09-21T08:00:00",
+        "Name": "5",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7566,
+        "Order": 6,
+        "Deadline": "2026-10-16T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-10-12T08:00:00",
+        "Name": "6",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7567,
+        "Order": 7,
+        "Deadline": "2026-10-23T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-10-19T08:00:00",
+        "Name": "7",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7568,
+        "Order": 8,
+        "Deadline": "2026-10-30T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-10-26T08:00:00",
+        "Name": "8",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7569,
+        "Order": 9,
+        "Deadline": "2026-11-06T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-02T09:00:00",
+        "Name": "9",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7570,
+        "Order": 10,
+        "Deadline": "2026-11-20T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-09T09:00:00",
+        "Name": "10",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7571,
+        "Order": 11,
+        "Deadline": "2026-11-27T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-23T09:00:00",
+        "Name": "11",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7572,
+        "Order": 12,
+        "Deadline": "2026-12-04T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-11-30T09:00:00",
+        "Name": "12",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7573,
+        "Order": 13,
+        "Deadline": "2026-12-11T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-07T09:00:00",
+        "Name": "13",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7574,
+        "Order": 14,
+        "Deadline": "2026-12-18T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-14T09:00:00",
+        "Name": "14",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7575,
+        "Order": 15,
+        "Deadline": "2027-01-08T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2026-12-21T09:00:00",
+        "Name": "15",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7576,
+        "Order": 16,
+        "Deadline": "2027-01-13T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-11T09:00:00",
+        "Name": "16",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7577,
+        "Order": 17,
+        "Deadline": "2027-01-16T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-16T09:00:00",
+        "Name": "17",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7578,
+        "Order": 18,
+        "Deadline": "2027-01-22T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-19T09:00:00",
+        "Name": "18",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7579,
+        "Order": 19,
+        "Deadline": "2027-01-29T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-01-25T09:00:00",
+        "Name": "19",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7580,
+        "Order": 20,
+        "Deadline": "2027-02-06T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-01T09:00:00",
+        "Name": "20",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7581,
+        "Order": 21,
+        "Deadline": "2027-02-12T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-09T09:00:00",
+        "Name": "21",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7582,
+        "Order": 22,
+        "Deadline": "2027-02-19T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-15T09:00:00",
+        "Name": "22",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7583,
+        "Order": 23,
+        "Deadline": "2027-02-26T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-02-22T09:00:00",
+        "Name": "23",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7584,
+        "Order": 24,
+        "Deadline": "2027-03-03T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-01T09:00:00",
+        "Name": "24",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7585,
+        "Order": 25,
+        "Deadline": "2027-03-06T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-05T09:00:00",
+        "Name": "25",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7586,
+        "Order": 26,
+        "Deadline": "2027-03-12T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-08T09:00:00",
+        "Name": "26",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7587,
+        "Order": 27,
+        "Deadline": "2027-03-19T19:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-15T09:00:00",
+        "Name": "27",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7588,
+        "Order": 28,
+        "Deadline": "2027-04-02T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-03-22T09:00:00",
+        "Name": "28",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7589,
+        "Order": 29,
+        "Deadline": "2027-04-09T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-05T08:00:00",
+        "Name": "29",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7590,
+        "Order": 30,
+        "Deadline": "2027-04-16T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-12T08:00:00",
+        "Name": "30",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7591,
+        "Order": 31,
+        "Deadline": "2027-04-23T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-19T08:00:00",
+        "Name": "31",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7592,
+        "Order": 32,
+        "Deadline": "2027-05-07T18:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-04-26T08:00:00",
+        "Name": "32",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7593,
+        "Order": 33,
+        "Deadline": "2027-05-15T13:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-05-10T08:00:00",
+        "Name": "33",
+        "DefinitiveCalculationDate": null
+      },
+      {
+        "Id": 7594,
+        "Order": 34,
+        "Deadline": "2027-05-22T13:30:00",
+        "IsDeadlinePassed": false,
+        "IsStarted": false,
+        "StartDateTime": "2027-05-17T08:00:00",
+        "Name": "34",
+        "DefinitiveCalculationDate": null
+      }
+    ]
+  },
+  "gamePhase": [
+    {
+      "id": 1142,
+      "marketId": 328,
+      "amountOfGoalKeepers": 2,
+      "amountOfDefenders": 5,
+      "amountOfMidfielders": 6,
+      "amountOfForwards": 5,
+      "maxPlayersPerTeam": 4,
+      "transferBudget": 50000000,
+      "teamSelectionOpensAt": "2026-12-18T18:00:00+00:00",
+      "teamSelectionDeadline": "2027-02-05T19:00:00+00:00",
+      "goldenSubstituteAmount": 2,
+      "goldenSubstituteBonusPoints": 250,
+      "marketPhaseIds": [
+        492,
+        491
+      ]
+    },
+    {
+      "id": 1141,
+      "marketId": 328,
+      "amountOfGoalKeepers": 2,
+      "amountOfDefenders": 5,
+      "amountOfMidfielders": 6,
+      "amountOfForwards": 5,
+      "maxPlayersPerTeam": 4,
+      "transferBudget": 50000000,
+      "teamSelectionOpensAt": "2026-07-14T08:00:00+00:00",
+      "teamSelectionDeadline": "2026-09-18T18:30:00+00:00",
+      "goldenSubstituteAmount": 2,
+      "goldenSubstituteBonusPoints": 250,
+      "marketPhaseIds": [
+        490,
+        489
+      ]
+    }
+  ],
+  "currentPhase": {
+    "id": 1141,
+    "marketId": 328,
+    "amountOfGoalKeepers": 2,
+    "amountOfDefenders": 5,
+    "amountOfMidfielders": 6,
+    "amountOfForwards": 5,
+    "maxPlayersPerTeam": 4,
+    "transferBudget": 50000000,
+    "teamSelectionOpensAt": "2026-07-14T08:00:00+00:00",
+    "teamSelectionDeadline": "2026-09-18T18:30:00+00:00",
+    "goldenSubstituteAmount": 2,
+    "goldenSubstituteBonusPoints": 250,
+    "marketPhaseIds": [
+      490,
+      489
+    ]
+  },
+  "players": [],
+  "playerPoints": [],
+  "transferFeed": [],
+  "currentMarketRoundId": 7561,
+  "marketRoundMatches": [
+    {
+      "marketRoundId": 7561,
+      "matchId": 68321,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 571,
+      "awayTeamId": 564,
+      "dateModified": "2026-07-14T09:07:22.1678689+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68284,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 1062,
+      "awayTeamId": 158,
+      "dateModified": "2026-07-14T09:07:21.6045341+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68270,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 86,
+      "awayTeamId": 573,
+      "dateModified": "2026-07-14T09:07:21.2368286+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68151,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 165,
+      "awayTeamId": 663,
+      "dateModified": "2026-07-14T09:07:18.7209601+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68131,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 556,
+      "awayTeamId": 97,
+      "dateModified": "2026-07-14T09:07:20.9066435+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68099,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 559,
+      "awayTeamId": 568,
+      "dateModified": "2026-07-14T09:07:20.5456189+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68081,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 392,
+      "awayTeamId": 266,
+      "dateModified": "2026-07-14T09:07:20.2087693+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68066,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 837,
+      "awayTeamId": 565,
+      "dateModified": "2026-07-14T09:07:19.8344105+00:00"
+    },
+    {
+      "marketRoundId": 7561,
+      "matchId": 68036,
+      "captainSelectionLockDateTime": null,
+      "calculationStatus": 0,
+      "homeTeamId": 567,
+      "awayTeamId": 836,
+      "dateModified": "2026-07-14T09:07:19.4369343+00:00"
+    }
+  ],
+  "marketRoundEnriched": {
+    "marketRoundId": 7561,
+    "marketId": 328,
+    "matchOfWeekId": 68131,
+    "captainFactor": 2,
+    "deadline": "2026-08-28T18:30:00+00:00",
+    "gamePhaseId": 1141
+  }
+}
