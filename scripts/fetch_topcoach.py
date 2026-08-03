@@ -68,32 +68,31 @@ def unwrap(payload):
 
 def find_current_market_round(market_structure, game_phase_id):
     """
-    Best-effort poging om de actuele marketRoundId te vinden uit marketstructure.
-    Faalt stil (geeft None) als het veldschema afwijkt van wat verwacht wordt —
-    de rest van de run gaat dan gewoon door zonder ronde-specifieke data.
+    Vindt de actuele marketRoundId uit marketstructure.
+
+    Bevestigd echt schema (uitgelezen uit eigen HAR-capture, marketId 312):
+        Content.MarketPhases[].MarketRounds[] met per ronde:
+        Id, Order, Deadline, IsDeadlinePassed, IsStarted, Name, DefinitiveCalculationDate
+
+    Rondes zitten dus GENEST onder MarketPhases, niet los op het top-niveau.
+    We pakken de eerste ronde (op volgorde van Order) waarvan de deadline nog
+    niet gepasseerd is; is die er niet (bv. seizoenseinde), dan de laatst
+    bekende ronde als beste benadering.
     """
-    if not market_structure:
+    if not isinstance(market_structure, dict):
         return None
     try:
-        rounds = None
-        for key in ("MarketRounds", "Rounds", "marketRounds"):
-            if isinstance(market_structure, dict) and key in market_structure:
-                rounds = market_structure[key]
-                break
-        if not rounds:
+        all_rounds = []
+        for phase in market_structure.get("MarketPhases", []):
+            all_rounds.extend(phase.get("MarketRounds", []))
+        if not all_rounds:
             return None
-        now = datetime.datetime.now(datetime.timezone.utc)
-        best = None
-        for r in rounds:
-            deadline_str = r.get("DeadlineDateTime") or r.get("Deadline")
-            if not deadline_str:
-                continue
-            deadline = datetime.datetime.fromisoformat(deadline_str.replace("Z", "+00:00"))
-            if deadline >= now:
-                best = r
-                break
-        if best:
-            return best.get("Id") or best.get("MarketRoundId")
+        all_rounds.sort(key=lambda r: r.get("Order", 0))
+
+        upcoming = [r for r in all_rounds if r.get("IsDeadlinePassed") is False]
+        if upcoming:
+            return upcoming[0].get("Id")
+        return all_rounds[-1].get("Id")
     except Exception as exc:  # noqa: BLE001
         print(f"  [warn] kon marketRoundId niet bepalen: {exc}")
     return None
