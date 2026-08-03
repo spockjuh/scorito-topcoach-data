@@ -136,6 +136,13 @@ def fetch_competition(key: str, market_id: int, name: str):
     result["players"] = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/teamplayerenriched/market/{market_id}"))
 
+    if not result["players"]:
+        # marketstructure bestaat al (schema/deadlines gepland), maar de
+        # spelersmarkt is nog niet gevuld — bv. TopCoach DE vóór lancering.
+        result["status"] = "structure_only"
+    else:
+        result["status"] = "active"
+
     result["playerPoints"] = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/marketplayerpoints/{market_id}"))
 
