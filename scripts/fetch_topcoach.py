@@ -126,12 +126,38 @@ def build_name_lookups(event_id):
     return player_bios, team_names
 
 
+def dedupe_players_by_recency(players):
+    """
+    Scorito's teamplayerenriched-feed bevat soms meerdere records per playerId:
+    - zelfde teamPlayerId, andere prijs (vermoedelijk fase-gebonden prijssnapshots)
+    - andere teamPlayerId, vaak andere club (een transfer waarvan het oude record
+      nog niet is opgeruimd)
+    In beide gevallen is niet "hoogste prijs" de juiste keuze — dat kan bij een
+    transfer naar een goedkopere club het VERKEERDE (oude) record selecteren.
+    Het record met de meest recente startDateTime is per definitie het actuele.
+    Ontbreekt startDateTime ergens, dan valt die kandidaat achteraan (str-vergelijking
+    op ISO8601-datums werkt lexicografisch correct, "" sorteert vóór elke echte datum).
+    """
+    best_by_player = {}
+    for p in players or []:
+        pid = p.get("playerId")
+        if pid is None:
+            continue
+        current_best = best_by_player.get(pid)
+        this_start = p.get("startDateTime") or ""
+        if current_best is None or this_start > (current_best.get("startDateTime") or ""):
+            best_by_player[pid] = p
+    return list(best_by_player.values())
+
+
 def enrich_players(players, player_bios, team_names):
-    """Voegt naam/club/nationaliteit toe aan elke spelersregel, en laat overbodige
+    """Dedupliceert eerst per playerId (zie dedupe_players_by_recency), voegt dan
+    naam/club/nationaliteit toe aan elke spelersregel, en laat overbodige
     tijdstempelvelden weg — dit is de belangrijkste stap om players.json compact
     en direct leesbaar te maken in plaats van kale ID's."""
+    deduped = dedupe_players_by_recency(players)
     enriched = []
-    for p in players or []:
+    for p in deduped:
         bio = player_bios.get(p.get("playerId"), {})
         enriched.append({
             "teamPlayerId": p.get("teamPlayerId"),
