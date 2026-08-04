@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-04T13:44:58.851052+00:00",
-  "playerCount": 466,
+  "fetchedAt": "2026-08-04T23:19:57.305539+00:00",
+  "playerCount": 468,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -1315,14 +1315,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 938942,
+      "teamPlayerId": 1210206,
       "playerId": 1574,
       "name": "Joël Drommel",
       "nationality": "Netherlands",
       "position": 1,
-      "teamId": 7,
-      "teamName": "PSV",
-      "price": 3000000
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "price": 2500000
     },
     {
       "teamPlayerId": 872442,
@@ -4405,14 +4405,14 @@
       "price": 3000000
     },
     {
-      "teamPlayerId": 1188719,
+      "teamPlayerId": 1210179,
       "playerId": 53009,
       "name": "Harrie Kuster",
       "nationality": "Netherlands",
       "position": 4,
-      "teamId": 10,
-      "teamName": "FC Twente",
-      "price": 1500000
+      "teamId": 816,
+      "teamName": "Telstar",
+      "price": 750000
     },
     {
       "teamPlayerId": 1189359,
@@ -4663,6 +4663,26 @@
       "teamId": 1,
       "teamName": "Ajax",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1210223,
+      "playerId": 58259,
+      "name": "Noa el Hamdaoui",
+      "nationality": "Netherlands",
+      "position": 8,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210225,
+      "playerId": 51546,
+      "name": "Andrea Natali",
+      "nationality": "Italy",
+      "position": 2,
+      "teamId": 13,
+      "teamName": "AZ",
+      "price": 1500000
     }
   ]
 }

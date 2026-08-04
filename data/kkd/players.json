@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-04T13:45:18.857774+00:00",
-  "playerCount": 471,
+  "fetchedAt": "2026-08-04T23:20:17.117107+00:00",
+  "playerCount": 481,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -3505,14 +3505,14 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 824883,
+      "teamPlayerId": 1210215,
       "playerId": 52987,
       "name": "Khalid El Arnouki",
       "nationality": "Netherlands",
       "position": 4,
-      "teamId": 813,
-      "teamName": "Helmond Sport",
-      "price": 750000
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "price": 1000000
     },
     {
       "teamPlayerId": 686393,
@@ -4713,6 +4713,106 @@
       "teamId": 5,
       "teamName": "NAC Breda",
       "price": 4000000
+    },
+    {
+      "teamPlayerId": 1210218,
+      "playerId": 25359,
+      "name": "Jannes van Hecke",
+      "nationality": "Belgium",
+      "position": 4,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 3000000
+    },
+    {
+      "teamPlayerId": 1210181,
+      "playerId": 30544,
+      "name": "Tyrick Bodak",
+      "nationality": "Curaçao",
+      "position": 1,
+      "teamId": 12,
+      "teamName": "Vitesse",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1204578,
+      "playerId": 61434,
+      "name": "Nana Gyamfi-Amoah",
+      "nationality": "Ghana",
+      "position": 8,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1204577,
+      "playerId": 61435,
+      "name": "Matyas Havelka",
+      "nationality": "Czech Republic",
+      "position": 4,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1206058,
+      "playerId": 61455,
+      "name": "Abdullah Aslani",
+      "nationality": "North Macedonia",
+      "position": 4,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1210219,
+      "playerId": 20061,
+      "name": "Mees Hoedemakers",
+      "nationality": "Netherlands",
+      "position": 4,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1206098,
+      "playerId": 53683,
+      "name": "Ismail Ka",
+      "nationality": "Netherlands",
+      "position": 1,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1203852,
+      "playerId": 58253,
+      "name": "Melle Roede",
+      "nationality": "Netherlands",
+      "position": 4,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1205138,
+      "playerId": 61439,
+      "name": "Elias Mechrouh",
+      "nationality": "Morocco",
+      "position": 8,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1210100,
+      "playerId": 61517,
+      "name": "Samuel Dumbili",
+      "nationality": "Netherlands",
+      "position": 8,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "price": 500000
     }
   ]
 }

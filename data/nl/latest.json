@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-04T13:44:58.851052+00:00",
+  "fetchedAt": "2026-08-04T23:19:57.305539+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 466,
+  "playerCount": 468,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1608,6 +1608,51 @@
       "teamId": 7,
       "teamName": "PSV",
       "dateCreated": "2026-08-04T12:51:15.3084657+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "S. Bastien",
+      "price": 750000,
+      "teamId": 692,
+      "teamName": "Fortuna Sittard",
+      "dateCreated": "2026-08-04T14:06:15.7899808+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Hamdaoui",
+      "price": 750000,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "dateCreated": "2026-08-04T14:46:18.4304505+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "H. Kuster",
+      "price": 750000,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "dateCreated": "2026-08-04T14:46:34.11642+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "J. Drommel",
+      "price": 2500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-08-04T14:47:52.7699708+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Natali",
+      "price": 1500000,
+      "teamId": 13,
+      "teamName": "AZ",
+      "dateCreated": "2026-08-04T15:20:24.4842458+00:00"
     }
   ],
   "standings": [

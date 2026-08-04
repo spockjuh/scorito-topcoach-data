@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-04T13:45:54.748822+00:00",
-  "playerCount": 481,
+  "fetchedAt": "2026-08-04T23:20:54.033320+00:00",
+  "playerCount": 485,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -705,14 +705,14 @@
       "price": 3000000
     },
     {
-      "teamPlayerId": 864712,
+      "teamPlayerId": 1210226,
       "playerId": 35164,
       "name": "Cisse Sandra",
       "nationality": "Belgium",
       "position": 4,
-      "teamId": 252,
-      "teamName": "Club Brugge",
-      "price": 2500000
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1500000
     },
     {
       "teamPlayerId": 1160551,
@@ -4813,6 +4813,46 @@
       "teamId": 625,
       "teamName": "Union",
       "price": 3500000
+    },
+    {
+      "teamPlayerId": 1209412,
+      "playerId": 19932,
+      "name": "Shawn Adewoye",
+      "nationality": "Belgium",
+      "position": 2,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210227,
+      "playerId": 37513,
+      "name": "Freddie Potts",
+      "nationality": "England",
+      "position": 4,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "price": 3000000
+    },
+    {
+      "teamPlayerId": 1210125,
+      "playerId": 59539,
+      "name": "Cameron Congreve",
+      "nationality": "Wales",
+      "position": 8,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1209422,
+      "playerId": 61497,
+      "name": "Isaiah Dada-Mascoll",
+      "nationality": "England",
+      "position": 4,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 750000
     }
   ]
 }

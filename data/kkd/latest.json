@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-04T13:45:18.857774+00:00",
+  "fetchedAt": "2026-08-04T23:20:17.117107+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 471,
+  "playerCount": 481,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1481,6 +1481,123 @@
       "teamId": 5,
       "teamName": "NAC Breda",
       "dateCreated": "2026-08-04T11:03:46.0971353+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "K. Arnouki",
+      "price": 750000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-04T14:06:15.7988864+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Van Hecke",
+      "price": 3000000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-08-04T14:34:30.2672413+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "T. Bodak",
+      "price": 1500000,
+      "teamId": 12,
+      "teamName": "Vitesse",
+      "dateCreated": "2026-08-04T14:37:22.8309409+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "K. Arnouki",
+      "price": 1000000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-08-04T14:38:46.6220386+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Gyamfi-Amoah",
+      "price": 750000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-08-04T14:39:25.6571098+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Havelka",
+      "price": 750000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-08-04T14:39:39.358955+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Aslani",
+      "price": 500000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-08-04T14:39:42.8644852+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Hoedemakers",
+      "price": 2500000,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "dateCreated": "2026-08-04T15:20:34.9704508+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "I. Ka",
+      "price": 500000,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "dateCreated": "2026-08-04T15:21:21.0062812+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Roede",
+      "price": 500000,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "dateCreated": "2026-08-04T15:21:29.9971785+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "E. Mechrouh",
+      "price": 500000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-08-04T15:22:02.4736112+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Dumbili",
+      "price": 500000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-08-04T15:22:37.0199984+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "T. Reinders",
+      "price": 1000000,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "dateCreated": "2026-08-04T16:36:44.7014173+00:00"
     }
   ],
   "standings": [

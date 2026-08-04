@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-04T13:45:54.748822+00:00",
+  "fetchedAt": "2026-08-04T23:20:54.033320+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 481,
+  "playerCount": 485,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1266,6 +1266,69 @@
       "teamId": 625,
       "teamName": "Union",
       "dateCreated": "2026-08-03T15:49:02.2700034+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Sandra",
+      "price": 2500000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-08-04T15:06:43.1290666+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Ferrari",
+      "price": 2500000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-08-04T15:06:43.1353229+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Adewoye",
+      "price": 750000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-08-04T15:11:01.0591674+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Sandra",
+      "price": 1500000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-08-04T15:24:12.8377974+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "F. Potts",
+      "price": 3000000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-08-04T15:25:07.5622107+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "C. Congreve",
+      "price": 1000000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-08-04T15:26:25.0784584+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "I. Dada-Mascoll",
+      "price": 750000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-08-04T15:26:51.1004768+00:00"
     }
   ],
   "standings": [
