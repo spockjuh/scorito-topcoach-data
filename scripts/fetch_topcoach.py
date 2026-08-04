@@ -3,9 +3,13 @@
 Scorito TopCoach data harvester.
 
 Haalt uitsluitend PUBLIEKE, login-vrije endpoints op (geen sessie, geen cookies,
-geen accountgegevens). Schrijft per competitie een schone JSON-samenvatting naar
-data/{competitie}/latest.json, plus een append-only geschiedenisbestand met
-speler-punten voor trendanalyse.
+geen accountgegevens). Schrijft per competitie twee bestanden:
+- data/{competitie}/latest.json  — status, punten, transfers, wedstrijden, fase
+  (geen spelerslijst, om te voorkomen dat het bestand te groot wordt en bij het
+  ophalen wordt afgekapt)
+- data/{competitie}/players.json — spelerslijst, verrijkt met naam/club (niet
+  alleen kale ID's)
+Plus een append-only geschiedenisbestand met speler-punten voor trendanalyse.
 
 Bronvermelding van de endpoints: scorito-topcoach-api-catalogus-v1.md
 (project "The Whatsubleague").
@@ -64,6 +68,82 @@ def unwrap(payload):
     if isinstance(payload, dict) and "Content" in payload and "ResultCode" in payload:
         return payload["Content"]
     return payload
+
+
+def find_event_id(market_id: int):
+    """
+    Vindt het eventId (bv. 806 = Eredivisie 26/27) dat bij een marketId hoort —
+    nodig om spelersnamen en clubnamen op te halen. Faalt stil (None) als het
+    veldschema afwijkt; naam-verrijking wordt dan simpelweg overgeslagen, de rest
+    van de run gaat gewoon door met alleen ID's.
+    """
+    payload = unwrap(get_json(
+        f"https://platform.scorito.com/event/v1.0/eventlist/bymarket/{market_id}"))
+    if not payload:
+        return None
+    entry = payload[0] if isinstance(payload, list) and payload else payload
+    if isinstance(entry, dict):
+        for key in ("Id", "EventId", "id"):
+            if key in entry:
+                return entry[key]
+    return None
+
+
+def build_name_lookups(event_id):
+    """
+    Geeft (player_bios, team_names) terug voor een event:
+    - player_bios: {playerId: {"name": "Voornaam Achternaam", "nationality": ...}}
+    - team_names:  {teamId: "Clubnaam"}
+    Faalt stil (lege dicts) als het event niet gevonden wordt — de spelerslijst
+    blijft dan werken met kale ID's, wat nog steeds bruikbaar is, alleen minder
+    leesbaar.
+    """
+    player_bios, team_names = {}, {}
+    if not event_id:
+        return player_bios, team_names
+
+    bios = unwrap(get_json(
+        f"https://football.scorito.com/footballgeneric/v2.0/teamplayer/event/{event_id}"))
+    if isinstance(bios, list):
+        for p in bios:
+            pid = p.get("PlayerId")
+            if pid is not None:
+                first = p.get("FirstName", "") or ""
+                last = p.get("LastName", "") or ""
+                player_bios[pid] = {
+                    "name": f"{first} {last}".strip(),
+                    "nationality": p.get("Nationality"),
+                }
+
+    teams = unwrap(get_json(
+        f"https://football.scorito.com/footballGeneric/v2.0/teams/event/{event_id}"))
+    if isinstance(teams, list):
+        for t in teams:
+            tid = t.get("Id")
+            if tid is not None:
+                team_names[tid] = t.get("Name") or t.get("NameShort")
+
+    return player_bios, team_names
+
+
+def enrich_players(players, player_bios, team_names):
+    """Voegt naam/club/nationaliteit toe aan elke spelersregel, en laat overbodige
+    tijdstempelvelden weg — dit is de belangrijkste stap om players.json compact
+    en direct leesbaar te maken in plaats van kale ID's."""
+    enriched = []
+    for p in players or []:
+        bio = player_bios.get(p.get("playerId"), {})
+        enriched.append({
+            "teamPlayerId": p.get("teamPlayerId"),
+            "playerId": p.get("playerId"),
+            "name": bio.get("name") or None,
+            "nationality": bio.get("nationality"),
+            "position": p.get("playerPosition"),
+            "teamId": p.get("teamId"),
+            "teamName": team_names.get(p.get("teamId")),
+            "price": p.get("price"),
+        })
+    return enriched
 
 
 def find_current_market_round(market_structure, game_phase_id):
@@ -133,15 +213,22 @@ def fetch_competition(key: str, market_id: int, name: str):
     if isinstance(current_phase, dict):
         game_phase_id = current_phase.get("Id") or current_phase.get("GamePhaseId")
 
-    result["players"] = unwrap(get_json(
+    raw_players = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/teamplayerenriched/market/{market_id}"))
 
-    if not result["players"]:
+    if not raw_players:
         # marketstructure bestaat al (schema/deadlines gepland), maar de
         # spelersmarkt is nog niet gevuld — bv. TopCoach DE vóór lancering.
         result["status"] = "structure_only"
+        result["playerCount"] = 0
     else:
         result["status"] = "active"
+        event_id = find_event_id(market_id)
+        player_bios, team_names = build_name_lookups(event_id)
+        result["_enrichedPlayers"] = enrich_players(raw_players, player_bios, team_names)
+        result["playerCount"] = len(result["_enrichedPlayers"])
+        if not player_bios:
+            print("  [waarschuwing] geen namen gevonden — players.json bevat dan alleen ID's")
 
     result["playerPoints"] = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/marketplayerpoints/{market_id}"))
@@ -223,6 +310,18 @@ def main():
 
         comp_dir = DATA_DIR / key
         comp_dir.mkdir(parents=True, exist_ok=True)
+
+        enriched_players = snapshot.pop("_enrichedPlayers", None)
+        if enriched_players is not None:
+            with open(comp_dir / "players.json", "w", encoding="utf-8") as f:
+                json.dump({
+                    "competition": key,
+                    "marketId": market_id,
+                    "fetchedAt": snapshot.get("fetchedAt"),
+                    "playerCount": len(enriched_players),
+                    "players": enriched_players,
+                }, f, ensure_ascii=False, indent=2)
+
         with open(comp_dir / "latest.json", "w", encoding="utf-8") as f:
             json.dump(snapshot, f, ensure_ascii=False, indent=2)
 
