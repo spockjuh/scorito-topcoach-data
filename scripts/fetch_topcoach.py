@@ -216,6 +216,8 @@ def fetch_competition(key: str, market_id: int, name: str):
     raw_players = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/teamplayerenriched/market/{market_id}"))
 
+    event_id = find_event_id(market_id)
+
     if not raw_players:
         # marketstructure bestaat al (schema/deadlines gepland), maar de
         # spelersmarkt is nog niet gevuld — bv. TopCoach DE vóór lancering.
@@ -223,7 +225,6 @@ def fetch_competition(key: str, market_id: int, name: str):
         result["playerCount"] = 0
     else:
         result["status"] = "active"
-        event_id = find_event_id(market_id)
         player_bios, team_names = build_name_lookups(event_id)
         result["_enrichedPlayers"] = enrich_players(raw_players, player_bios, team_names)
         result["playerCount"] = len(result["_enrichedPlayers"])
@@ -236,6 +237,14 @@ def fetch_competition(key: str, market_id: int, name: str):
     result["transferFeed"] = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/playermutation/{market_id}"))
 
+    if event_id:
+        # Competitiestand — voor programma-zwaarte op basis van vorm/positie van de
+        # tegenstander, niet alleen een kaal "thuis/uit"-label.
+        result["standings"] = unwrap(get_json(
+            f"https://football.scorito.com/footballGeneric/v2.0/eventrankings/{event_id}"))
+    else:
+        print("  [info] geen eventId gevonden — competitiestand overgeslagen")
+
     market_round_id = find_current_market_round(market_structure, game_phase_id)
     result["currentMarketRoundId"] = market_round_id
     if market_round_id:
@@ -243,6 +252,11 @@ def fetch_competition(key: str, market_id: int, name: str):
             f"https://footballmanager-query.scorito.com/v1.0/marketroundmatch/{market_round_id}"))
         result["marketRoundEnriched"] = unwrap(get_json(
             f"https://footballmanager-query.scorito.com/v1.0/marketroundenriched/{market_round_id}"))
+        # Blessures/schorsingen. Let op: dit endpoint kwam in elke capture tot nu
+        # toe leeg terug (voorseizoen) — staat klaar voor zodra dat verandert,
+        # maar de nieuws-bronnenhiërarchie blijft de hoofdbron hiervoor.
+        result["playerAvailability"] = unwrap(get_json(
+            f"https://football.scorito.com/footballGeneric/v2.0/playeravailability/{market_id}/{market_round_id}"))
     else:
         print("  [info] geen actuele marketRoundId gevonden — ronde-specifieke data overgeslagen")
 
