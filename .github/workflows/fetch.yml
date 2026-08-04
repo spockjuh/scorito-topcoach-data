@@ -2,8 +2,10 @@ name: Fetch Scorito TopCoach data
 
 on:
   schedule:
-    # 06:00 UTC = 08:00 CEST (zomertijd) / 07:00 CET (wintertijd) — dagelijks
-    - cron: "0 6 * * *"
+    # Elke 30 min, 06:00-23:00 UTC (08:00-01:00 CEST) — het SCRIPT bepaalt zelf of
+    # dit een volledige verversing wordt (wedstrijddag, of data > 7u oud) of een
+    # goedkope no-op (rustige dag, data nog vers genoeg).
+    - cron: "0,30 6-23 * * *"
   workflow_dispatch: {}  # handmatig te starten via de Actions-tab
 
 permissions:
