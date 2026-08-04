@@ -2,11 +2,11 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-03T18:56:02.386612+00:00",
-  "status": "active",
+  "fetchedAt": "2026-08-04T09:09:51.532997+00:00",
+  "status": "structure_only",
   "marketStructure": {
     "Id": 328,
-    "PreviousMarketId": 217,
+    "PreviousMarketId": 329,
     "Deadline": "2026-09-18T18:30:00",
     "IsDeadlinePassed": false,
     "MarketPhases": [
@@ -778,9 +778,254 @@
       489
     ]
   },
-  "players": [],
+  "playerCount": 0,
   "playerPoints": [],
   "transferFeed": [],
+  "standings": [
+    {
+      "TranslatedName": "Football.Event.846.Phase.1.SubPhase.1.Group.1",
+      "RankEntries": [
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_559.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 1,
+          "TeamNameShort": "KÖL",
+          "TeamType": 0,
+          "TranslatedName": "1. FC Köln",
+          "TeamId": 559
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_837.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 2,
+          "TeamNameShort": "UNI",
+          "TeamType": 0,
+          "TranslatedName": "1. FC Union Berlin",
+          "TeamId": 837
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_567.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 3,
+          "TeamNameShort": "M05",
+          "TeamType": 0,
+          "TranslatedName": "1. FSV Mainz 05",
+          "TeamId": 567
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_158.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 4,
+          "TeamNameShort": "LEV",
+          "TeamType": 0,
+          "TranslatedName": "Bayer Leverkusen",
+          "TeamId": 158
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_86.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 5,
+          "TeamNameShort": "BVB",
+          "TeamType": 0,
+          "TranslatedName": "Borussia Dortmund",
+          "TeamId": 86
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_97.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 6,
+          "TeamNameShort": "MÖN",
+          "TeamType": 0,
+          "TranslatedName": "Borussia Mönchengladbach",
+          "TeamId": 97
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_565.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 7,
+          "TeamNameShort": "FRA",
+          "TeamType": 0,
+          "TranslatedName": "Eintracht Frankfurt",
+          "TeamId": 565
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_392.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 8,
+          "TeamNameShort": "FCA",
+          "TeamType": 0,
+          "TranslatedName": "FC Augsburg",
+          "TeamId": 392
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_165.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 9,
+          "TeamNameShort": "FCB",
+          "TeamType": 0,
+          "TranslatedName": "Bayern München",
+          "TeamId": 165
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_266.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 10,
+          "TeamNameShort": "S04",
+          "TeamType": 0,
+          "TranslatedName": "FC Schalke 04",
+          "TeamId": 266
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_573.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 11,
+          "TeamNameShort": "HSV",
+          "TeamType": 0,
+          "TranslatedName": "Hamburger SV",
+          "TeamId": 573
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_556.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 12,
+          "TeamNameShort": "RBL",
+          "TeamType": 0,
+          "TranslatedName": "RB Leipzig",
+          "TeamId": 556
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_571.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 13,
+          "TeamNameShort": "SCF",
+          "TeamType": 0,
+          "TranslatedName": "SC Freiburg",
+          "TeamId": 571
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_836.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 14,
+          "TeamNameShort": "PAD",
+          "TeamType": 0,
+          "TranslatedName": "SC Paderborn",
+          "TeamId": 836
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_1062.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 15,
+          "TeamNameShort": "ELV",
+          "TeamType": 0,
+          "TranslatedName": "SV Elversberg",
+          "TeamId": 1062
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_568.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 16,
+          "TeamNameShort": "HOF",
+          "TeamType": 0,
+          "TranslatedName": "Hoffenheim",
+          "TeamId": 568
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_663.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 17,
+          "TeamNameShort": "VFB",
+          "TeamType": 0,
+          "TranslatedName": "VfB Stuttgart",
+          "TeamId": 663
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_564.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 18,
+          "TeamNameShort": "BRE",
+          "TeamType": 0,
+          "TranslatedName": "Werder Bremen",
+          "TeamId": 564
+        }
+      ],
+      "GroupId": 1,
+      "PhaseId": 1,
+      "SubPhaseId": 1,
+      "RankingCategories": []
+    }
+  ],
   "currentMarketRoundId": 7561,
   "marketRoundMatches": [
     {
@@ -872,5 +1117,6 @@
     "captainFactor": 2,
     "deadline": "2026-08-28T18:30:00+00:00",
     "gamePhaseId": 1141
-  }
+  },
+  "playerAvailability": []
 }
