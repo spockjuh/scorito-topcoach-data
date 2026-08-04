@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-04T09:09:01.008412+00:00",
-  "playerCount": 734,
+  "fetchedAt": "2026-08-04T12:30:44.458133+00:00",
+  "playerCount": 735,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -7343,6 +7343,16 @@
       "teamId": 23,
       "teamName": "FC Dordrecht",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210150,
+      "playerId": 20251,
+      "name": "Jan van den Bergh",
+      "nationality": "Belgium",
+      "position": 2,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 4000000
     }
   ]
 }

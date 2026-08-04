@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-04T09:08:43.006717+00:00",
+  "fetchedAt": "2026-08-04T12:30:26.058792+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -1572,6 +1572,33 @@
       "teamId": 1,
       "teamName": "Ajax",
       "dateCreated": "2026-08-04T08:34:33.1459186+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Penetra",
+      "price": 2500000,
+      "teamId": 13,
+      "teamName": "AZ",
+      "dateCreated": "2026-08-04T10:06:15.2366195+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "K. Fitz-Jim",
+      "price": 1750000,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "dateCreated": "2026-08-04T11:36:24.6817041+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "H. Kuster",
+      "price": 1500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-08-04T11:36:24.688619+00:00"
     }
   ],
   "standings": [

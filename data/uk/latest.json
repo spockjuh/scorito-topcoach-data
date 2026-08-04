@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-04T09:09:18.032052+00:00",
+  "fetchedAt": "2026-08-04T12:31:01.549639+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -869,6 +869,15 @@
       "teamId": 498,
       "teamName": "Crystal Palace",
       "dateCreated": "2026-07-31T11:48:50.4435169+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "T. Watson",
+      "price": 750000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-08-04T10:21:19.5741031+00:00"
     }
   ],
   "standings": [

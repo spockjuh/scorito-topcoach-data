@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-04T09:09:01.008412+00:00",
+  "fetchedAt": "2026-08-04T12:30:44.458133+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 734,
+  "playerCount": 735,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1472,6 +1472,15 @@
       "teamId": 815,
       "teamName": "Jong FC Utrecht",
       "dateCreated": "2026-08-03T20:25:58.8410813+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Van Den Bergh",
+      "price": 4000000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-08-04T11:03:46.0971353+00:00"
     }
   ],
   "standings": [
