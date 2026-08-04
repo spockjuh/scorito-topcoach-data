@@ -208,6 +208,52 @@ def find_current_market_round(market_structure, game_phase_id):
 # Per-competitie ophaal-logica
 # ---------------------------------------------------------------------------
 
+STALE_HOURS_NO_MATCHDAY = 7  # buiten wedstrijddagen: max. ~3x/dag echt verversen
+
+
+def load_existing_snapshot(key: str):
+    """Leest de al aanwezige data/{key}/latest.json uit de checkout (indien aanwezig)."""
+    path = DATA_DIR / key / "latest.json"
+    if not path.exists():
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def has_match_today(market_round_matches):
+    """Checkt of er in de opgehaalde wedstrijdenlijst een wedstrijd van vandaag zit."""
+    if not isinstance(market_round_matches, list):
+        return False
+    today = datetime.datetime.now(datetime.timezone.utc).date()
+    for m in market_round_matches:
+        date_str = m.get("MatchDate") or m.get("Date")
+        if not date_str:
+            continue
+        try:
+            match_date = datetime.datetime.fromisoformat(
+                date_str.replace("Z", "+00:00")).date()
+            if match_date == today:
+                return True
+        except ValueError:
+            continue
+    return False
+
+
+def is_snapshot_stale(existing, hours=STALE_HOURS_NO_MATCHDAY):
+    """True als er nog geen eerdere snapshot is, of die ouder is dan `hours`."""
+    if not existing or not existing.get("fetchedAt"):
+        return True
+    try:
+        fetched = datetime.datetime.fromisoformat(existing["fetchedAt"])
+        age = datetime.datetime.now(datetime.timezone.utc) - fetched
+        return age > datetime.timedelta(hours=hours)
+    except ValueError:
+        return True
+
+
 def fetch_competition(key: str, market_id: int, name: str):
     print(f"== {name} (marketId={market_id}) ==")
     result = {
@@ -227,6 +273,43 @@ def fetch_competition(key: str, market_id: int, name: str):
 
     result["status"] = "active"
     result["marketStructure"] = market_structure
+
+    # --- Vroege, goedkope check: is dit een wedstrijddag voor deze competitie? ---
+    # Let op: de "current" ronde (find_current_market_round) is de eerstvólgende
+    # nog-niet-vergrendelde ronde. Zodra een wedstrijddag eenmaal bezig is (na de
+    # deadline, die op de dag van de eerste wedstrijd zelf ligt), is de zojuist
+    # vergrendelde ronde de ronde die NU speelt — dus die moet ook gecheckt worden,
+    # niet alleen de eerstvolgende open ronde.
+    all_rounds = []
+    for phase in (market_structure or {}).get("MarketPhases", []):
+        all_rounds.extend(phase.get("MarketRounds", []))
+    all_rounds.sort(key=lambda r: r.get("Order", 0))
+
+    probe_round_id = find_current_market_round(market_structure, None)
+    probe_round_ids = {probe_round_id} if probe_round_id else set()
+    if probe_round_id and all_rounds:
+        idx = next((i for i, r in enumerate(all_rounds) if r.get("Id") == probe_round_id), None)
+        if idx is not None and idx > 0:
+            probe_round_ids.add(all_rounds[idx - 1].get("Id"))
+
+    matchday = False
+    for rid in probe_round_ids:
+        if not rid:
+            continue
+        probe_matches = unwrap(get_json(
+            f"https://footballmanager-query.scorito.com/v1.0/marketroundmatch/{rid}"))
+        if has_match_today(probe_matches):
+            matchday = True
+            break
+
+    existing = load_existing_snapshot(key)
+    if not matchday and not is_snapshot_stale(existing):
+        print(f"  [skip] geen wedstrijddag en bestaande data nog vers "
+              f"(< {STALE_HOURS_NO_MATCHDAY}u oud) — volledige verversing overgeslagen")
+        existing["_skippedThisRun"] = True
+        return existing
+    print(f"  [info] {'wedstrijddag' if matchday else 'geen wedstrijddag, data verouderd'} "
+          f"— volledige verversing")
 
     game_phase = unwrap(get_json(
         f"https://footballmanager-query.scorito.com/v1.0/gamePhase/{market_id}"))
@@ -351,6 +434,7 @@ def main():
         comp_dir = DATA_DIR / key
         comp_dir.mkdir(parents=True, exist_ok=True)
 
+        was_skipped = snapshot.pop("_skippedThisRun", False)
         enriched_players = snapshot.pop("_enrichedPlayers", None)
         if enriched_players is not None:
             with open(comp_dir / "players.json", "w", encoding="utf-8") as f:
@@ -362,8 +446,9 @@ def main():
                     "players": enriched_players,
                 }, f, ensure_ascii=False, indent=2)
 
-        with open(comp_dir / "latest.json", "w", encoding="utf-8") as f:
-            json.dump(snapshot, f, ensure_ascii=False, indent=2)
+        if not was_skipped:
+            with open(comp_dir / "latest.json", "w", encoding="utf-8") as f:
+                json.dump(snapshot, f, ensure_ascii=False, indent=2)
 
         if snapshot.get("status") == "active":
             fetch_help_content_once(key, market_id)
