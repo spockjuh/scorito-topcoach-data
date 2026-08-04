@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-04T12:30:26.058792+00:00",
+  "fetchedAt": "2026-08-04T13:44:58.851052+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 596,
+  "playerCount": 466,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1599,6 +1599,15 @@
       "teamId": 10,
       "teamName": "FC Twente",
       "dateCreated": "2026-08-04T11:36:24.688619+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "J. Drommel",
+      "price": 3000000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-08-04T12:51:15.3084657+00:00"
     }
   ],
   "standings": [
