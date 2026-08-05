@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-04T23:20:17.117107+00:00",
+  "fetchedAt": "2026-08-05T07:23:57.196842+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 481,
+  "playerCount": 482,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1598,6 +1598,24 @@
       "teamId": 15,
       "teamName": "VVV-Venlo",
       "dateCreated": "2026-08-04T16:36:44.7014173+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "R. Niemeijer",
+      "price": 6000000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-08-05T06:34:03.1008343+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "S. Francis",
+      "price": 750000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-08-05T06:37:28.7931705+00:00"
     }
   ],
   "standings": [

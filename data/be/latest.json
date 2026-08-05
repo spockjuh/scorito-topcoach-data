@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-04T23:20:54.033320+00:00",
+  "fetchedAt": "2026-08-05T07:24:35.728529+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 485,
+  "playerCount": 486,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1329,6 +1329,24 @@
       "teamId": 1059,
       "teamName": "Lommel SK",
       "dateCreated": "2026-08-04T15:26:51.1004768+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "Y. Titraoui",
+      "price": 2500000,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "dateCreated": "2026-08-05T06:37:28.8013495+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "I. Salah",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-05T06:42:20.8696457+00:00"
     }
   ],
   "standings": [

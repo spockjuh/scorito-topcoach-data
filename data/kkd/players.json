@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-04T23:20:17.117107+00:00",
-  "playerCount": 481,
+  "fetchedAt": "2026-08-05T07:23:57.196842+00:00",
+  "playerCount": 482,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -3967,8 +3967,8 @@
     {
       "teamPlayerId": 812032,
       "playerId": 51931,
-      "name": "Simon Francis",
-      "nationality": "Belgium",
+      "name": null,
+      "nationality": null,
       "position": 2,
       "teamId": 817,
       "teamName": "MVV Maastricht",
@@ -4813,6 +4813,16 @@
       "teamId": 810,
       "teamName": "Jong PSV",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1210330,
+      "playerId": 9621,
+      "name": "Reuven Niemeijer",
+      "nationality": "Netherlands",
+      "position": 4,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "price": 6000000
     }
   ]
 }

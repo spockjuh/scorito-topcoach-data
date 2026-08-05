@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-04T23:20:54.033320+00:00",
-  "playerCount": 485,
+  "fetchedAt": "2026-08-05T07:24:35.728529+00:00",
+  "playerCount": 486,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -1227,8 +1227,8 @@
     {
       "teamPlayerId": 818339,
       "playerId": 52307,
-      "name": "Yacine Titraoui",
-      "nationality": "Algeria",
+      "name": null,
+      "nationality": null,
       "position": 4,
       "teamId": 367,
       "teamName": "Charleroi",
@@ -4853,6 +4853,16 @@
       "teamId": 1059,
       "teamName": "Lommel SK",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1210329,
+      "playerId": 40032,
+      "name": "Ibrahim Salah",
+      "nationality": "Belgium",
+      "position": 8,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1500000
     }
   ]
 }
