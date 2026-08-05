@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-05T07:28:56.686964+00:00",
+  "fetchedAt": "2026-08-05T09:28:26.880563+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 468,
+  "playerCount": 470,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1662,6 +1662,33 @@
       "teamId": 2,
       "teamName": "Feyenoord",
       "dateCreated": "2026-08-05T07:23:27.9889745+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "J. Geneste",
+      "price": 1000000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-08-05T07:33:46.0923859+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Sliti",
+      "price": 750000,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "dateCreated": "2026-08-05T07:33:55.045571+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "G. Caschili",
+      "price": 500000,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "dateCreated": "2026-08-05T07:37:03.700639+00:00"
     }
   ],
   "standings": [

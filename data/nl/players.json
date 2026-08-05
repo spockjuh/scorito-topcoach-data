@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-05T07:28:56.686964+00:00",
-  "playerCount": 468,
+  "fetchedAt": "2026-08-05T09:28:26.880563+00:00",
+  "playerCount": 470,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -605,14 +605,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 875303,
+      "teamPlayerId": 1210282,
       "playerId": 53620,
       "name": "Aymen Sliti",
       "nationality": "Nederland",
       "position": 8,
-      "teamId": 2,
-      "teamName": "Feyenoord",
-      "price": 1750000
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 750000
     },
     {
       "teamPlayerId": 1065213,
@@ -4683,6 +4683,26 @@
       "teamId": 13,
       "teamName": "AZ",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210256,
+      "playerId": 53413,
+      "name": "Joep Geneste",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210336,
+      "playerId": 29595,
+      "name": "Gabi Caschili",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "price": 500000
     }
   ]
 }

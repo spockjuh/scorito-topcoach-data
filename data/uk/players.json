@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-05T07:29:33.635461+00:00",
-  "playerCount": 572,
+  "fetchedAt": "2026-08-05T09:29:02.106420+00:00",
+  "playerCount": 579,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -87,8 +87,8 @@
     {
       "teamPlayerId": 875273,
       "playerId": 42906,
-      "name": "Tyler Fredricson",
-      "nationality": "Engeland",
+      "name": null,
+      "nationality": null,
       "position": 2,
       "teamId": 143,
       "teamName": "Manchester United",
@@ -2475,14 +2475,14 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 842409,
+      "teamPlayerId": 1206490,
       "playerId": 32074,
       "name": "Maxence Lacroix",
       "nationality": "Frankrijk",
       "position": 2,
-      "teamId": 498,
-      "teamName": "Crystal Palace",
-      "price": 1750000
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "price": 2500000
     },
     {
       "teamPlayerId": 1158519,
@@ -2917,8 +2917,8 @@
     {
       "teamPlayerId": 863442,
       "playerId": 44838,
-      "name": "Ahmed Abdullahi",
-      "nationality": "Nigeria",
+      "name": null,
+      "nationality": null,
       "position": 8,
       "teamId": 501,
       "teamName": "Sunderland",
@@ -3507,8 +3507,8 @@
     {
       "teamPlayerId": 938463,
       "playerId": 59869,
-      "name": "Harvey Cartwright",
-      "nationality": "Engeland",
+      "name": null,
+      "nationality": null,
       "position": 1,
       "teamId": 553,
       "teamName": "Hull City",
@@ -3717,8 +3717,8 @@
     {
       "teamPlayerId": 941403,
       "playerId": 38574,
-      "name": "Mason Burstow",
-      "nationality": "Engeland",
+      "name": null,
+      "nationality": null,
       "position": 8,
       "teamId": 553,
       "teamName": "Hull City",
@@ -3785,14 +3785,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 968236,
+      "teamPlayerId": 1210344,
       "playerId": 47362,
       "name": "Carl Rushworth",
       "nationality": "Engeland",
       "position": 1,
-      "teamId": 630,
-      "teamName": "Brighton and Hove Albion",
-      "price": 1750000
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 1000000
     },
     {
       "teamPlayerId": 62725,
@@ -4095,14 +4095,14 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 374035,
+      "teamPlayerId": 1208894,
       "playerId": 1709,
       "name": "Danny Welbeck",
       "nationality": "Engeland",
       "position": 8,
-      "teamId": 630,
-      "teamName": "Brighton and Hove Albion",
-      "price": 2500000
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "price": 1500000
     },
     {
       "teamPlayerId": 968387,
@@ -4765,14 +4765,14 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 872460,
+      "teamPlayerId": 1209975,
       "playerId": 1377,
       "name": "Jordan Henderson",
       "nationality": "Engeland",
       "position": 4,
-      "teamId": 882,
-      "teamName": "Brentford",
-      "price": 1000000
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "price": 1750000
     },
     {
       "teamPlayerId": 354858,
@@ -5723,6 +5723,76 @@
       "teamId": 1060,
       "teamName": "Coventry City",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210146,
+      "playerId": 30659,
+      "name": "Lukas Hornicek",
+      "nationality": "Tsjechië",
+      "position": 1,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1209488,
+      "playerId": 39990,
+      "name": "Mamadou Sangaré",
+      "nationality": "Mali",
+      "position": 4,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210145,
+      "playerId": 42855,
+      "name": "António Silva",
+      "nationality": "Portugal",
+      "position": 2,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1208893,
+      "playerId": 50437,
+      "name": "Valentín Barco",
+      "nationality": "Argentinië",
+      "position": 4,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1210117,
+      "playerId": 48238,
+      "name": "Gonzalo Garcia",
+      "nationality": "Spanje",
+      "position": 8,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210345,
+      "playerId": 58696,
+      "name": "Cesar Palacios",
+      "nationality": "Spanje",
+      "position": 4,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1196840,
+      "playerId": 9243,
+      "name": "Martin Dúbravka",
+      "nationality": "Slowakije",
+      "position": 1,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "price": 1500000
     }
   ]
 }

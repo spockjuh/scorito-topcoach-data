@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-05T07:29:33.635461+00:00",
+  "fetchedAt": "2026-08-05T09:29:02.106420+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 572,
+  "playerCount": 579,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -878,6 +878,168 @@
       "teamId": 630,
       "teamName": "Brighton and Hove Albion",
       "dateCreated": "2026-08-04T10:21:19.5741031+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Lacroix",
+      "price": 2500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-05T07:30:20.4364786+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "L. Hornicek",
+      "price": 2000000,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "dateCreated": "2026-08-05T07:31:12.5461438+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Sangaré",
+      "price": 1500000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-05T07:32:22.8622869+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Silva",
+      "price": 1500000,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
+      "dateCreated": "2026-08-05T07:33:27.9032168+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "T. Fredricson",
+      "price": 1500000,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "dateCreated": "2026-08-05T07:52:30.5595842+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "H. Cartwright",
+      "price": 500000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-05T07:52:30.5750179+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "M. Burstow",
+      "price": 750000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-05T07:52:30.5855091+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Abdullahi",
+      "price": 500000,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "dateCreated": "2026-08-05T08:06:53.467505+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "C. Rushworth",
+      "price": 1750000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-08-05T08:06:53.4730838+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Welbeck",
+      "price": 2500000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-08-05T08:06:53.479402+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Henderson",
+      "price": 1000000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-05T08:06:53.4853081+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Henderson",
+      "price": 1750000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-05T08:10:56.6835329+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "D. Welbeck",
+      "price": 1500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-05T08:10:58.6839739+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "V. Barco",
+      "price": 2000000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-05T08:11:00.0390594+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "C. Rushworth",
+      "price": 1000000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-05T08:11:53.8823446+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "G. Garcia",
+      "price": 1500000,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "dateCreated": "2026-08-05T08:12:38.7054961+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Palacios",
+      "price": 1000000,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "dateCreated": "2026-08-05T08:13:51.1688955+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "M. Dúbravka",
+      "price": 1500000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-05T08:18:54.8185016+00:00"
     }
   ],
   "standings": [
