@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-05T09:29:18.778346+00:00",
+  "fetchedAt": "2026-08-05T16:16:11.257682+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 486,
+  "playerCount": 489,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1347,6 +1347,33 @@
       "teamId": 628,
       "teamName": "Antwerp",
       "dateCreated": "2026-08-05T06:42:20.8696457+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "J. Schenk",
+      "price": 1250000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-08-05T11:36:06.5532486+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Ibrahim",
+      "price": 1250000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-05T12:28:17.6221216+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Porozo",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-05T14:57:39.1255096+00:00"
     }
   ],
   "standings": [

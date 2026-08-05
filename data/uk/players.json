@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-05T09:29:02.106420+00:00",
-  "playerCount": 579,
+  "fetchedAt": "2026-08-05T16:15:53.482204+00:00",
+  "playerCount": 585,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -2427,8 +2427,8 @@
     {
       "teamPlayerId": 1100972,
       "playerId": 42100,
-      "name": "Joe Whitworth",
-      "nationality": "Engeland",
+      "name": null,
+      "nationality": null,
       "position": 1,
       "teamId": 498,
       "teamName": "Crystal Palace",
@@ -5793,6 +5793,66 @@
       "teamId": 406,
       "teamName": "Tottenham Hotspur",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210414,
+      "playerId": 47697,
+      "name": "Konstantinos Tzolakis",
+      "nationality": "Griekenland",
+      "position": 1,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210347,
+      "playerId": 24802,
+      "name": "Florentino",
+      "nationality": "Portugal",
+      "position": 4,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1197199,
+      "playerId": 44049,
+      "name": "Mateo Fernandez",
+      "nationality": "Spanje",
+      "position": 8,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1208088,
+      "playerId": 48406,
+      "name": "Aidan Harris",
+      "nationality": "Engeland",
+      "position": 1,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1208092,
+      "playerId": 54749,
+      "name": "Leo Shahar",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1208234,
+      "playerId": 58418,
+      "name": "Shea Lacey",
+      "nationality": "Engeland",
+      "position": 8,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "price": 1250000
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-05T09:28:45.148121+00:00",
-  "playerCount": 482,
+  "fetchedAt": "2026-08-05T16:15:35.921794+00:00",
+  "playerCount": 483,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -4823,6 +4823,16 @@
       "teamId": 190,
       "teamName": "FC Volendam",
       "price": 6000000
+    },
+    {
+      "teamPlayerId": 1210465,
+      "playerId": 36918,
+      "name": "Jafar Bynoe",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "price": 500000
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-05T09:28:26.880563+00:00",
-  "playerCount": 470,
+  "fetchedAt": "2026-08-05T16:15:16.586183+00:00",
+  "playerCount": 471,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4703,6 +4703,16 @@
       "teamId": 816,
       "teamName": "Telstar",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1210338,
+      "playerId": 61535,
+      "name": "Alvin Nordin",
+      "nationality": "Zweden",
+      "position": 4,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 1250000
     }
   ]
 }

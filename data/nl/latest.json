@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-05T09:28:26.880563+00:00",
+  "fetchedAt": "2026-08-05T16:15:16.586183+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 470,
+  "playerCount": 471,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1689,6 +1689,15 @@
       "teamId": 816,
       "teamName": "Telstar",
       "dateCreated": "2026-08-05T07:37:03.700639+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Nordin",
+      "price": 1250000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-08-05T11:37:38.2585714+00:00"
     }
   ],
   "standings": [

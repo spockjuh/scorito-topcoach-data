@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-05T09:29:18.778346+00:00",
-  "playerCount": 486,
+  "fetchedAt": "2026-08-05T16:16:11.257682+00:00",
+  "playerCount": 489,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -4860,6 +4860,36 @@
       "name": "Ibrahim Salah",
       "nationality": "België",
       "position": 8,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210413,
+      "playerId": 42887,
+      "name": "Johannes Schenk",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210350,
+      "playerId": 61536,
+      "name": "Aaron Ibrahim",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210464,
+      "playerId": 39438,
+      "name": "Jackson Porozo",
+      "nationality": "Ecuador",
+      "position": 2,
       "teamId": 628,
       "teamName": "Antwerp",
       "price": 1500000

@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-05T09:29:02.106420+00:00",
+  "fetchedAt": "2026-08-05T16:15:53.482204+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 579,
+  "playerCount": 585,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1040,6 +1040,69 @@
       "teamId": 406,
       "teamName": "Tottenham Hotspur",
       "dateCreated": "2026-08-05T08:18:54.8185016+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "K. Tzolakis",
+      "price": 1000000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-05T11:40:44.9881596+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Florentino",
+      "price": 750000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-05T11:40:45.9076931+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "J. Whitworth",
+      "price": 1250000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-05T13:14:12.906014+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Fernandez",
+      "price": 500000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-05T13:14:50.9139271+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "A. Harris",
+      "price": 1250000,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "dateCreated": "2026-08-05T13:15:10.5309963+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Shahar",
+      "price": 750000,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "dateCreated": "2026-08-05T13:24:39.3161008+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Lacey",
+      "price": 1250000,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "dateCreated": "2026-08-05T13:24:56.1377026+00:00"
     }
   ],
   "standings": [
