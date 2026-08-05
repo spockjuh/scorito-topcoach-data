@@ -36,6 +36,7 @@ COMPETITIONS = {
 
 HEADERS = {
     "Accept": "application/json",
+    "Accept-Language": "nl-NL",
     "User-Agent": "scorito-topcoach-data-bot/1.0 (persoonlijk project, "
                   "https://github.com/spockjuh/scorito-topcoach-data)",
 }
@@ -298,8 +299,9 @@ def fetch_help_content_once(key: str, market_id: int):
     if target.exists():
         return
     content = unwrap(get_json(
-        f"https://platform.scorito.com/help/v1.0/helpcontent/market/{market_id}?culture=nl-NL"))
+        f"https://platform.scorito.com/help/v1.0/helpcontent/market/{market_id}"))
     if content is None:
+        print(f"  [FOUT] spelregels.json ophalen mislukt voor {key} (marketId={market_id})")
         return
     target.parent.mkdir(parents=True, exist_ok=True)
     with open(target, "w", encoding="utf-8") as f:
