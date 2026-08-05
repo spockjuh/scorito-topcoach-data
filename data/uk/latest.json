@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-05T07:24:16.515500+00:00",
+  "fetchedAt": "2026-08-05T07:29:33.635461+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1170,15 +1170,15 @@
           "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeague"
         },
         {
-          "Label": "Relegation",
+          "Label": "Degradatie",
           "LabelKey": "EventRankingCategory.League.Relegated"
         },
         {
-          "Label": "Relegation",
+          "Label": "Degradatie",
           "LabelKey": "EventRankingCategory.League.Relegated"
         },
         {
-          "Label": "Relegation",
+          "Label": "Degradatie",
           "LabelKey": "EventRankingCategory.League.Relegated"
         }
       ]

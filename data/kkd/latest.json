@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-05T07:23:57.196842+00:00",
+  "fetchedAt": "2026-08-05T07:29:15.702963+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -1888,11 +1888,11 @@
       "SubPhaseId": 1,
       "RankingCategories": [
         {
-          "Label": "Promotion",
+          "Label": "Promotie",
           "LabelKey": "EventRankingCategory.League.Promoted"
         },
         {
-          "Label": "Promotion",
+          "Label": "Promotie",
           "LabelKey": "EventRankingCategory.League.Promoted"
         },
         {

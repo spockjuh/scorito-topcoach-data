@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-05T07:24:35.728529+00:00",
+  "fetchedAt": "2026-08-05T07:29:51.484154+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -1597,11 +1597,11 @@
           "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague"
         },
         {
-          "Label": "Champions League Qualification",
+          "Label": "Champions League voorronde",
           "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries"
         },
         {
-          "Label": "Europa League play-offs",
+          "Label": "Europa League voorronde",
           "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs"
         },
         {

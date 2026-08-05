@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-05T07:23:23.381544+00:00",
+  "fetchedAt": "2026-08-05T07:28:56.686964+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -1912,39 +1912,39 @@
           "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague"
         },
         {
-          "Label": "Champions League Qualification",
+          "Label": "Champions League voorronde",
           "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries"
         },
         {
-          "Label": "Europa League play-offs",
+          "Label": "Europa League voorronde",
           "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs"
         },
         {
-          "Label": "Qualified for play-offs",
+          "Label": "Gekwalificeerd voor play-offs",
           "LabelKey": "EventRankingCategory.Qualification.ToPlayoffs"
         },
         {
-          "Label": "Qualified for play-offs",
+          "Label": "Gekwalificeerd voor play-offs",
           "LabelKey": "EventRankingCategory.Qualification.ToPlayoffs"
         },
         {
-          "Label": "Qualified for play-offs",
+          "Label": "Gekwalificeerd voor play-offs",
           "LabelKey": "EventRankingCategory.Qualification.ToPlayoffs"
         },
         {
-          "Label": "Qualified for play-offs",
+          "Label": "Gekwalificeerd voor play-offs",
           "LabelKey": "EventRankingCategory.Qualification.ToPlayoffs"
         },
         {
-          "Label": "Relegation play-offs",
+          "Label": "Nacompetitie",
           "LabelKey": "EventRankingCategory.League.RelegationPlayoffs"
         },
         {
-          "Label": "Relegation",
+          "Label": "Degradatie",
           "LabelKey": "EventRankingCategory.League.Relegated"
         },
         {
-          "Label": "Relegation",
+          "Label": "Degradatie",
           "LabelKey": "EventRankingCategory.League.Relegated"
         }
       ]
