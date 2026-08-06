@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-06T00:13:02.429849+00:00",
+  "fetchedAt": "2026-08-06T12:31:20.603014+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 471,
+  "playerCount": 473,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1698,6 +1698,24 @@
       "teamId": 3,
       "teamName": "FC Groningen",
       "dateCreated": "2026-08-05T11:37:38.2585714+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Bouhoudane",
+      "price": 1250000,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "dateCreated": "2026-08-06T07:30:20.7552928+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Bouhamdi",
+      "price": 2000000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-08-06T11:29:37.3616708+00:00"
     }
   ],
   "standings": [

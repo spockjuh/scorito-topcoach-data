@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-06T00:13:20.868589+00:00",
-  "playerCount": 483,
+  "fetchedAt": "2026-08-06T12:31:42.673587+00:00",
+  "playerCount": 487,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -3057,8 +3057,8 @@
     {
       "teamPlayerId": 731986,
       "playerId": 50712,
-      "name": "Sami Bouhoudane",
-      "nationality": "Nederland",
+      "name": null,
+      "nationality": null,
       "position": 8,
       "teamId": 810,
       "teamName": "Jong PSV",
@@ -4833,6 +4833,46 @@
       "teamId": 809,
       "teamName": "TOP Oss",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1210604,
+      "playerId": 61418,
+      "name": "Mohammed Belfqih",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1210605,
+      "playerId": 61419,
+      "name": "Ryan de Vries",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1210333,
+      "playerId": 59406,
+      "name": "Mylan Brouwers",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1210621,
+      "playerId": 58611,
+      "name": "Mauro Lenaerts",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 1000000
     }
   ]
 }

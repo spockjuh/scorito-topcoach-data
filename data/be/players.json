@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-06T00:13:54.991384+00:00",
-  "playerCount": 489,
+  "fetchedAt": "2026-08-06T12:32:24.267945+00:00",
+  "playerCount": 496,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -4893,6 +4893,76 @@
       "teamId": 628,
       "teamName": "Antwerp",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210615,
+      "playerId": 61544,
+      "name": "Zalán Átrok",
+      "nationality": "Hongarije",
+      "position": 4,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210613,
+      "playerId": 58303,
+      "name": "Franz Tangala",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1210612,
+      "playerId": 57656,
+      "name": "Kewan Vemba",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210606,
+      "playerId": 59423,
+      "name": "Modibo Fofana",
+      "nationality": "Ivoorkust",
+      "position": 4,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210614,
+      "playerId": 59040,
+      "name": "Louie van Gelder",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210608,
+      "playerId": 54429,
+      "name": "Ilias Ben Sadik",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210607,
+      "playerId": 53617,
+      "name": "Théo Radelet",
+      "nationality": "België",
+      "position": 1,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "price": 1250000
     }
   ]
 }

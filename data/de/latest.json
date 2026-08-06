@@ -2,8 +2,8 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-06T00:14:12.079930+00:00",
-  "status": "structure_only",
+  "fetchedAt": "2026-08-06T12:32:45.458667+00:00",
+  "status": "active",
   "marketStructure": {
     "Id": 328,
     "PreviousMarketId": 329,
@@ -749,7 +749,7 @@
       "amountOfMidfielders": 6,
       "amountOfForwards": 5,
       "maxPlayersPerTeam": 4,
-      "transferBudget": 50000000,
+      "transferBudget": 47000000,
       "teamSelectionOpensAt": "2026-07-14T08:00:00+00:00",
       "teamSelectionDeadline": "2026-09-18T18:30:00+00:00",
       "goldenSubstituteAmount": 2,
@@ -768,7 +768,7 @@
     "amountOfMidfielders": 6,
     "amountOfForwards": 5,
     "maxPlayersPerTeam": 4,
-    "transferBudget": 50000000,
+    "transferBudget": 47000000,
     "teamSelectionOpensAt": "2026-07-14T08:00:00+00:00",
     "teamSelectionDeadline": "2026-09-18T18:30:00+00:00",
     "goldenSubstituteAmount": 2,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 0,
+  "playerCount": 530,
   "playerPoints": [],
   "transferFeed": [],
   "standings": [

@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-06T00:13:54.991384+00:00",
+  "fetchedAt": "2026-08-06T12:32:24.267945+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 489,
+  "playerCount": 496,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1374,6 +1374,78 @@
       "teamId": 628,
       "teamName": "Antwerp",
       "dateCreated": "2026-08-05T14:57:39.1255096+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Z. Átrok",
+      "price": 1250000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-08-06T11:11:52.8879968+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "F. Tangala",
+      "price": 500000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-08-06T11:12:10.9381828+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "K. Vemba",
+      "price": 750000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-08-06T11:12:15.5164538+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Fofana",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-06T11:13:36.6680896+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "L. Van Gelder",
+      "price": 1000000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-06T11:13:55.9546174+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "I. Sadik",
+      "price": 750000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-08-06T11:14:24.3229934+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "T. Radelet",
+      "price": 1250000,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "dateCreated": "2026-08-06T11:16:46.5687942+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "M. Lenaerts",
+      "price": 1000000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-06T11:35:21.5202279+00:00"
     }
   ],
   "standings": [

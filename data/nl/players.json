@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-06T00:13:02.429849+00:00",
-  "playerCount": 471,
+  "fetchedAt": "2026-08-06T12:31:20.603014+00:00",
+  "playerCount": 473,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4713,6 +4713,26 @@
       "teamId": 3,
       "teamName": "FC Groningen",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210521,
+      "playerId": 50712,
+      "name": "Sami Bouhoudane",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210620,
+      "playerId": 58327,
+      "name": "Amir Bouhamdi",
+      "nationality": "Marokko",
+      "position": 8,
+      "teamId": 7,
+      "teamName": "PSV",
+      "price": 2000000
     }
   ]
 }

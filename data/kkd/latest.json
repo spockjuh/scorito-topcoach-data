@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-06T00:13:20.868589+00:00",
+  "fetchedAt": "2026-08-06T12:31:42.673587+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 483,
+  "playerCount": 487,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1643,6 +1643,60 @@
       "teamId": 809,
       "teamName": "TOP Oss",
       "dateCreated": "2026-08-05T14:54:26.9957711+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "S. Bouhoudane",
+      "price": 1500000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-08-06T07:21:18.4017753+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Belfqih",
+      "price": 1750000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-08-06T08:40:20.9085811+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "R. De Vries",
+      "price": 1750000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-08-06T08:40:34.4392786+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Brouwers",
+      "price": 2500000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-08-06T08:41:18.816297+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Bouhamdi",
+      "price": 750000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-08-06T11:27:39.5796609+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Lenaerts",
+      "price": 1000000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-06T11:36:03.5511435+00:00"
     }
   ],
   "standings": [
