@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-07T19:39:52.720420+00:00",
+  "fetchedAt": "2026-08-07T22:06:16.873184+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -872,6 +872,12 @@
     },
     {
       "marketId": 312,
+      "teamPlayerId": 1210282,
+      "playerId": 53620,
+      "points": 0
+    },
+    {
+      "marketId": 312,
       "teamPlayerId": 1210223,
       "playerId": 58259,
       "points": 0
@@ -914,12 +920,6 @@
     },
     {
       "marketId": 312,
-      "teamPlayerId": 1210282,
-      "playerId": 53620,
-      "points": 0
-    },
-    {
-      "marketId": 312,
       "teamPlayerId": 795721,
       "playerId": 16028,
       "points": 4
@@ -950,14 +950,14 @@
     },
     {
       "marketId": 312,
-      "teamPlayerId": 876277,
-      "playerId": 48333,
+      "teamPlayerId": 1210521,
+      "playerId": 50712,
       "points": 28
     },
     {
       "marketId": 312,
-      "teamPlayerId": 1210521,
-      "playerId": 50712,
+      "teamPlayerId": 876277,
+      "playerId": 48333,
       "points": 28
     },
     {
@@ -1989,12 +1989,25 @@
       "RankEntries": [
         {
           "GoalsAgainst": 0,
+          "GoalsFor": 4,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_17.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "MatchesPlayed": 1,
+          "Points": 3,
+          "Rank": 1,
+          "TeamNameShort": "EXC",
+          "TeamType": 0,
+          "TranslatedName": "Excelsior Rotterdam",
+          "TeamId": 17
+        },
+        {
+          "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_16.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 1,
+          "Rank": 2,
           "TeamNameShort": "ADO",
           "TeamType": 0,
           "TranslatedName": "ADO Den Haag",
@@ -2004,10 +2017,10 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_1.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries",
+          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 2,
+          "Rank": 3,
           "TeamNameShort": "AJA",
           "TeamType": 0,
           "TranslatedName": "Ajax",
@@ -2017,27 +2030,14 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_13.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs",
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 3,
-          "TeamNameShort": "AZ",
-          "TeamType": 0,
-          "TranslatedName": "AZ",
-          "TeamId": 13
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_17.png",
           "LabelKey": "EventRankingCategory.Qualification.ToPlayoffs",
           "MatchesPlayed": 0,
           "Points": 0,
           "Rank": 4,
-          "TeamNameShort": "EXC",
+          "TeamNameShort": "AZ",
           "TeamType": 0,
-          "TranslatedName": "Excelsior Rotterdam",
-          "TeamId": 17
+          "TranslatedName": "AZ",
+          "TeamId": 13
         },
         {
           "GoalsAgainst": 0,
@@ -2159,24 +2159,11 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_22.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 14,
-          "TeamNameShort": "CAM",
-          "TeamType": 0,
-          "TranslatedName": "SC Cambuur",
-          "TeamId": 22
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_4.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 15,
+          "Rank": 14,
           "TeamNameShort": "HEE",
           "TeamType": 0,
           "TranslatedName": "sc Heerenveen",
@@ -2186,10 +2173,10 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_351.png",
-          "LabelKey": "EventRankingCategory.League.RelegationPlayoffs",
+          "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 16,
+          "Rank": 15,
           "TeamNameShort": "SPA",
           "TeamType": 0,
           "TranslatedName": "Sparta Rotterdam",
@@ -2199,10 +2186,10 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_816.png",
-          "LabelKey": "EventRankingCategory.League.Relegated",
+          "LabelKey": "EventRankingCategory.League.RelegationPlayoffs",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 17,
+          "Rank": 16,
           "TeamNameShort": "TEL",
           "TeamType": 0,
           "TranslatedName": "Telstar",
@@ -2215,11 +2202,24 @@
           "LabelKey": "EventRankingCategory.League.Relegated",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 18,
+          "Rank": 17,
           "TeamNameShort": "WIL",
           "TeamType": 0,
           "TranslatedName": "Willem II",
           "TeamId": 19
+        },
+        {
+          "GoalsAgainst": 4,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_22.png",
+          "LabelKey": "EventRankingCategory.League.Relegated",
+          "MatchesPlayed": 1,
+          "Points": 0,
+          "Rank": 18,
+          "TeamNameShort": "CAM",
+          "TeamType": 0,
+          "TranslatedName": "SC Cambuur",
+          "TeamId": 22
         }
       ],
       "GroupId": 1,

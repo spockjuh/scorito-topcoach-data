@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-07T19:40:46.846016+00:00",
+  "fetchedAt": "2026-08-07T22:07:09.630954+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -782,6 +782,12 @@
   "playerPoints": [
     {
       "marketId": 315,
+      "teamPlayerId": 855509,
+      "playerId": 47165,
+      "points": -12
+    },
+    {
+      "marketId": 315,
       "teamPlayerId": 1160551,
       "playerId": 51677,
       "points": 0
@@ -796,18 +802,6 @@
       "marketId": 315,
       "teamPlayerId": 1160858,
       "playerId": 50662,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 819798,
-      "playerId": 32995,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 1206040,
-      "playerId": 61452,
       "points": 0
     },
     {
@@ -848,6 +842,18 @@
     },
     {
       "marketId": 315,
+      "teamPlayerId": 819798,
+      "playerId": 32995,
+      "points": 0
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 1206040,
+      "playerId": 61452,
+      "points": 0
+    },
+    {
+      "marketId": 315,
       "teamPlayerId": 1206041,
       "playerId": 61454,
       "points": 0
@@ -872,9 +878,45 @@
     },
     {
       "marketId": 315,
-      "teamPlayerId": 855509,
-      "playerId": 47165,
+      "teamPlayerId": 1194188,
+      "playerId": 36381,
       "points": 12
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 1204505,
+      "playerId": 61432,
+      "points": 12
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 855405,
+      "playerId": 11374,
+      "points": 12
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 871327,
+      "playerId": 13706,
+      "points": 12
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 870358,
+      "playerId": 20707,
+      "points": 16
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 830980,
+      "playerId": 3560,
+      "points": 16
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 1204506,
+      "playerId": 61431,
+      "points": 16
     },
     {
       "marketId": 315,
@@ -890,68 +932,14 @@
     },
     {
       "marketId": 315,
-      "teamPlayerId": 830980,
-      "playerId": 3560,
-      "points": 28
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 870358,
-      "playerId": 20707,
-      "points": 28
-    },
-    {
-      "marketId": 315,
       "teamPlayerId": 1193936,
       "playerId": 49490,
       "points": 28
     },
     {
       "marketId": 315,
-      "teamPlayerId": 1204506,
-      "playerId": 61431,
-      "points": 28
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 855405,
-      "playerId": 11374,
-      "points": 36
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 1194188,
-      "playerId": 36381,
-      "points": 36
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 1204505,
-      "playerId": 61432,
-      "points": 36
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 871327,
-      "playerId": 13706,
-      "points": 36
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 872802,
-      "playerId": 47636,
-      "points": 46
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 869582,
-      "playerId": 56266,
-      "points": 46
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 878485,
-      "playerId": 45503,
+      "teamPlayerId": 1210227,
+      "playerId": 37513,
       "points": 46
     },
     {
@@ -962,20 +950,20 @@
     },
     {
       "marketId": 315,
-      "teamPlayerId": 1210227,
-      "playerId": 37513,
-      "points": 70
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 624408,
-      "playerId": 43797,
-      "points": 102
+      "teamPlayerId": 878485,
+      "playerId": 45503,
+      "points": 78
     },
     {
       "marketId": 315,
       "teamPlayerId": 1209346,
       "playerId": 48113,
+      "points": 102
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 624408,
+      "playerId": 43797,
       "points": 102
     },
     {
@@ -989,6 +977,18 @@
       "teamPlayerId": 34383,
       "playerId": 2696,
       "points": 102
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 872802,
+      "playerId": 47636,
+      "points": 110
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 869582,
+      "playerId": 56266,
+      "points": 110
     },
     {
       "marketId": 315,
@@ -1731,12 +1731,25 @@
       "RankEntries": [
         {
           "GoalsAgainst": 0,
+          "GoalsFor": 3,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_252.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "MatchesPlayed": 1,
+          "Points": 3,
+          "Rank": 1,
+          "TeamNameShort": "CLU",
+          "TeamType": 0,
+          "TranslatedName": "Club Brugge",
+          "TeamId": 252
+        },
+        {
+          "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_160.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 1,
+          "Rank": 2,
           "TeamNameShort": "AND",
           "TeamType": 0,
           "TranslatedName": "Anderlecht",
@@ -1746,10 +1759,10 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_628.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries",
+          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 2,
+          "Rank": 3,
           "TeamNameShort": "ANT",
           "TeamType": 0,
           "TranslatedName": "Antwerp",
@@ -1759,10 +1772,10 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_683.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs",
+          "LabelKey": "EventRankingCategory.League.QualifiedForEuropaConferenceLeague",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 3,
+          "Rank": 4,
           "TeamNameShort": "CER",
           "TeamType": 0,
           "TranslatedName": "Cercle Brugge",
@@ -1771,15 +1784,15 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_252.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForEuropaConferenceLeague",
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_367.png",
+          "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 4,
-          "TeamNameShort": "CLU",
+          "Rank": 5,
+          "TeamNameShort": "CHA",
           "TeamType": 0,
-          "TranslatedName": "Club Brugge",
-          "TeamId": 252
+          "TranslatedName": "Charleroi",
+          "TeamId": 367
         },
         {
           "GoalsAgainst": 0,
@@ -1788,7 +1801,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 5,
+          "Rank": 6,
           "TeamNameShort": "GNT",
           "TeamType": 0,
           "TranslatedName": "AA Gent",
@@ -1801,24 +1814,11 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 6,
+          "Rank": 7,
           "TeamNameShort": "GNK",
           "TeamType": 0,
           "TranslatedName": "Racing Genk",
           "TeamId": 545
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_563.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 7,
-          "TeamNameShort": "KOR",
-          "TeamType": 0,
-          "TranslatedName": "Kortrijk",
-          "TeamId": 563
         },
         {
           "GoalsAgainst": 0,
@@ -1836,24 +1836,11 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_560.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 9,
-          "TeamNameShort": "WES",
-          "TeamType": 0,
-          "TranslatedName": "Westerlo",
-          "TeamId": 560
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_1059.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 10,
+          "Rank": 9,
           "TeamNameShort": "LOM",
           "TeamType": 0,
           "TranslatedName": "Lommel SK",
@@ -1866,7 +1853,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 11,
+          "Rank": 10,
           "TeamNameShort": "OHL",
           "TeamType": 0,
           "TranslatedName": "OH Leuven",
@@ -1879,7 +1866,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 12,
+          "Rank": 11,
           "TeamNameShort": "RLL",
           "TeamType": 0,
           "TranslatedName": "RAAL La Louvière",
@@ -1888,24 +1875,11 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_367.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 13,
-          "TeamNameShort": "CHA",
-          "TeamType": 0,
-          "TranslatedName": "Charleroi",
-          "TeamId": 367
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_555.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 14,
+          "Rank": 12,
           "TeamNameShort": "SKB",
           "TeamType": 0,
           "TranslatedName": "SK Beveren",
@@ -1918,7 +1892,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 15,
+          "Rank": 13,
           "TeamNameShort": "STA",
           "TeamType": 0,
           "TranslatedName": "Standard",
@@ -1931,7 +1905,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 16,
+          "Rank": 14,
           "TeamNameShort": "STV",
           "TeamType": 0,
           "TranslatedName": "STVV",
@@ -1944,7 +1918,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 17,
+          "Rank": 15,
           "TeamNameShort": "USG",
           "TeamType": 0,
           "TranslatedName": "Union",
@@ -1953,15 +1927,41 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_560.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 16,
+          "TeamNameShort": "WES",
+          "TeamType": 0,
+          "TranslatedName": "Westerlo",
+          "TeamId": 560
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_572.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 18,
+          "Rank": 17,
           "TeamNameShort": "ZWA",
           "TeamType": 0,
           "TranslatedName": "Zulte Waregem",
           "TeamId": 572
+        },
+        {
+          "GoalsAgainst": 3,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_563.png",
+          "LabelKey": null,
+          "MatchesPlayed": 1,
+          "Points": 0,
+          "Rank": 18,
+          "TeamNameShort": "KOR",
+          "TeamType": 0,
+          "TranslatedName": "Kortrijk",
+          "TeamId": 563
         }
       ],
       "GroupId": 1,
