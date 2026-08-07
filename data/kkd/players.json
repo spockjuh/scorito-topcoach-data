@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-07T04:14:54.263756+00:00",
-  "playerCount": 488,
+  "fetchedAt": "2026-08-07T09:36:59.108395+00:00",
+  "playerCount": 492,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -4883,6 +4883,46 @@
       "teamId": 806,
       "teamName": "FC Den Bosch",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210838,
+      "playerId": 61566,
+      "name": "Mustafa Abdullatif",
+      "nationality": "Syrië",
+      "position": 4,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1210834,
+      "playerId": 61564,
+      "name": "Daan Lambers",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210833,
+      "playerId": 61565,
+      "name": "Mohamed Kessrioui",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210832,
+      "playerId": 61563,
+      "name": "Yunus Younous",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "price": 1500000
     }
   ]
 }

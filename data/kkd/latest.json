@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-07T04:14:54.263756+00:00",
+  "fetchedAt": "2026-08-07T09:36:59.108395+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 488,
+  "playerCount": 492,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1706,6 +1706,42 @@
       "teamId": 806,
       "teamName": "FC Den Bosch",
       "dateCreated": "2026-08-06T13:51:56.5505822+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Abdullatif",
+      "price": 2000000,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "dateCreated": "2026-08-07T07:36:46.9964569+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "D. Lambers",
+      "price": 1250000,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "dateCreated": "2026-08-07T07:38:07.8407245+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Kessrioui",
+      "price": 1000000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-08-07T07:39:11.479746+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "Y. Younous",
+      "price": 1500000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-08-07T07:40:09.5797808+00:00"
     }
   ],
   "standings": [
