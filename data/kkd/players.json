@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-07T12:30:48.421581+00:00",
-  "playerCount": 495,
+  "fetchedAt": "2026-08-07T16:11:16.110310+00:00",
+  "playerCount": 497,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -4953,6 +4953,26 @@
       "teamId": 809,
       "teamName": "TOP Oss",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1210916,
+      "playerId": 61570,
+      "name": "Quint Jansen",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210900,
+      "playerId": 61417,
+      "name": "Jahmani Gambier",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "price": 1500000
     }
   ]
 }

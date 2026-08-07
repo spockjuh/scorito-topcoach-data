@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-07T12:30:29.612452+00:00",
+  "fetchedAt": "2026-08-07T16:10:56.413277+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 474,
+  "playerCount": 475,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1725,6 +1725,15 @@
       "teamId": 7,
       "teamName": "PSV",
       "dateCreated": "2026-08-06T16:32:22.4159338+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "G. Cairo",
+      "price": 500000,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "dateCreated": "2026-08-07T15:39:55.4674793+00:00"
     }
   ],
   "standings": [

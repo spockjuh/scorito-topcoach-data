@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-07T12:30:29.612452+00:00",
-  "playerCount": 474,
+  "fetchedAt": "2026-08-07T16:10:56.413277+00:00",
+  "playerCount": 475,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4743,6 +4743,16 @@
       "teamId": 7,
       "teamName": "PSV",
       "price": 4000000
+    },
+    {
+      "teamPlayerId": 1210925,
+      "playerId": 52994,
+      "name": "Guilliano Cairo",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 500000
     }
   ]
 }

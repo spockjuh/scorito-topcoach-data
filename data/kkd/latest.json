@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-07T12:30:48.421581+00:00",
+  "fetchedAt": "2026-08-07T16:11:16.110310+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 495,
+  "playerCount": 497,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1796,6 +1796,24 @@
       "teamId": 809,
       "teamName": "TOP Oss",
       "dateCreated": "2026-08-07T11:30:58.7032341+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Q. Jansen",
+      "price": 750000,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "dateCreated": "2026-08-07T13:30:27.4423926+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Gambier",
+      "price": 1500000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-08-07T13:31:08.6511208+00:00"
     }
   ],
   "standings": [

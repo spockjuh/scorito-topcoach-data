@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-07T12:31:23.721459+00:00",
+  "fetchedAt": "2026-08-07T16:11:54.874855+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 496,
+  "playerCount": 500,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1455,6 +1455,51 @@
       "teamId": 563,
       "teamName": "Kortrijk",
       "dateCreated": "2026-08-07T12:11:01.3602165+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "J. Porozo",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-07T12:40:59.3004819+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "P. Bibout",
+      "price": 750000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-08-07T13:27:24.5084211+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "K. Wilson",
+      "price": 1250000,
+      "teamId": 233,
+      "teamName": "AA Gent",
+      "dateCreated": "2026-08-07T13:27:56.8670552+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Ayodele",
+      "price": 1500000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-07T13:28:32.5754054+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Porozo",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-07T13:29:50.1524914+00:00"
     }
   ],
   "standings": [

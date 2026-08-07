@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-07T12:31:23.721459+00:00",
-  "playerCount": 496,
+  "fetchedAt": "2026-08-07T16:11:54.874855+00:00",
+  "playerCount": 500,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -4963,6 +4963,46 @@
       "teamId": 1036,
       "teamName": "RAAL La Louvière",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210918,
+      "playerId": 61568,
+      "name": "Philippe Bibout",
+      "nationality": "Gambia",
+      "position": 4,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210917,
+      "playerId": 61569,
+      "name": "Kyrell Wilson",
+      "nationality": "Engeland",
+      "position": 8,
+      "teamId": 233,
+      "teamName": "AA Gent",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210919,
+      "playerId": 61567,
+      "name": "Adeshina Ayodele",
+      "nationality": "Nigeria",
+      "position": 8,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210920,
+      "playerId": 61571,
+      "name": "Snayder Porozo",
+      "nationality": "Ecuador",
+      "position": 8,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1500000
     }
   ]
 }
