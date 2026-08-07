@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-07T09:36:59.108395+00:00",
+  "fetchedAt": "2026-08-07T12:30:48.421581+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 492,
+  "playerCount": 495,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1742,6 +1742,60 @@
       "teamId": 23,
       "teamName": "FC Dordrecht",
       "dateCreated": "2026-08-07T07:40:09.5797808+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "R. Boulahrouz",
+      "price": 500000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-07T10:40:55.0153471+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "B. Limbombe",
+      "price": 2500000,
+      "teamId": 14,
+      "teamName": "Heracles Almelo",
+      "dateCreated": "2026-08-07T11:10:57.4485864+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "J. Müller",
+      "price": 2500000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-08-07T11:25:58.865788+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. Van Bruggen",
+      "price": 3000000,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "dateCreated": "2026-08-07T11:29:34.6574775+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Wieckhoff",
+      "price": 2000000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-07T11:30:20.8625363+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Kuiper",
+      "price": 750000,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "dateCreated": "2026-08-07T11:30:58.7032341+00:00"
     }
   ],
   "standings": [

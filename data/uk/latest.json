@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-07T09:37:18.478898+00:00",
+  "fetchedAt": "2026-08-07T12:31:06.099496+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 585,
+  "playerCount": 586,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1103,6 +1103,69 @@
       "teamId": 143,
       "teamName": "Manchester United",
       "dateCreated": "2026-08-05T13:24:56.1377026+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "A. Bayindir",
+      "price": 2000000,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "dateCreated": "2026-08-07T12:08:49.6258384+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "J. Trafford",
+      "price": 3000000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-08-07T12:08:49.6361977+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Nørgaard",
+      "price": 2500000,
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "dateCreated": "2026-08-07T12:08:49.6461711+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "W. Burns",
+      "price": 500000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-07T12:08:49.6560733+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Nørgaard",
+      "price": 1750000,
+      "teamId": 497,
+      "teamName": "Everton",
+      "dateCreated": "2026-08-07T12:27:05.42814+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Sánchez",
+      "price": 1250000,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
+      "dateCreated": "2026-08-07T12:27:08.6679146+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "J. Trafford",
+      "price": 1250000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-07T12:27:12.2987951+00:00"
     }
   ],
   "standings": [

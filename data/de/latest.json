@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-07T09:37:57.837381+00:00",
+  "fetchedAt": "2026-08-07T12:31:41.412985+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -780,7 +780,35 @@
   },
   "playerCount": 530,
   "playerPoints": [],
-  "transferFeed": [],
+  "transferFeed": [
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "Y. Diomande",
+      "price": 3500000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-08-07T11:10:57.4560083+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "Y. Couto",
+      "price": 2500000,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "dateCreated": "2026-08-07T12:08:49.6631792+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "E. Ebimbe",
+      "price": 1000000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-07T12:08:49.6714757+00:00"
+    }
+  ],
   "standings": [
     {
       "TranslatedName": "Football.Event.846.Phase.1.SubPhase.1.Group.1",

@@ -1,14 +1,14 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-07T09:37:18.478898+00:00",
-  "playerCount": 585,
+  "fetchedAt": "2026-08-07T12:31:06.099496+00:00",
+  "playerCount": 586,
   "players": [
     {
       "teamPlayerId": 675998,
       "playerId": 22413,
-      "name": "Altay Bayindir",
-      "nationality": "Turkije",
+      "name": null,
+      "nationality": null,
       "position": 1,
       "teamId": 143,
       "teamName": "Manchester United",
@@ -955,14 +955,14 @@
       "price": 3500000
     },
     {
-      "teamPlayerId": 875482,
+      "teamPlayerId": 1210904,
       "playerId": 32958,
       "name": "James Trafford",
       "nationality": "Engeland",
       "position": 1,
-      "teamId": 295,
-      "teamName": "Manchester City",
-      "price": 3000000
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "price": 1250000
     },
     {
       "teamPlayerId": 862860,
@@ -1405,14 +1405,14 @@
       "price": 3000000
     },
     {
-      "teamPlayerId": 871662,
+      "teamPlayerId": 1210905,
       "playerId": 7429,
       "name": "Christian Nørgaard",
       "nationality": "Denemarken",
       "position": 4,
-      "teamId": 312,
-      "teamName": "Arsenal",
-      "price": 2500000
+      "teamId": 497,
+      "teamName": "Everton",
+      "price": 1750000
     },
     {
       "teamPlayerId": 962360,
@@ -5287,8 +5287,8 @@
     {
       "teamPlayerId": 818485,
       "playerId": 10540,
-      "name": "Wes Burns",
-      "nationality": "Wales",
+      "name": null,
+      "nationality": null,
       "position": 4,
       "teamId": 971,
       "teamName": "Ipswich Town",
@@ -5852,6 +5852,16 @@
       "position": 8,
       "teamId": 143,
       "teamName": "Manchester United",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210648,
+      "playerId": 30284,
+      "name": "Juanlu Sánchez",
+      "nationality": "Spanje",
+      "position": 2,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
       "price": 1250000
     }
   ]
