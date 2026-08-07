@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-06T12:31:20.603014+00:00",
-  "playerCount": 473,
+  "fetchedAt": "2026-08-07T04:14:33.182181+00:00",
+  "playerCount": 474,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4733,6 +4733,16 @@
       "teamId": 7,
       "teamName": "PSV",
       "price": 2000000
+    },
+    {
+      "teamPlayerId": 1210658,
+      "playerId": 556,
+      "name": "Filip Kostic",
+      "nationality": "Servië",
+      "position": 2,
+      "teamId": 7,
+      "teamName": "PSV",
+      "price": 4000000
     }
   ]
 }

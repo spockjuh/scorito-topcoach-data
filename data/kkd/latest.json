@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-06T12:31:42.673587+00:00",
+  "fetchedAt": "2026-08-07T04:14:54.263756+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 487,
+  "playerCount": 488,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1697,6 +1697,15 @@
       "teamId": 813,
       "teamName": "Helmond Sport",
       "dateCreated": "2026-08-06T11:36:03.5511435+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "K. De Rooij",
+      "price": 1000000,
+      "teamId": 806,
+      "teamName": "FC Den Bosch",
+      "dateCreated": "2026-08-06T13:51:56.5505822+00:00"
     }
   ],
   "standings": [

@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-06T12:31:20.603014+00:00",
+  "fetchedAt": "2026-08-07T04:14:33.182181+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 473,
+  "playerCount": 474,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1716,6 +1716,15 @@
       "teamId": 7,
       "teamName": "PSV",
       "dateCreated": "2026-08-06T11:29:37.3616708+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "F. Kostic",
+      "price": 4000000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-08-06T16:32:22.4159338+00:00"
     }
   ],
   "standings": [

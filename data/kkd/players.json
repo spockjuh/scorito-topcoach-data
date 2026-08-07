@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-06T12:31:42.673587+00:00",
-  "playerCount": 487,
+  "fetchedAt": "2026-08-07T04:14:54.263756+00:00",
+  "playerCount": 488,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -4872,6 +4872,16 @@
       "position": 8,
       "teamId": 813,
       "teamName": "Helmond Sport",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210633,
+      "playerId": 59330,
+      "name": "Kai de Rooij",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 806,
+      "teamName": "FC Den Bosch",
       "price": 1000000
     }
   ]
