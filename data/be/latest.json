@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-08T10:06:09.241155+00:00",
+  "fetchedAt": "2026-08-08T11:51:47.456185+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -806,6 +806,18 @@
     },
     {
       "marketId": 315,
+      "teamPlayerId": 819798,
+      "playerId": 32995,
+      "points": 0
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 1206040,
+      "playerId": 61452,
+      "points": 0
+    },
+    {
+      "marketId": 315,
       "teamPlayerId": 1187972,
       "playerId": 37902,
       "points": 0
@@ -826,30 +838,6 @@
       "marketId": 315,
       "teamPlayerId": 1194000,
       "playerId": 48386,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 586339,
-      "playerId": 43784,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 533340,
-      "playerId": 34330,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 819798,
-      "playerId": 32995,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 1206040,
-      "playerId": 61452,
       "points": 0
     },
     {
@@ -878,6 +866,24 @@
     },
     {
       "marketId": 315,
+      "teamPlayerId": 586339,
+      "playerId": 43784,
+      "points": 0
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 533340,
+      "playerId": 34330,
+      "points": 0
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 855405,
+      "playerId": 11374,
+      "points": 12
+    },
+    {
+      "marketId": 315,
       "teamPlayerId": 1194188,
       "playerId": 36381,
       "points": 12
@@ -890,26 +896,20 @@
     },
     {
       "marketId": 315,
-      "teamPlayerId": 855405,
-      "playerId": 11374,
-      "points": 12
-    },
-    {
-      "marketId": 315,
       "teamPlayerId": 871327,
       "playerId": 13706,
       "points": 12
     },
     {
       "marketId": 315,
-      "teamPlayerId": 870358,
-      "playerId": 20707,
+      "teamPlayerId": 830980,
+      "playerId": 3560,
       "points": 16
     },
     {
       "marketId": 315,
-      "teamPlayerId": 830980,
-      "playerId": 3560,
+      "teamPlayerId": 870358,
+      "playerId": 20707,
       "points": 16
     },
     {
@@ -956,14 +956,14 @@
     },
     {
       "marketId": 315,
-      "teamPlayerId": 1209346,
-      "playerId": 48113,
+      "teamPlayerId": 624408,
+      "playerId": 43797,
       "points": 102
     },
     {
       "marketId": 315,
-      "teamPlayerId": 624408,
-      "playerId": 43797,
+      "teamPlayerId": 1209346,
+      "playerId": 48113,
       "points": 102
     },
     {
