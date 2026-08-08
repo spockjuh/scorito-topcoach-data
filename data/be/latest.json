@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-08T11:51:47.456185+00:00",
+  "fetchedAt": "2026-08-08T14:07:03.125200+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -842,6 +842,18 @@
     },
     {
       "marketId": 315,
+      "teamPlayerId": 586339,
+      "playerId": 43784,
+      "points": 0
+    },
+    {
+      "marketId": 315,
+      "teamPlayerId": 533340,
+      "playerId": 34330,
+      "points": 0
+    },
+    {
+      "marketId": 315,
       "teamPlayerId": 1206041,
       "playerId": 61454,
       "points": 0
@@ -862,18 +874,6 @@
       "marketId": 315,
       "teamPlayerId": 1194222,
       "playerId": 27343,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 586339,
-      "playerId": 43784,
-      "points": 0
-    },
-    {
-      "marketId": 315,
-      "teamPlayerId": 533340,
-      "playerId": 34330,
       "points": 0
     },
     {
