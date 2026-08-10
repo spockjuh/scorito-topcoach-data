@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-10T10:41:57.826282+00:00",
+  "fetchedAt": "2026-08-10T14:42:51.738180+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 500,
+  "playerCount": 501,
   "playerPoints": [
     {
       "marketId": 315,
@@ -3541,6 +3541,15 @@
       "teamId": 628,
       "teamName": "Antwerp",
       "dateCreated": "2026-08-07T13:29:50.1524914+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Virgili",
+      "price": 3000000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-08-10T13:17:12.0811294+00:00"
     }
   ],
   "standings": [
@@ -3897,5 +3906,110 @@
     "deadline": "2026-08-14T18:45:00+00:00",
     "gamePhaseId": 1137
   },
-  "playerAvailability": []
+  "playerAvailability": [
+    {
+      "playerId": 14822,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 19932,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 21035,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 26460,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 32658,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 34791,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 39026,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 42879,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 43816,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 44588,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 45078,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 46794,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 48024,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 50384,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 50412,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 53286,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 53665,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 54025,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 54088,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 54164,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 56876,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 57375,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 58369,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 58813,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 59839,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 60177,
+      "availabilityStatus": 0
+    }
+  ]
 }

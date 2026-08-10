@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-10T10:41:38.945294+00:00",
+  "fetchedAt": "2026-08-10T14:42:32.395314+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1166,6 +1166,78 @@
       "teamId": 864,
       "teamName": "Leeds United",
       "dateCreated": "2026-08-07T12:27:12.2987951+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "R. Vítek",
+      "price": 1500000,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "dateCreated": "2026-08-10T14:27:08.3460671+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "T. Chalobah",
+      "price": 2000000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-10T14:27:08.3537765+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "L. Digne",
+      "price": 2500000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-08-10T14:27:08.3599127+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "T. Lo-Tutala",
+      "price": 500000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-10T14:27:08.3653894+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "F. Buonanotte",
+      "price": 1500000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-08-10T14:27:08.3732367+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "S. Lukic",
+      "price": 1000000,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "dateCreated": "2026-08-10T14:27:08.3776539+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "J. Markelo",
+      "price": 500000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-10T14:27:08.3839108+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "B. Guimarães",
+      "price": 3000000,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "dateCreated": "2026-08-10T14:27:08.3920451+00:00"
     }
   ],
   "standings": [
@@ -1573,5 +1645,26 @@
     "deadline": "2026-08-21T19:00:00+00:00",
     "gamePhaseId": 1139
   },
-  "playerAvailability": []
+  "playerAvailability": [
+    {
+      "playerId": 1377,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 26651,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 28830,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 34280,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 36346,
+      "availabilityStatus": 0
+    }
+  ]
 }

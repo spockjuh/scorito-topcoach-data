@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-10T10:40:58.169566+00:00",
-  "playerCount": 475,
+  "fetchedAt": "2026-08-10T14:41:50.040928+00:00",
+  "playerCount": 477,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4753,6 +4753,26 @@
       "teamId": 17,
       "teamName": "Excelsior Rotterdam",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1211092,
+      "playerId": 38415,
+      "name": "Mario Dominguez",
+      "nationality": "Spanje",
+      "position": 8,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210914,
+      "playerId": 47306,
+      "name": "Kaylen Reitmaier",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 692,
+      "teamName": "Fortuna Sittard",
+      "price": 750000
     }
   ]
 }

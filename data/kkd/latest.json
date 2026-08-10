@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-10T10:41:19.048432+00:00",
+  "fetchedAt": "2026-08-10T14:42:11.992886+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -4028,5 +4028,94 @@
     "deadline": "2026-08-14T18:00:00+00:00",
     "gamePhaseId": 1135
   },
-  "playerAvailability": []
+  "playerAvailability": [
+    {
+      "playerId": 277,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 8916,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 20813,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 27090,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 29598,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 34347,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 37033,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 37500,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 38386,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 41393,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 41394,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 43975,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 44592,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 48441,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 51688,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 52873,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 52984,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 55095,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 56414,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 57868,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 58913,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 61566,
+      "availabilityStatus": 0
+    }
+  ]
 }

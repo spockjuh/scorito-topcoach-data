@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-10T10:41:57.826282+00:00",
-  "playerCount": 500,
+  "fetchedAt": "2026-08-10T14:42:51.738180+00:00",
+  "playerCount": 501,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5003,6 +5003,16 @@
       "teamId": 628,
       "teamName": "Antwerp",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211098,
+      "playerId": 57877,
+      "name": "Jan Virgili",
+      "nationality": "Spanje",
+      "position": 8,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "price": 3000000
     }
   ]
 }

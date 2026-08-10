@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-10T10:42:17.436798+00:00",
+  "fetchedAt": "2026-08-10T14:43:11.979591+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -1146,5 +1146,22 @@
     "deadline": "2026-08-28T18:30:00+00:00",
     "gamePhaseId": 1141
   },
-  "playerAvailability": []
+  "playerAvailability": [
+    {
+      "playerId": 30695,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 37632,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 52580,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 54178,
+      "availabilityStatus": 0
+    }
+  ]
 }
