@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-10T05:09:08.585811+00:00",
+  "fetchedAt": "2026-08-10T10:41:19.048432+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -30,7 +30,7 @@
             "Order": 2,
             "Deadline": "2026-08-14T18:00:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-08-10T08:00:00",
             "Name": "2",
             "DefinitiveCalculationDate": null
@@ -435,7 +435,7 @@
         "Order": 2,
         "Deadline": "2026-08-14T18:00:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-08-10T08:00:00",
         "Name": "2",
         "DefinitiveCalculationDate": null
@@ -862,14 +862,8 @@
   "playerPoints": [
     {
       "marketId": 313,
-      "teamPlayerId": 893908,
-      "playerId": 58751,
-      "points": -24
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 933688,
-      "playerId": 59862,
+      "teamPlayerId": 878947,
+      "playerId": 38427,
       "points": -24
     },
     {
@@ -880,14 +874,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1210890,
-      "playerId": 46232,
+      "teamPlayerId": 933688,
+      "playerId": 59862,
       "points": -24
     },
     {
       "marketId": 313,
-      "teamPlayerId": 878947,
-      "playerId": 38427,
+      "teamPlayerId": 893908,
+      "playerId": 58751,
+      "points": -24
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1210890,
+      "playerId": 46232,
       "points": -24
     },
     {
@@ -895,6 +895,12 @@
       "teamPlayerId": 938688,
       "playerId": 44490,
       "points": -20
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1161004,
+      "playerId": 28836,
+      "points": -12
     },
     {
       "marketId": 313,
@@ -912,12 +918,6 @@
       "marketId": 313,
       "teamPlayerId": 875577,
       "playerId": 57414,
-      "points": -12
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1161004,
-      "playerId": 28836,
       "points": -12
     },
     {
@@ -940,8 +940,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1209383,
-      "playerId": 277,
+      "teamPlayerId": 856683,
+      "playerId": 26407,
       "points": 0
     },
     {
@@ -952,14 +952,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1104085,
-      "playerId": 56901,
+      "teamPlayerId": 852415,
+      "playerId": 645,
       "points": 0
     },
     {
       "marketId": 313,
       "teamPlayerId": 876708,
       "playerId": 57545,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 808311,
+      "playerId": 51666,
       "points": 0
     },
     {
@@ -976,32 +982,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 808311,
-      "playerId": 51666,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 852415,
-      "playerId": 645,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1210833,
-      "playerId": 61565,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 905210,
-      "playerId": 59075,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1210181,
-      "playerId": 30544,
+      "teamPlayerId": 1104085,
+      "playerId": 56901,
       "points": 0
     },
     {
@@ -1012,8 +994,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 905035,
-      "playerId": 26779,
+      "teamPlayerId": 1210833,
+      "playerId": 61565,
       "points": 0
     },
     {
@@ -1036,14 +1018,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 856683,
-      "playerId": 26407,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 872431,
-      "playerId": 3986,
+      "teamPlayerId": 905210,
+      "playerId": 59075,
       "points": 0
     },
     {
@@ -1054,26 +1030,62 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 872431,
+      "playerId": 3986,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 881705,
+      "playerId": 57977,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 890094,
+      "playerId": 48210,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1001311,
+      "playerId": 32517,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1204722,
+      "playerId": 61438,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1210181,
+      "playerId": 30544,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 872074,
+      "playerId": 36392,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 905035,
+      "playerId": 26779,
+      "points": 0
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 1013655,
       "playerId": 48396,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 853275,
-      "playerId": 36886,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 864826,
       "playerId": 34937,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 855566,
-      "playerId": 54128,
       "points": 0
     },
     {
@@ -1090,44 +1102,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 872074,
-      "playerId": 36392,
+      "teamPlayerId": 853275,
+      "playerId": 36886,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 880033,
-      "playerId": 57900,
+      "teamPlayerId": 901583,
+      "playerId": 39849,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 661967,
-      "playerId": 47783,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1210633,
-      "playerId": 59330,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 881705,
-      "playerId": 57977,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 661286,
-      "playerId": 47746,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1001077,
-      "playerId": 53084,
+      "teamPlayerId": 876359,
+      "playerId": 53621,
       "points": 0
     },
     {
@@ -1140,12 +1128,6 @@
       "marketId": 313,
       "teamPlayerId": 863353,
       "playerId": 55380,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 876359,
-      "playerId": 53621,
       "points": 0
     },
     {
@@ -1180,8 +1162,38 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 901583,
-      "playerId": 39849,
+      "teamPlayerId": 661286,
+      "playerId": 47746,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1209383,
+      "playerId": 277,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1210838,
+      "playerId": 61566,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1001077,
+      "playerId": 53084,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1204577,
+      "playerId": 61435,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 872078,
+      "playerId": 50895,
       "points": 0
     },
     {
@@ -1192,8 +1204,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1207681,
-      "playerId": 61479,
+      "teamPlayerId": 1000809,
+      "playerId": 24197,
       "points": 0
     },
     {
@@ -1204,14 +1216,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1198212,
-      "playerId": 61367,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1013130,
-      "playerId": 54359,
+      "teamPlayerId": 1013906,
+      "playerId": 54392,
       "points": 0
     },
     {
@@ -1234,68 +1240,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 872078,
-      "playerId": 50895,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 813317,
       "playerId": 48837,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1204732,
-      "playerId": 58557,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1001582,
-      "playerId": 59332,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1000809,
-      "playerId": 24197,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1210838,
-      "playerId": 61566,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1204577,
-      "playerId": 61435,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1205138,
-      "playerId": 61439,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1013906,
-      "playerId": 54392,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 876340,
-      "playerId": 53157,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 875702,
-      "playerId": 57459,
       "points": 0
     },
     {
@@ -1306,20 +1252,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 847188,
-      "playerId": 50054,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 686270,
-      "playerId": 38170,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 828462,
       "playerId": 51211,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1198212,
+      "playerId": 61367,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1013130,
+      "playerId": 54359,
       "points": 0
     },
     {
@@ -1336,14 +1282,56 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 624524,
-      "playerId": 45429,
+      "teamPlayerId": 1204732,
+      "playerId": 58557,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 304524,
-      "playerId": 9634,
+      "teamPlayerId": 1001582,
+      "playerId": 59332,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1205138,
+      "playerId": 61439,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 686270,
+      "playerId": 38170,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 876340,
+      "playerId": 53157,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 875702,
+      "playerId": 57459,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 847188,
+      "playerId": 50054,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 808364,
+      "playerId": 32493,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 877913,
+      "playerId": 53852,
       "points": 0
     },
     {
@@ -1354,14 +1342,56 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 624524,
+      "playerId": 45429,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 938825,
+      "playerId": 50453,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1210333,
+      "playerId": 59406,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 881680,
+      "playerId": 44228,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 883219,
+      "playerId": 52990,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1204307,
+      "playerId": 58396,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1189364,
+      "playerId": 61226,
+      "points": 0
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 1112801,
       "playerId": 43388,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 875312,
-      "playerId": 322,
+      "teamPlayerId": 863366,
+      "playerId": 41866,
       "points": 0
     },
     {
@@ -1384,42 +1414,6 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 863366,
-      "playerId": 41866,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1210333,
-      "playerId": 59406,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 808364,
-      "playerId": 32493,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 877913,
-      "playerId": 53852,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 938825,
-      "playerId": 50453,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1189364,
-      "playerId": 61226,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 1210832,
       "playerId": 61563,
       "points": 0
@@ -1438,26 +1432,38 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 818238,
-      "playerId": 38224,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 878184,
       "playerId": 42880,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1204307,
-      "playerId": 58396,
+      "teamPlayerId": 1189382,
+      "playerId": 61227,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 304524,
+      "playerId": 9634,
       "points": 0
     },
     {
       "marketId": 313,
       "teamPlayerId": 864399,
       "playerId": 52858,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 875312,
+      "playerId": 322,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 818238,
+      "playerId": 38224,
       "points": 0
     },
     {
@@ -1470,24 +1476,6 @@
       "marketId": 313,
       "teamPlayerId": 1210889,
       "playerId": 9094,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 881680,
-      "playerId": 44228,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1189382,
-      "playerId": 61227,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 883219,
-      "playerId": 52990,
       "points": 0
     },
     {
@@ -1510,20 +1498,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 859014,
-      "playerId": 19201,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 1204578,
       "playerId": 61434,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1000807,
-      "playerId": 45331,
       "points": 0
     },
     {
@@ -1534,32 +1510,26 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 661967,
+      "playerId": 47783,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1210633,
+      "playerId": 59330,
+      "points": 0
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 875713,
       "playerId": 57464,
       "points": 0
     },
     {
       "marketId": 313,
-      "teamPlayerId": 890094,
-      "playerId": 48210,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 662935,
-      "playerId": 46293,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1001311,
-      "playerId": 32517,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1204722,
-      "playerId": 61438,
+      "teamPlayerId": 859014,
+      "playerId": 19201,
       "points": 0
     },
     {
@@ -1570,8 +1540,56 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 855566,
+      "playerId": 54128,
+      "points": 0
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 876345,
       "playerId": 54018,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 662935,
+      "playerId": 46293,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 875703,
+      "playerId": 55092,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1000807,
+      "playerId": 45331,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 885028,
+      "playerId": 53743,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 876326,
+      "playerId": 54140,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 880033,
+      "playerId": 57900,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1209385,
+      "playerId": 37522,
       "points": 0
     },
     {
@@ -1582,20 +1600,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 878474,
-      "playerId": 57780,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1210465,
-      "playerId": 36918,
-      "points": 0
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 849234,
       "playerId": 53567,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 876375,
+      "playerId": 57547,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 871705,
+      "playerId": 37998,
       "points": 0
     },
     {
@@ -1612,8 +1630,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 876326,
-      "playerId": 54140,
+      "teamPlayerId": 927284,
+      "playerId": 39813,
+      "points": 0
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1210465,
+      "playerId": 36918,
       "points": 0
     },
     {
@@ -1624,38 +1648,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1209385,
-      "playerId": 37522,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 927284,
-      "playerId": 39813,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 871705,
-      "playerId": 37998,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 876375,
-      "playerId": 57547,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 885028,
-      "playerId": 53743,
-      "points": 0
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 875703,
-      "playerId": 55092,
+      "teamPlayerId": 878474,
+      "playerId": 57780,
       "points": 0
     },
     {
@@ -1666,8 +1660,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1191155,
-      "playerId": 53807,
+      "teamPlayerId": 938839,
+      "playerId": 53017,
       "points": 4
     },
     {
@@ -1678,9 +1672,27 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 938839,
-      "playerId": 53017,
+      "teamPlayerId": 1191155,
+      "playerId": 53807,
       "points": 4
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1193355,
+      "playerId": 28904,
+      "points": 10
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 826384,
+      "playerId": 51237,
+      "points": 10
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 789514,
+      "playerId": 37890,
+      "points": 10
     },
     {
       "marketId": 313,
@@ -1696,26 +1708,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 789514,
-      "playerId": 37890,
-      "points": 10
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 826384,
-      "playerId": 51237,
-      "points": 10
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1193355,
-      "playerId": 28904,
-      "points": 10
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 654470,
-      "playerId": 735,
+      "teamPlayerId": 851694,
+      "playerId": 37796,
       "points": 12
     },
     {
@@ -1726,20 +1720,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 876353,
-      "playerId": 44960,
-      "points": 12
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 851694,
-      "playerId": 37796,
-      "points": 12
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 824706,
-      "playerId": 29155,
+      "teamPlayerId": 654470,
+      "playerId": 735,
       "points": 12
     },
     {
@@ -1750,14 +1732,26 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 881842,
-      "playerId": 58003,
+      "teamPlayerId": 876353,
+      "playerId": 44960,
       "points": 12
     },
     {
       "marketId": 313,
       "teamPlayerId": 828363,
       "playerId": 53153,
+      "points": 12
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 824706,
+      "playerId": 29155,
+      "points": 12
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 881842,
+      "playerId": 58003,
       "points": 12
     },
     {
@@ -1774,8 +1768,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 872014,
-      "playerId": 56822,
+      "teamPlayerId": 797877,
+      "playerId": 37040,
       "points": 16
     },
     {
@@ -1786,14 +1780,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 797877,
-      "playerId": 37040,
-      "points": 16
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 933681,
-      "playerId": 26367,
+      "teamPlayerId": 856463,
+      "playerId": 27087,
       "points": 16
     },
     {
@@ -1804,8 +1792,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 876339,
-      "playerId": 53183,
+      "teamPlayerId": 872014,
+      "playerId": 56822,
+      "points": 16
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 933681,
+      "playerId": 26367,
       "points": 16
     },
     {
@@ -1816,8 +1810,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 856463,
-      "playerId": 27087,
+      "teamPlayerId": 876339,
+      "playerId": 53183,
       "points": 16
     },
     {
@@ -1834,6 +1828,36 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 864817,
+      "playerId": 578,
+      "points": 28
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 842890,
+      "playerId": 33396,
+      "points": 28
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 863367,
+      "playerId": 20832,
+      "points": 28
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 938663,
+      "playerId": 41397,
+      "points": 28
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 821130,
+      "playerId": 50393,
+      "points": 28
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 884516,
       "playerId": 11260,
       "points": 28
@@ -1846,39 +1870,21 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 938663,
-      "playerId": 41397,
-      "points": 28
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 883149,
       "playerId": 58134,
       "points": 28
     },
     {
       "marketId": 313,
-      "teamPlayerId": 821130,
-      "playerId": 50393,
-      "points": 28
+      "teamPlayerId": 794849,
+      "playerId": 26433,
+      "points": 30
     },
     {
       "marketId": 313,
-      "teamPlayerId": 864817,
-      "playerId": 578,
-      "points": 28
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 863367,
-      "playerId": 20832,
-      "points": 28
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 842890,
-      "playerId": 33396,
-      "points": 28
+      "teamPlayerId": 1210150,
+      "playerId": 20251,
+      "points": 30
     },
     {
       "marketId": 313,
@@ -1890,24 +1896,6 @@
       "marketId": 313,
       "teamPlayerId": 661277,
       "playerId": 26436,
-      "points": 30
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 794849,
-      "playerId": 26433,
-      "points": 30
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 923262,
-      "playerId": 59542,
-      "points": 30
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 950275,
-      "playerId": 39768,
       "points": 30
     },
     {
@@ -1924,32 +1912,122 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1210150,
-      "playerId": 20251,
+      "teamPlayerId": 950275,
+      "playerId": 39768,
       "points": 30
     },
     {
       "marketId": 313,
-      "teamPlayerId": 938590,
-      "playerId": 59870,
+      "teamPlayerId": 923262,
+      "playerId": 59542,
+      "points": 30
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 851669,
+      "playerId": 53917,
       "points": 34
     },
     {
       "marketId": 313,
-      "teamPlayerId": 873660,
-      "playerId": 26458,
+      "teamPlayerId": 825157,
+      "playerId": 53010,
       "points": 34
     },
     {
       "marketId": 313,
-      "teamPlayerId": 876328,
-      "playerId": 54364,
+      "teamPlayerId": 938660,
+      "playerId": 44401,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 879325,
+      "playerId": 53504,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1189362,
+      "playerId": 58302,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 870333,
+      "playerId": 56416,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1183278,
+      "playerId": 858,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1013379,
+      "playerId": 50178,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1209393,
+      "playerId": 47019,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1001321,
+      "playerId": 52920,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 882952,
+      "playerId": 58103,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1207681,
+      "playerId": 61479,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 863838,
+      "playerId": 48927,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 432020,
+      "playerId": 38169,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 870331,
+      "playerId": 28907,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 869988,
+      "playerId": 51678,
       "points": 34
     },
     {
       "marketId": 313,
       "teamPlayerId": 871708,
       "playerId": 30571,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 938590,
+      "playerId": 59870,
       "points": 34
     },
     {
@@ -1966,50 +2044,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 879368,
-      "playerId": 54012,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 432020,
-      "playerId": 38169,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 869988,
-      "playerId": 51678,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1183278,
-      "playerId": 858,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1001321,
-      "playerId": 52920,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 863838,
-      "playerId": 48927,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 851669,
-      "playerId": 53917,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1013379,
-      "playerId": 50178,
+      "teamPlayerId": 1104087,
+      "playerId": 28935,
       "points": 34
     },
     {
@@ -2020,14 +2056,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1104087,
-      "playerId": 28935,
+      "teamPlayerId": 873660,
+      "playerId": 26458,
       "points": 34
     },
     {
       "marketId": 313,
-      "teamPlayerId": 870331,
-      "playerId": 28907,
+      "teamPlayerId": 879368,
+      "playerId": 54012,
+      "points": 34
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 876328,
+      "playerId": 54364,
       "points": 34
     },
     {
@@ -2038,68 +2080,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 825157,
-      "playerId": 53010,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 870333,
-      "playerId": 56416,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1189362,
-      "playerId": 58302,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 879325,
-      "playerId": 53504,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 882952,
-      "playerId": 58103,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1209393,
-      "playerId": 47019,
-      "points": 34
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 938660,
-      "playerId": 44401,
-      "points": 34
+      "teamPlayerId": 795739,
+      "playerId": 51423,
+      "points": 36
     },
     {
       "marketId": 313,
       "teamPlayerId": 863374,
       "playerId": 26363,
-      "points": 36
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 795729,
-      "playerId": 33903,
-      "points": 36
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 687185,
-      "playerId": 48306,
-      "points": 36
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 795739,
-      "playerId": 51423,
       "points": 36
     },
     {
@@ -2110,14 +2098,32 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 795729,
+      "playerId": 33903,
+      "points": 36
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 871607,
       "playerId": 2062,
       "points": 36
     },
     {
       "marketId": 313,
-      "teamPlayerId": 882782,
-      "playerId": 37316,
+      "teamPlayerId": 687185,
+      "playerId": 48306,
+      "points": 36
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 311952,
+      "playerId": 32625,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 842510,
+      "playerId": 53276,
       "points": 42
     },
     {
@@ -2128,62 +2134,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 311952,
-      "playerId": 32625,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 559034,
-      "playerId": 39771,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 856190,
-      "playerId": 50093,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 869390,
-      "playerId": 34875,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 876652,
-      "playerId": 852,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 795717,
-      "playerId": 33030,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 803999,
-      "playerId": 29058,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 822557,
-      "playerId": 26271,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1205677,
-      "playerId": 61444,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 842510,
-      "playerId": 53276,
+      "teamPlayerId": 882782,
+      "playerId": 37316,
       "points": 42
     },
     {
@@ -2200,38 +2152,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 932307,
-      "playerId": 36942,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 882575,
-      "playerId": 34250,
-      "points": 42
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 872012,
-      "playerId": 29338,
-      "points": 42
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 864824,
       "playerId": 48225,
       "points": 42
     },
     {
       "marketId": 313,
-      "teamPlayerId": 557088,
-      "playerId": 37199,
+      "teamPlayerId": 1205677,
+      "playerId": 61444,
       "points": 42
     },
     {
       "marketId": 313,
-      "teamPlayerId": 863384,
-      "playerId": 26375,
+      "teamPlayerId": 938572,
+      "playerId": 50247,
       "points": 42
     },
     {
@@ -2242,8 +2176,32 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 870335,
-      "playerId": 27071,
+      "teamPlayerId": 932307,
+      "playerId": 36942,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 863384,
+      "playerId": 26375,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 822557,
+      "playerId": 26271,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 795717,
+      "playerId": 33030,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 803999,
+      "playerId": 29058,
       "points": 42
     },
     {
@@ -2254,8 +2212,50 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 938572,
-      "playerId": 50247,
+      "teamPlayerId": 876652,
+      "playerId": 852,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 870335,
+      "playerId": 27071,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 869390,
+      "playerId": 34875,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 856190,
+      "playerId": 50093,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 557088,
+      "playerId": 37199,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 872012,
+      "playerId": 29338,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 559034,
+      "playerId": 39771,
+      "points": 42
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 882575,
+      "playerId": 34250,
       "points": 42
     },
     {
@@ -2272,8 +2272,44 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 823896,
+      "playerId": 50391,
+      "points": 46
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 796192,
+      "playerId": 28764,
+      "points": 46
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 875484,
+      "playerId": 33027,
+      "points": 46
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1013124,
+      "playerId": 53977,
+      "points": 46
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 938841,
       "playerId": 1286,
+      "points": 46
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 874380,
+      "playerId": 30581,
+      "points": 46
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 925378,
+      "playerId": 59585,
       "points": 46
     },
     {
@@ -2284,14 +2320,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 877696,
-      "playerId": 57620,
-      "points": 46
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1204071,
-      "playerId": 47803,
+      "teamPlayerId": 1013388,
+      "playerId": 50526,
       "points": 46
     },
     {
@@ -2308,81 +2338,21 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 874380,
-      "playerId": 30581,
-      "points": 46
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 875484,
-      "playerId": 33027,
-      "points": 46
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 796192,
-      "playerId": 28764,
-      "points": 46
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 823896,
-      "playerId": 50391,
-      "points": 46
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1013124,
-      "playerId": 53977,
-      "points": 46
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 925378,
-      "playerId": 59585,
-      "points": 46
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 1183419,
       "playerId": 35565,
       "points": 46
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1013388,
-      "playerId": 50526,
+      "teamPlayerId": 1204071,
+      "playerId": 47803,
       "points": 46
     },
     {
       "marketId": 313,
-      "teamPlayerId": 823548,
-      "playerId": 50378,
-      "points": 54
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 1209361,
-      "playerId": 3919,
-      "points": 54
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 881334,
-      "playerId": 38037,
-      "points": 54
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 823029,
-      "playerId": 24557,
-      "points": 54
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 795718,
-      "playerId": 34347,
-      "points": 54
+      "teamPlayerId": 877696,
+      "playerId": 57620,
+      "points": 46
     },
     {
       "marketId": 313,
@@ -2404,8 +2374,38 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 928049,
-      "playerId": 26654,
+      "teamPlayerId": 881334,
+      "playerId": 38037,
+      "points": 54
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1209361,
+      "playerId": 3919,
+      "points": 54
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 823548,
+      "playerId": 50378,
+      "points": 54
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 823029,
+      "playerId": 24557,
+      "points": 54
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 795718,
+      "playerId": 34347,
+      "points": 54
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 1190941,
+      "playerId": 51417,
       "points": 54
     },
     {
@@ -2416,8 +2416,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1190941,
-      "playerId": 51417,
+      "teamPlayerId": 928049,
+      "playerId": 26654,
       "points": 54
     },
     {
@@ -2446,14 +2446,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1204008,
-      "playerId": 61420,
+      "teamPlayerId": 1001071,
+      "playerId": 53083,
       "points": 66
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1001071,
-      "playerId": 53083,
+      "teamPlayerId": 1204008,
+      "playerId": 61420,
       "points": 66
     },
     {
@@ -2470,8 +2470,8 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 880536,
-      "playerId": 36909,
+      "teamPlayerId": 869990,
+      "playerId": 15547,
       "points": 78
     },
     {
@@ -2482,20 +2482,20 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 873388,
-      "playerId": 26299,
-      "points": 78
-    },
-    {
-      "marketId": 313,
       "teamPlayerId": 946615,
       "playerId": 52799,
       "points": 78
     },
     {
       "marketId": 313,
-      "teamPlayerId": 869990,
-      "playerId": 15547,
+      "teamPlayerId": 880536,
+      "playerId": 36909,
+      "points": 78
+    },
+    {
+      "marketId": 313,
+      "teamPlayerId": 873388,
+      "playerId": 26299,
       "points": 78
     },
     {
@@ -2518,14 +2518,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 876355,
-      "playerId": 54041,
+      "teamPlayerId": 1013907,
+      "playerId": 58177,
       "points": 92
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1013907,
-      "playerId": 58177,
+      "teamPlayerId": 876355,
+      "playerId": 54041,
       "points": 92
     },
     {
@@ -2542,15 +2542,21 @@
     },
     {
       "marketId": 313,
+      "teamPlayerId": 882781,
+      "playerId": 25004,
+      "points": 98
+    },
+    {
+      "marketId": 313,
       "teamPlayerId": 871716,
       "playerId": 20022,
       "points": 98
     },
     {
       "marketId": 313,
-      "teamPlayerId": 882781,
-      "playerId": 25004,
-      "points": 98
+      "teamPlayerId": 902308,
+      "playerId": 33420,
+      "points": 102
     },
     {
       "marketId": 313,
@@ -2562,12 +2568,6 @@
       "marketId": 313,
       "teamPlayerId": 1199854,
       "playerId": 61391,
-      "points": 102
-    },
-    {
-      "marketId": 313,
-      "teamPlayerId": 902308,
-      "playerId": 33420,
       "points": 102
     },
     {
@@ -2602,14 +2602,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 933673,
-      "playerId": 29601,
+      "teamPlayerId": 873633,
+      "playerId": 45835,
       "points": 126
     },
     {
       "marketId": 313,
-      "teamPlayerId": 873633,
-      "playerId": 45835,
+      "teamPlayerId": 933673,
+      "playerId": 29601,
       "points": 126
     },
     {
@@ -2620,14 +2620,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 877481,
-      "playerId": 57591,
+      "teamPlayerId": 1209362,
+      "playerId": 9628,
       "points": 128
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1209362,
-      "playerId": 9628,
+      "teamPlayerId": 877481,
+      "playerId": 57591,
       "points": 128
     },
     {
@@ -2644,14 +2644,14 @@
     },
     {
       "marketId": 313,
-      "teamPlayerId": 875716,
-      "playerId": 35910,
+      "teamPlayerId": 1186155,
+      "playerId": 25006,
       "points": 150
     },
     {
       "marketId": 313,
-      "teamPlayerId": 1186155,
-      "playerId": 25006,
+      "teamPlayerId": 875716,
+      "playerId": 35910,
       "points": 150
     },
     {

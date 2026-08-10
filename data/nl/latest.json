@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-10T05:08:49.508436+00:00",
+  "fetchedAt": "2026-08-10T10:40:58.169566+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -30,7 +30,7 @@
             "Order": 2,
             "Deadline": "2026-08-14T18:00:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-08-10T07:00:00",
             "Name": "2",
             "DefinitiveCalculationDate": null
@@ -395,7 +395,7 @@
         "Order": 2,
         "Deadline": "2026-08-14T18:00:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-08-10T07:00:00",
         "Name": "2",
         "DefinitiveCalculationDate": null
@@ -3871,6 +3871,24 @@
       "teamId": 17,
       "teamName": "Excelsior Rotterdam",
       "dateCreated": "2026-08-07T15:39:55.4674793+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "K. Sano",
+      "price": 2500000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-08-10T10:16:11.84402+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "K. Sano",
+      "price": 3000000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-08-10T10:16:20.9360707+00:00"
     }
   ],
   "standings": [
