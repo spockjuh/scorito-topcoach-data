@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-10T18:01:01.051956+00:00",
-  "playerCount": 501,
+  "fetchedAt": "2026-08-10T20:11:35.561039+00:00",
+  "playerCount": 509,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5013,6 +5013,86 @@
       "teamId": 252,
       "teamName": "Club Brugge",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1210938,
+      "playerId": 61585,
+      "name": "Guust Lamerand",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211070,
+      "playerId": 61614,
+      "name": "Rafael Teugels",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211072,
+      "playerId": 57730,
+      "name": "Sebastian Murru",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1210970,
+      "playerId": 61592,
+      "name": "Viggo Martens",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210999,
+      "playerId": 61600,
+      "name": "Lars Beirinckx",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211099,
+      "playerId": 36197,
+      "name": "Samed Bazdar",
+      "nationality": "Bosnië-Herzegovina",
+      "position": 8,
+      "teamId": 570,
+      "teamName": "STVV",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211100,
+      "playerId": 61318,
+      "name": "Noa Ojea",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211066,
+      "playerId": 61611,
+      "name": "Malcolm Lohunanu-Mbasi",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "price": 1500000
     }
   ]
 }

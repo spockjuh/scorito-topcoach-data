@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-10T18:01:01.051956+00:00",
+  "fetchedAt": "2026-08-10T20:11:35.561039+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 501,
+  "playerCount": 509,
   "playerPoints": [
     {
       "marketId": 315,
@@ -3574,6 +3574,78 @@
       "teamId": 252,
       "teamName": "Club Brugge",
       "dateCreated": "2026-08-10T13:17:12.0811294+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "G. Lamerand",
+      "price": 500000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-08-10T18:50:29.9536953+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "R. Teugels",
+      "price": 750000,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "dateCreated": "2026-08-10T18:51:06.4785266+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Murru",
+      "price": 500000,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "dateCreated": "2026-08-10T18:51:37.9122195+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "V. Martens",
+      "price": 1000000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-08-10T18:53:06.3089944+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "L. Beirinckx",
+      "price": 500000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-08-10T18:53:27.8213219+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Bazdar",
+      "price": 1750000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-08-10T18:54:36.3623766+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Ojea",
+      "price": 1500000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-08-10T18:55:00.5550348+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Lohunanu-Mbasi",
+      "price": 1500000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-10T18:56:22.1994324+00:00"
     }
   ],
   "standings": [
