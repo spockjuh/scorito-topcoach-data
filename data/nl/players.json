@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-10T14:41:50.040928+00:00",
-  "playerCount": 477,
+  "fetchedAt": "2026-08-10T18:00:07.358364+00:00",
+  "playerCount": 478,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4773,6 +4773,16 @@
       "teamId": 692,
       "teamName": "Fortuna Sittard",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1211110,
+      "playerId": 702,
+      "name": "Alireza Jahanbakhsh",
+      "nationality": "Iran",
+      "position": 8,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 1000000
     }
   ]
 }

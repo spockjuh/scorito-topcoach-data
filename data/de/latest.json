@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-10T14:43:11.979591+00:00",
+  "fetchedAt": "2026-08-10T18:01:18.061736+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -807,6 +807,15 @@
       "teamId": 565,
       "teamName": "Eintracht Frankfurt",
       "dateCreated": "2026-08-07T12:08:49.6714757+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "J. Leszczynski",
+      "price": 1250000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-10T16:57:09.2283298+00:00"
     }
   ],
   "standings": [

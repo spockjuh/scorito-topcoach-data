@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-10T14:42:32.395314+00:00",
+  "fetchedAt": "2026-08-10T18:00:44.140477+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1238,6 +1238,15 @@
       "teamId": 503,
       "teamName": "Newcastle United",
       "dateCreated": "2026-08-10T14:27:08.3920451+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "B. Fredrick",
+      "price": 500000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-10T17:27:10.0549845+00:00"
     }
   ],
   "standings": [
