@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-11T12:29:53.719793+00:00",
+  "fetchedAt": "2026-08-11T15:44:15.625306+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 497,
+  "playerCount": 520,
   "playerPoints": [
     {
       "marketId": 313,
@@ -3993,6 +3993,213 @@
       "teamId": 190,
       "teamName": "FC Volendam",
       "dateCreated": "2026-08-07T13:31:08.6511208+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Van Gom",
+      "price": 2500000,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "dateCreated": "2026-08-11T12:30:26.4620481+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "B. Pennock",
+      "price": 2000000,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "dateCreated": "2026-08-11T12:30:45.6443874+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Eroglu",
+      "price": 1000000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-11T12:32:48.842278+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "N. Ahmeti",
+      "price": 1250000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-11T12:48:46.3087124+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Hessels",
+      "price": 750000,
+      "teamId": 806,
+      "teamName": "FC Den Bosch",
+      "dateCreated": "2026-08-11T12:52:31.1178271+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Grotenhuis",
+      "price": 1500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-11T12:55:36.8982148+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "N. Hartgers",
+      "price": 1500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-11T12:56:02.3207497+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "S. Bouwman",
+      "price": 1500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-11T12:57:20.2035638+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "D. Hogervorst",
+      "price": 1500000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-08-11T12:58:27.6909904+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Gerardo",
+      "price": 1000000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-08-11T13:01:05.5508468+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Eksi",
+      "price": 750000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-08-11T13:02:58.452138+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "W. Van Der Heijden",
+      "price": 1000000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-11T13:04:47.3747575+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "A. Maach",
+      "price": 750000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-11T13:04:53.255183+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Landheer",
+      "price": 1000000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-11T13:05:36.614709+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "R. Van Bree",
+      "price": 750000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-11T13:05:42.2176793+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "N. Meissner",
+      "price": 500000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-11T13:07:53.5337466+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Simeon",
+      "price": 500000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-08-11T13:23:01.4160203+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "L. Rietveld",
+      "price": 750000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-08-11T13:33:54.6339754+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Hunte",
+      "price": 500000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-08-11T13:34:23.4766213+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Cornecion",
+      "price": 750000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-08-11T13:42:51.8830142+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "I. Nazih",
+      "price": 1750000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-08-11T13:43:41.6921392+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "R. Van Aarst",
+      "price": 2500000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-08-11T13:53:12.1633156+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "N. Maoujoudi",
+      "price": 1000000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-08-11T13:57:14.8000506+00:00"
     }
   ],
   "standings": [
@@ -4480,6 +4687,10 @@
     {
       "playerId": 56414,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 57545,
+      "availabilityStatus": 3
     },
     {
       "playerId": 57868,

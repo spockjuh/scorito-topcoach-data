@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-11T12:29:53.719793+00:00",
-  "playerCount": 497,
+  "fetchedAt": "2026-08-11T15:44:15.625306+00:00",
+  "playerCount": 520,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -4973,6 +4973,236 @@
       "teamId": 190,
       "teamName": "FC Volendam",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210954,
+      "playerId": 45118,
+      "name": "Jerono van Gom",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1210953,
+      "playerId": 61588,
+      "name": "Bas Pennock",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1211055,
+      "playerId": 61604,
+      "name": "Cem Eroglu",
+      "nationality": "Turkije",
+      "position": 4,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211258,
+      "playerId": 56412,
+      "name": "Nart Ahmeti",
+      "nationality": "Kosovo",
+      "position": 4,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1210957,
+      "playerId": 61589,
+      "name": "Giovanni Hessels",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 806,
+      "teamName": "FC Den Bosch",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211261,
+      "playerId": 53334,
+      "name": "Tygo Grotenhuis",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211260,
+      "playerId": 53886,
+      "name": "Nic Hartgers",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211259,
+      "playerId": 55125,
+      "name": "Sam Bouwman",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210928,
+      "playerId": 61581,
+      "name": "Dean Hogervorst",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1210932,
+      "playerId": 61578,
+      "name": "Ninho Felicia",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211204,
+      "playerId": 61624,
+      "name": "Emre Eksi",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211263,
+      "playerId": 59300,
+      "name": "Wessel van der Heijden",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211056,
+      "playerId": 61606,
+      "name": "Adam El Maach",
+      "nationality": "Marokko",
+      "position": 1,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211264,
+      "playerId": 58966,
+      "name": "Tijn Landheer",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211262,
+      "playerId": 58872,
+      "name": "Rayen van Bree",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211059,
+      "playerId": 61605,
+      "name": "Nicolas Meissner",
+      "nationality": "Spanje",
+      "position": 4,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1210931,
+      "playerId": 61577,
+      "name": "Jeshurun Simeon",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211064,
+      "playerId": 61607,
+      "name": "Levi Rietveld",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211061,
+      "playerId": 61609,
+      "name": "Jerayno Hunte",
+      "nationality": "Curaçao",
+      "position": 4,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211255,
+      "playerId": 58550,
+      "name": "Shuryjano Cornecion",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210937,
+      "playerId": 38449,
+      "name": "Imran Nazih",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1210939,
+      "playerId": 61586,
+      "name": "Rayan van Aarst",
+      "nationality": "Marokko",
+      "position": 2,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1210936,
+      "playerId": 61579,
+      "name": "Nadir Maoujoudi",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "price": 1000000
     }
   ]
 }
