@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-11T09:35:12.179384+00:00",
-  "playerCount": 478,
+  "fetchedAt": "2026-08-11T12:29:34.923628+00:00",
+  "playerCount": 484,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -188,7 +188,7 @@
       "teamPlayerId": 872324,
       "playerId": 50671,
       "name": "Jorthy Mokio",
-      "nationality": "België",
+      "nationality": "Congo DR",
       "position": 4,
       "teamId": 1,
       "teamName": "Ajax",
@@ -4783,6 +4783,66 @@
       "teamId": 17,
       "teamName": "Excelsior Rotterdam",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210987,
+      "playerId": 54708,
+      "name": "Hessel de Wit",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 13,
+      "teamName": "AZ",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211067,
+      "playerId": 57648,
+      "name": "Jismerai Dillema",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211069,
+      "playerId": 61612,
+      "name": "Jesper Mosselaar",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211068,
+      "playerId": 61613,
+      "name": "Jahelille Hall",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211051,
+      "playerId": 61602,
+      "name": "Tijme Wessels",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1210926,
+      "playerId": 61573,
+      "name": "Wessel van der Goot",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 500000
     }
   ]
 }

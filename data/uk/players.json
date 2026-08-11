@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-11T09:35:49.627548+00:00",
-  "playerCount": 586,
+  "fetchedAt": "2026-08-11T12:30:11.518152+00:00",
+  "playerCount": 591,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -3365,14 +3365,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 402530,
+      "teamPlayerId": 1210960,
       "playerId": 29643,
       "name": "Bruno Guimarães",
       "nationality": "Brazilië",
       "position": 4,
-      "teamId": 503,
-      "teamName": "Newcastle United",
-      "price": 3000000
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "price": 4000000
     },
     {
       "teamPlayerId": 656220,
@@ -4255,14 +4255,14 @@
       "price": 1250000
     },
     {
-      "teamPlayerId": 613656,
+      "teamPlayerId": 1211105,
       "playerId": 3486,
       "name": "Sasa Lukic",
       "nationality": "Servië",
       "position": 4,
-      "teamId": 689,
-      "teamName": "Fulham",
-      "price": 1000000
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "price": 750000
     },
     {
       "teamPlayerId": 880284,
@@ -5863,6 +5863,56 @@
       "teamId": 494,
       "teamName": "AFC Bournemouth",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211107,
+      "playerId": 59483,
+      "name": "Caleb Marfo Yirenkyi",
+      "nationality": "Ghana",
+      "position": 4,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211053,
+      "playerId": 20008,
+      "name": "Takehiro Tomiyasu",
+      "nationality": "Japan",
+      "position": 2,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211109,
+      "playerId": 51292,
+      "name": "Jens Hjertø-Dahl",
+      "nationality": "Noorwegen",
+      "position": 4,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211103,
+      "playerId": 59171,
+      "name": "Elliot Stroud",
+      "nationality": "Zweden",
+      "position": 4,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211252,
+      "playerId": 24854,
+      "name": "Ronald Araújo",
+      "nationality": "Uruguay",
+      "position": 2,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "price": 3000000
     }
   ]
 }

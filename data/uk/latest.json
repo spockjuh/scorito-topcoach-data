@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-11T09:35:49.627548+00:00",
+  "fetchedAt": "2026-08-11T12:30:11.518152+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 586,
+  "playerCount": 591,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1301,6 +1301,87 @@
       "teamId": 553,
       "teamName": "Hull City",
       "dateCreated": "2026-08-11T09:05:20.677919+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "B. Guimarães",
+      "price": 4000000,
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "dateCreated": "2026-08-11T09:36:46.8385967+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "C. Wilson",
+      "price": 1750000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-11T09:37:58.0585949+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "B. Fredrick",
+      "price": 500000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-11T09:38:23.9183934+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Yirenkyi",
+      "price": 750000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-11T09:39:32.7425692+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Tomiyasu",
+      "price": 1250000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-11T09:40:20.9491857+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Hjertø-Dahl",
+      "price": 1000000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-11T09:41:27.1313558+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Stroud",
+      "price": 750000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-11T09:41:58.7651652+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Lukic",
+      "price": 750000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-11T09:43:38.9320832+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "R. Araújo",
+      "price": 3000000,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "dateCreated": "2026-08-11T09:45:57.6081862+00:00"
     }
   ],
   "standings": [
