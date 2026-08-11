@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-08-11T00:04:47.737103+00:00",
-  "playerCount": 530,
+  "fetchedAt": "2026-08-11T09:36:25.874018+00:00",
+  "playerCount": 533,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -362,7 +362,7 @@
       "position": 2,
       "teamId": 97,
       "teamName": "Borussia Mönchengladbach",
-      "price": 1250000
+      "price": 1000000
     },
     {
       "teamPlayerId": 360031,
@@ -2785,13 +2785,13 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 1114335,
+      "teamPlayerId": 1210902,
       "playerId": 25939,
       "name": "Eric Ebimbe",
       "nationality": "Frankrijk",
       "position": 4,
-      "teamId": 565,
-      "teamName": "Eintracht Frankfurt",
+      "teamId": 266,
+      "teamName": "FC Schalke 04",
       "price": 1000000
     },
     {
@@ -3495,14 +3495,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 872937,
+      "teamPlayerId": 1211243,
       "playerId": 56978,
       "name": "Deniz Zeitler",
       "nationality": "Duitsland",
       "position": 8,
-      "teamId": 568,
-      "teamName": "Hoffenheim",
-      "price": 1500000
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "price": 750000
     },
     {
       "teamPlayerId": 849165,
@@ -5303,6 +5303,36 @@
       "teamId": 1062,
       "teamName": "SV Elversberg",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1210907,
+      "playerId": 30400,
+      "name": "Miguel Gutiérrez",
+      "nationality": "Spanje",
+      "position": 2,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "price": 3000000
+    },
+    {
+      "teamPlayerId": 1211241,
+      "playerId": 59286,
+      "name": "Bara Sapoko Ndiaye",
+      "nationality": "Senegal",
+      "position": 4,
+      "teamId": 165,
+      "teamName": "Bayern München",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211242,
+      "playerId": 39741,
+      "name": "Dzenan Pejcinovic",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 663,
+      "teamName": "VfB Stuttgart",
+      "price": 3000000
     }
   ]
 }

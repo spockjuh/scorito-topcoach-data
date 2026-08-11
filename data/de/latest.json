@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-11T00:04:47.737103+00:00",
+  "fetchedAt": "2026-08-11T09:36:25.874018+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 530,
+  "playerCount": 533,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -816,6 +816,96 @@
       "teamId": 97,
       "teamName": "Borussia Mönchengladbach",
       "dateCreated": "2026-08-10T16:57:09.2283298+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "N. Mbamba",
+      "price": 1750000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-11T08:27:39.9894369+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "Y. Kabadayi",
+      "price": 500000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-11T08:27:39.9959269+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Zeitler",
+      "price": 1500000,
+      "teamId": 568,
+      "teamName": "Hoffenheim",
+      "dateCreated": "2026-08-11T08:27:40.0034641+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "D. Giannoulis",
+      "price": 1250000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-11T08:29:56.9197795+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Gutiérrez",
+      "price": 3000000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-11T08:31:43.7702429+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Leszczynski",
+      "price": 1000000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-11T08:32:17.8320301+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Ebimbe",
+      "price": 1000000,
+      "teamId": 266,
+      "teamName": "FC Schalke 04",
+      "dateCreated": "2026-08-11T08:33:29.7673715+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "B. Ndiaye",
+      "price": 1500000,
+      "teamId": 165,
+      "teamName": "Bayern München",
+      "dateCreated": "2026-08-11T08:33:52.7644763+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "D. Pejcinovic",
+      "price": 3000000,
+      "teamId": 663,
+      "teamName": "VfB Stuttgart",
+      "dateCreated": "2026-08-11T08:35:38.6252721+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "D. Zeitler",
+      "price": 750000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-11T08:37:08.9606462+00:00"
     }
   ],
   "standings": [
