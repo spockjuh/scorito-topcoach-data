@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-12T09:47:40.369757+00:00",
+  "fetchedAt": "2026-08-12T12:36:06.638944+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1418,6 +1418,15 @@
       "teamId": 882,
       "teamName": "Brentford",
       "dateCreated": "2026-08-12T06:37:28.8371694+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "E. Guessand",
+      "price": 1500000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-08-12T10:22:27.8608878+00:00"
     }
   ],
   "standings": [

@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-12T09:47:01.767527+00:00",
-  "playerCount": 490,
+  "fetchedAt": "2026-08-12T12:35:30.919009+00:00",
+  "playerCount": 494,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4903,6 +4903,46 @@
       "teamId": 4,
       "teamName": "sc Heerenveen",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211054,
+      "playerId": 61603,
+      "name": "Duncan Lindhout",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211311,
+      "playerId": 59369,
+      "name": "Rik Suur",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1210969,
+      "playerId": 59257,
+      "name": "Julian van Esdonk",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1210972,
+      "playerId": 61596,
+      "name": "Ismael Mouhoul",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 500000
     }
   ]
 }
