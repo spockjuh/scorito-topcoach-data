@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-12T12:35:49.334012+00:00",
-  "playerCount": 520,
+  "fetchedAt": "2026-08-12T16:12:22.512297+00:00",
+  "playerCount": 522,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5203,6 +5203,26 @@
       "teamId": 9,
       "teamName": "Roda JC",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211293,
+      "playerId": 48375,
+      "name": "Raf van de Riet",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211317,
+      "playerId": 57820,
+      "name": "Jeremiah Mensah",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "price": 3000000
     }
   ]
 }

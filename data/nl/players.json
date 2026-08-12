@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-12T12:35:30.919009+00:00",
-  "playerCount": 494,
+  "fetchedAt": "2026-08-12T16:12:03.849990+00:00",
+  "playerCount": 496,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4943,6 +4943,26 @@
       "teamId": 19,
       "teamName": "Willem II",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1211318,
+      "playerId": 44959,
+      "name": "Othniël Raterink",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 16,
+      "teamName": "ADO Den Haag",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211345,
+      "playerId": 58723,
+      "name": "Ryan Metu",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 750000
     }
   ]
 }

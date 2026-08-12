@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-12T12:36:06.638944+00:00",
-  "playerCount": 591,
+  "fetchedAt": "2026-08-12T16:12:39.838407+00:00",
+  "playerCount": 594,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -2335,14 +2335,14 @@
       "price": 1250000
     },
     {
-      "teamPlayerId": 561786,
+      "teamPlayerId": 1211297,
       "playerId": 20462,
       "name": "Dwight McNeil",
       "nationality": "Engeland",
       "position": 4,
-      "teamId": 497,
-      "teamName": "Everton",
-      "price": 750000
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1500000
     },
     {
       "teamPlayerId": 880671,
@@ -2625,14 +2625,14 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 889276,
+      "teamPlayerId": 1211296,
       "playerId": 32694,
       "name": "Brennan Johnson",
       "nationality": "Wales",
       "position": 8,
-      "teamId": 498,
-      "teamName": "Crystal Palace",
-      "price": 1250000
+      "teamId": 497,
+      "teamName": "Everton",
+      "price": 1500000
     },
     {
       "teamPlayerId": 348124,
@@ -3225,13 +3225,13 @@
       "price": 1750000
     },
     {
-      "teamPlayerId": 944762,
+      "teamPlayerId": 1211316,
       "playerId": 31990,
       "name": "Evann Guessand",
       "nationality": "Frankrijk",
       "position": 8,
-      "teamId": 502,
-      "teamName": "Aston Villa",
+      "teamId": 498,
+      "teamName": "Crystal Palace",
       "price": 1500000
     },
     {
@@ -5913,6 +5913,36 @@
       "teamId": 289,
       "teamName": "Liverpool",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1211295,
+      "playerId": 38506,
+      "name": "Shea Charles",
+      "nationality": "Noord-Ierland",
+      "position": 4,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211319,
+      "playerId": 42706,
+      "name": "Pep Chavarría",
+      "nationality": "Spanje",
+      "position": 2,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1211299,
+      "playerId": 44760,
+      "name": "Ousmane Diomande",
+      "nationality": "Ivoorkust",
+      "position": 2,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "price": 1750000
     }
   ]
 }

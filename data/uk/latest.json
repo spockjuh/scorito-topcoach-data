@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-12T12:36:06.638944+00:00",
+  "fetchedAt": "2026-08-12T16:12:39.838407+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 591,
+  "playerCount": 594,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1427,6 +1427,60 @@
       "teamId": 502,
       "teamName": "Aston Villa",
       "dateCreated": "2026-08-12T10:22:27.8608878+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "E. Guessand",
+      "price": 1500000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-12T13:10:42.0201273+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "D. McNeil",
+      "price": 1500000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-12T13:11:35.1596381+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "B. Johnson",
+      "price": 1500000,
+      "teamId": 497,
+      "teamName": "Everton",
+      "dateCreated": "2026-08-12T13:12:43.6773815+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Charles",
+      "price": 1000000,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "dateCreated": "2026-08-12T13:13:50.9688949+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "P. Chavarría",
+      "price": 2000000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-12T13:15:42.2329773+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "O. Diomande",
+      "price": 1750000,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "dateCreated": "2026-08-12T13:42:53.7789465+00:00"
     }
   ],
   "standings": [

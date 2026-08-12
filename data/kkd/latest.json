@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-12T12:35:49.334012+00:00",
+  "fetchedAt": "2026-08-12T16:12:22.512297+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 520,
+  "playerCount": 522,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4212,6 +4212,24 @@
       "teamId": 9,
       "teamName": "Roda JC",
       "dateCreated": "2026-08-11T13:57:14.8000506+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "R. Van De Riet",
+      "price": 1000000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-08-12T13:56:16.3534555+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Mensah",
+      "price": 3000000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-08-12T14:17:38.3871282+00:00"
     }
   ],
   "standings": [
