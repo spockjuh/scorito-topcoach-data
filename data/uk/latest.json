@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-12T05:13:16.222483+00:00",
+  "fetchedAt": "2026-08-12T09:47:40.369757+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1382,6 +1382,42 @@
       "teamId": 289,
       "teamName": "Liverpool",
       "dateCreated": "2026-08-11T09:45:57.6081862+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "D. McNeil",
+      "price": 750000,
+      "teamId": 497,
+      "teamName": "Everton",
+      "dateCreated": "2026-08-12T06:37:28.819216+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "B. Johnson",
+      "price": 1250000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-12T06:37:28.8251715+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Murphy",
+      "price": 1000000,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "dateCreated": "2026-08-12T06:37:28.8313658+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "J. Eyestone",
+      "price": 1000000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-12T06:37:28.8371694+00:00"
     }
   ],
   "standings": [

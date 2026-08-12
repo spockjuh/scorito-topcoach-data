@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-12T05:12:34.453037+00:00",
-  "playerCount": 484,
+  "fetchedAt": "2026-08-12T09:47:01.767527+00:00",
+  "playerCount": 490,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4843,6 +4843,66 @@
       "teamId": 22,
       "teamName": "SC Cambuur",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1211273,
+      "playerId": 61634,
+      "name": "Filip Thorvaldsen",
+      "nationality": "Noorwegen",
+      "position": 8,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1211302,
+      "playerId": 30652,
+      "name": "Nikolas Polster",
+      "nationality": "Oostenrijk",
+      "position": 1,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1210982,
+      "playerId": 61597,
+      "name": "Gani Buyukhan",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 692,
+      "teamName": "Fortuna Sittard",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210983,
+      "playerId": 61598,
+      "name": "Kevin van Burgsteden",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 692,
+      "teamName": "Fortuna Sittard",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1210927,
+      "playerId": 61574,
+      "name": "Damian Westerhof",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211074,
+      "playerId": 61615,
+      "name": "Jimte Scholten",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
+      "price": 1000000
     }
   ]
 }
