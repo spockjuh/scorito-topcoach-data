@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-13T12:36:37.257233+00:00",
-  "playerCount": 509,
+  "fetchedAt": "2026-08-13T16:13:38.812309+00:00",
+  "playerCount": 513,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5093,6 +5093,46 @@
       "teamId": 574,
       "teamName": "KV Mechelen",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211605,
+      "playerId": 49020,
+      "name": "Eran Tuypens",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211604,
+      "playerId": 59077,
+      "name": "Luca Schelfhout",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211607,
+      "playerId": 58719,
+      "name": "Tian Nai Koren",
+      "nationality": "Slovenië",
+      "position": 4,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1211606,
+      "playerId": 50718,
+      "name": "Christian Akpan",
+      "nationality": "Nigeria",
+      "position": 2,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "price": 1750000
     }
   ]
 }

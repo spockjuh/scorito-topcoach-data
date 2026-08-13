@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-13T12:36:19.710130+00:00",
+  "fetchedAt": "2026-08-13T16:13:20.361704+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1499,6 +1499,15 @@
       "teamId": 882,
       "teamName": "Brentford",
       "dateCreated": "2026-08-13T10:08:32.5979038+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "L. Hjelde",
+      "price": 500000,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "dateCreated": "2026-08-13T15:00:06.4256393+00:00"
     }
   ],
   "standings": [

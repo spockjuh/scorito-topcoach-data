@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-13T12:36:01.791578+00:00",
+  "fetchedAt": "2026-08-13T16:13:02.283624+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -23,7 +23,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-07-16T08:00:00",
             "Name": "1",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-08-11T09:00:00"
           },
           {
             "Id": 7486,
@@ -428,7 +428,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-07-16T08:00:00",
         "Name": "1",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-08-11T09:00:00"
       },
       {
         "Id": 7486,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 522,
+  "playerCount": 534,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4176,6 +4176,33 @@
       "teamId": 9,
       "teamName": "Roda JC",
       "dateCreated": "2026-08-13T10:08:32.507772+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "G. Schmidt",
+      "price": 1500000,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "dateCreated": "2026-08-13T13:56:28.4169652+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Hamdaoui",
+      "price": 1000000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-08-13T13:56:50.6372024+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. Van Zutphen",
+      "price": 500000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-13T13:58:04.743406+00:00"
     }
   ],
   "standings": [

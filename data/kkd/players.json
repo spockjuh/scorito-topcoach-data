@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-13T12:36:01.791578+00:00",
-  "playerCount": 522,
+  "fetchedAt": "2026-08-13T16:13:02.283624+00:00",
+  "playerCount": 534,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5223,6 +5223,126 @@
       "teamId": 9,
       "teamName": "Roda JC",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1211583,
+      "playerId": 26476,
+      "name": "Joey Jacobs",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1211368,
+      "playerId": 61647,
+      "name": "Gino Schmidt",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211532,
+      "playerId": 58259,
+      "name": "Noa El Hamdaoui",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211547,
+      "playerId": 45478,
+      "name": "Diego van Zutphen",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1211588,
+      "playerId": 906,
+      "name": "Justin Mathieu",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211587,
+      "playerId": 57869,
+      "name": "Gino Verhulst",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211586,
+      "playerId": 59024,
+      "name": "Driss Laaouina",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211592,
+      "playerId": 58397,
+      "name": "Tycho de Wit",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211591,
+      "playerId": 58555,
+      "name": "Julian Sijbrands",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211598,
+      "playerId": 58170,
+      "name": "Devy Hendrix",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211593,
+      "playerId": 58514,
+      "name": "Raf Vullers",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211599,
+      "playerId": 53658,
+      "name": "Lennon Smulders",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "price": 750000
     }
   ]
 }
