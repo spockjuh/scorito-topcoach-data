@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-13T09:47:38.684770+00:00",
+  "fetchedAt": "2026-08-13T12:36:01.791578+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -4152,69 +4152,6 @@
     },
     {
       "mutationType": 1,
-      "playerPosition": 8,
-      "playerName": "J. Simeon",
-      "price": 500000,
-      "teamId": 811,
-      "teamName": "Jong Ajax",
-      "dateCreated": "2026-08-11T13:23:01.4160203+00:00"
-    },
-    {
-      "mutationType": 1,
-      "playerPosition": 8,
-      "playerName": "L. Rietveld",
-      "price": 750000,
-      "teamId": 815,
-      "teamName": "Jong FC Utrecht",
-      "dateCreated": "2026-08-11T13:33:54.6339754+00:00"
-    },
-    {
-      "mutationType": 1,
-      "playerPosition": 4,
-      "playerName": "J. Hunte",
-      "price": 500000,
-      "teamId": 815,
-      "teamName": "Jong FC Utrecht",
-      "dateCreated": "2026-08-11T13:34:23.4766213+00:00"
-    },
-    {
-      "mutationType": 1,
-      "playerPosition": 4,
-      "playerName": "S. Cornecion",
-      "price": 750000,
-      "teamId": 810,
-      "teamName": "Jong PSV",
-      "dateCreated": "2026-08-11T13:42:51.8830142+00:00"
-    },
-    {
-      "mutationType": 1,
-      "playerPosition": 4,
-      "playerName": "I. Nazih",
-      "price": 1750000,
-      "teamId": 5,
-      "teamName": "NAC Breda",
-      "dateCreated": "2026-08-11T13:43:41.6921392+00:00"
-    },
-    {
-      "mutationType": 1,
-      "playerPosition": 2,
-      "playerName": "R. Van Aarst",
-      "price": 2500000,
-      "teamId": 5,
-      "teamName": "NAC Breda",
-      "dateCreated": "2026-08-11T13:53:12.1633156+00:00"
-    },
-    {
-      "mutationType": 1,
-      "playerPosition": 4,
-      "playerName": "N. Maoujoudi",
-      "price": 1000000,
-      "teamId": 9,
-      "teamName": "Roda JC",
-      "dateCreated": "2026-08-11T13:57:14.8000506+00:00"
-    },
-    {
-      "mutationType": 1,
       "playerPosition": 2,
       "playerName": "R. Van De Riet",
       "price": 1000000,
@@ -4230,6 +4167,15 @@
       "teamId": 9,
       "teamName": "Roda JC",
       "dateCreated": "2026-08-12T14:17:38.3871282+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "R. Leijten",
+      "price": 1250000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-08-13T10:08:32.507772+00:00"
     }
   ],
   "standings": [

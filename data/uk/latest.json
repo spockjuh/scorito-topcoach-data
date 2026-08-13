@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-13T09:47:55.829661+00:00",
+  "fetchedAt": "2026-08-13T12:36:19.710130+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1481,6 +1481,24 @@
       "teamId": 933,
       "teamName": "Nottingham Forest",
       "dateCreated": "2026-08-12T13:42:53.7789465+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "M. Yang",
+      "price": 1000000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-13T10:08:32.5841567+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "B. Arthur",
+      "price": 500000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-13T10:08:32.5979038+00:00"
     }
   ],
   "standings": [

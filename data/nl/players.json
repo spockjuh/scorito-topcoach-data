@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-13T09:47:20.464676+00:00",
-  "playerCount": 496,
+  "fetchedAt": "2026-08-13T12:35:42.722759+00:00",
+  "playerCount": 498,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4963,6 +4963,26 @@
       "teamId": 3,
       "teamName": "FC Groningen",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1211509,
+      "playerId": 50843,
+      "name": "Gabriel Bras",
+      "nationality": "Portugal",
+      "position": 2,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211546,
+      "playerId": 59263,
+      "name": "Gilles van der Wal",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "price": 500000
     }
   ]
 }

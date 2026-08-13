@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-13T09:47:20.464676+00:00",
+  "fetchedAt": "2026-08-13T12:35:42.722759+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 496,
+  "playerCount": 498,
   "playerPoints": [
     {
       "marketId": 312,
@@ -3960,15 +3960,6 @@
       "dateCreated": "2026-08-12T13:54:12.4582061+00:00"
     },
     {
-      "mutationType": 1,
-      "playerPosition": 8,
-      "playerName": "R. Metu",
-      "price": 750000,
-      "teamId": 3,
-      "teamName": "FC Groningen",
-      "dateCreated": "2026-08-12T14:14:25.6352429+00:00"
-    },
-    {
       "mutationType": 2,
       "playerPosition": 8,
       "playerName": "N. Hamdaoui",
@@ -3976,6 +3967,15 @@
       "teamId": 17,
       "teamName": "Excelsior Rotterdam",
       "dateCreated": "2026-08-13T09:37:57.7622613+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "G. Bras",
+      "price": 1750000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-08-13T11:09:26.5902986+00:00"
     }
   ],
   "standings": [
