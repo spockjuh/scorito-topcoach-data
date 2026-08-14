@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-14T12:30:29.084780+00:00",
-  "playerCount": 517,
+  "fetchedAt": "2026-08-14T15:27:13.151232+00:00",
+  "playerCount": 520,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5173,6 +5173,36 @@
       "teamId": 683,
       "teamName": "Cercle Brugge",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211839,
+      "playerId": 17293,
+      "name": "Arbnor Muja",
+      "nationality": "Albanië",
+      "position": 8,
+      "teamId": 570,
+      "teamName": "STVV",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211838,
+      "playerId": 34249,
+      "name": "Zsombor Gruber",
+      "nationality": "Hongarije",
+      "position": 8,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211841,
+      "playerId": 36002,
+      "name": "Ryan Fosso",
+      "nationality": "Zwitserland",
+      "position": 4,
+      "teamId": 360,
+      "teamName": "Standard",
+      "price": 1500000
     }
   ]
 }
