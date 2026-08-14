@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-14T15:26:18.522451+00:00",
-  "playerCount": 501,
+  "fetchedAt": "2026-08-14T18:31:00.084350+00:00",
+  "playerCount": 503,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5013,6 +5013,26 @@
       "teamId": 6,
       "teamName": "N.E.C.",
       "price": 2000000
+    },
+    {
+      "teamPlayerId": 1211844,
+      "playerId": 55202,
+      "name": "Jan Bürger",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211845,
+      "playerId": 35350,
+      "name": "Jacob Ondrejka",
+      "nationality": "Zweden",
+      "position": 8,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 1750000
     }
   ]
 }
