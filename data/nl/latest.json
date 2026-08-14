@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-14T09:42:35.452250+00:00",
+  "fetchedAt": "2026-08-14T12:29:27.508204+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 499,
+  "playerCount": 501,
   "playerPoints": [
     {
       "marketId": 312,
@@ -3985,6 +3985,24 @@
       "teamId": 816,
       "teamName": "Telstar",
       "dateCreated": "2026-08-13T12:52:56.2810473+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Csinger",
+      "price": 1500000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-08-14T09:43:51.604219+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Kabar",
+      "price": 2000000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-08-14T09:48:00.2265724+00:00"
     }
   ],
   "standings": [
@@ -4367,8 +4385,12 @@
   },
   "playerAvailability": [
     {
+      "playerId": 332,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 369,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 426,
@@ -4379,12 +4401,20 @@
       "availabilityStatus": 2
     },
     {
+      "playerId": 452,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 556,
-      "availabilityStatus": 0
+      "availabilityStatus": 4
+    },
+    {
+      "playerId": 949,
+      "availabilityStatus": 2
     },
     {
       "playerId": 997,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 1825,
@@ -4407,12 +4437,16 @@
       "availabilityStatus": 1
     },
     {
+      "playerId": 9646,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 9668,
       "availabilityStatus": 2
     },
     {
       "playerId": 15139,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 18248,
@@ -4432,7 +4466,7 @@
     },
     {
       "playerId": 24661,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 26416,
@@ -4475,6 +4509,10 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 30157,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 30261,
       "availabilityStatus": 3
     },
@@ -4488,7 +4526,7 @@
     },
     {
       "playerId": 32012,
-      "availabilityStatus": 3
+      "availabilityStatus": 4
     },
     {
       "playerId": 32708,
@@ -4500,7 +4538,7 @@
     },
     {
       "playerId": 33264,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 33306,
@@ -4508,7 +4546,7 @@
     },
     {
       "playerId": 34235,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 35721,
@@ -4547,8 +4585,12 @@
       "availabilityStatus": 2
     },
     {
+      "playerId": 41398,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 41410,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 41419,
@@ -4572,7 +4614,7 @@
     },
     {
       "playerId": 47621,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 47743,
@@ -4584,11 +4626,11 @@
     },
     {
       "playerId": 47999,
-      "availabilityStatus": 0
+      "availabilityStatus": 4
     },
     {
       "playerId": 48087,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 50883,
@@ -4605,6 +4647,10 @@
     {
       "playerId": 52992,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 53156,
+      "availabilityStatus": 3
     },
     {
       "playerId": 54051,
@@ -4631,7 +4677,15 @@
       "availabilityStatus": 2
     },
     {
+      "playerId": 57698,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 57904,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 58723,
       "availabilityStatus": 2
     }
   ]

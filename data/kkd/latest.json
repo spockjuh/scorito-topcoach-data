@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-14T09:42:57.503033+00:00",
+  "fetchedAt": "2026-08-14T12:29:48.979504+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 536,
+  "playerCount": 539,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4221,6 +4221,24 @@
       "teamId": 810,
       "teamName": "Jong PSV",
       "dateCreated": "2026-08-14T07:15:06.9208786+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "P. Dahbo",
+      "price": 2000000,
+      "teamId": 12,
+      "teamName": "Vitesse",
+      "dateCreated": "2026-08-14T09:49:42.0462467+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "T. Mero",
+      "price": 1500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-14T09:50:38.7346883+00:00"
     }
   ],
   "standings": [
@@ -4634,12 +4652,24 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 858,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 3986,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 8916,
       "availabilityStatus": 0
     },
     {
       "playerId": 20813,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 26426,
+      "availabilityStatus": 3
     },
     {
       "playerId": 27071,
@@ -4654,6 +4684,10 @@
       "availabilityStatus": 1
     },
     {
+      "playerId": 29132,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 29598,
       "availabilityStatus": 2
     },
@@ -4662,7 +4696,15 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 35954,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 37033,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 37277,
       "availabilityStatus": 2
     },
     {
@@ -4670,7 +4712,15 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 38285,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 38386,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 39541,
       "availabilityStatus": 2
     },
     {
@@ -4679,11 +4729,15 @@
     },
     {
       "playerId": 41394,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 43975,
       "availabilityStatus": 3
+    },
+    {
+      "playerId": 44400,
+      "availabilityStatus": 2
     },
     {
       "playerId": 44592,
@@ -4706,6 +4760,10 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 53767,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 55095,
       "availabilityStatus": 2
     },
@@ -4723,6 +4781,10 @@
     },
     {
       "playerId": 58913,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 61417,
       "availabilityStatus": 2
     },
     {

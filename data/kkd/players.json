@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-14T09:42:57.503033+00:00",
-  "playerCount": 536,
+  "fetchedAt": "2026-08-14T12:29:48.979504+00:00",
+  "playerCount": 539,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5363,6 +5363,36 @@
       "teamId": 810,
       "teamName": "Jong PSV",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211822,
+      "playerId": 45763,
+      "name": "Pontus Dahbo",
+      "nationality": "Zweden",
+      "position": 4,
+      "teamId": 12,
+      "teamName": "Vitesse",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1211824,
+      "playerId": 59184,
+      "name": "Toivo Mero",
+      "nationality": "Finland",
+      "position": 8,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211821,
+      "playerId": 61580,
+      "name": "Haye van Gemert",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 8,
+      "teamName": "RKC Waalwijk",
+      "price": 1500000
     }
   ]
 }

@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-14T09:43:36.571220+00:00",
+  "fetchedAt": "2026-08-14T12:30:29.084780+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4076,6 +4076,10 @@
   },
   "playerAvailability": [
     {
+      "playerId": 13299,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 13928,
       "availabilityStatus": 3
     },
@@ -4084,11 +4088,27 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 14934,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 19932,
       "availabilityStatus": 0
     },
     {
+      "playerId": 20100,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 21035,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 24320,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 26061,
       "availabilityStatus": 3
     },
     {
@@ -4096,12 +4116,40 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 28840,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 29673,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 32215,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 32658,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 32967,
       "availabilityStatus": 3
     },
     {
       "playerId": 34791,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 35016,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 35123,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 36197,
+      "availabilityStatus": 3
     },
     {
       "playerId": 39026,
@@ -4128,7 +4176,15 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 47727,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 48024,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 48344,
       "availabilityStatus": 3
     },
     {
@@ -4140,12 +4196,24 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 50473,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 52863,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 52869,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 53286,
       "availabilityStatus": 0
     },
     {
       "playerId": 53665,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 54025,
@@ -4156,8 +4224,24 @@
       "availabilityStatus": 3
     },
     {
+      "playerId": 54160,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 54164,
       "availabilityStatus": 3
+    },
+    {
+      "playerId": 55155,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 55669,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 56867,
+      "availabilityStatus": 1
     },
     {
       "playerId": 56876,
@@ -4181,7 +4265,7 @@
     },
     {
       "playerId": 60177,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     }
   ]
 }

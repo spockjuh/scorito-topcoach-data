@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-14T09:42:35.452250+00:00",
-  "playerCount": 499,
+  "fetchedAt": "2026-08-14T12:29:27.508204+00:00",
+  "playerCount": 501,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4993,6 +4993,26 @@
       "teamId": 2,
       "teamName": "Feyenoord",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211820,
+      "playerId": 46396,
+      "name": "Mark Csinger",
+      "nationality": "Slowakije",
+      "position": 2,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211823,
+      "playerId": 53363,
+      "name": "Almugera Kabar",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 2000000
     }
   ]
 }
