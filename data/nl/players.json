@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-14T05:13:23.156359+00:00",
-  "playerCount": 498,
+  "fetchedAt": "2026-08-14T09:42:35.452250+00:00",
+  "playerCount": 499,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -4983,6 +4983,16 @@
       "teamId": 20,
       "teamName": "PEC Zwolle",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1211580,
+      "playerId": 59265,
+      "name": "Jivayno Zinhagel",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "price": 1500000
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-14T05:14:16.546381+00:00",
-  "playerCount": 513,
+  "fetchedAt": "2026-08-14T09:43:36.571220+00:00",
+  "playerCount": 517,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5133,6 +5133,46 @@
       "teamId": 545,
       "teamName": "Racing Genk",
       "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211608,
+      "playerId": 33332,
+      "name": "Leo Fuhr Hjelde",
+      "nationality": "Noorwegen",
+      "position": 2,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211551,
+      "playerId": 53972,
+      "name": "Minhyeok Yang",
+      "nationality": "Zuid-Korea",
+      "position": 8,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211552,
+      "playerId": 55611,
+      "name": "Elohim Kaboré",
+      "nationality": "Ivoorkust",
+      "position": 8,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211320,
+      "playerId": 59730,
+      "name": "Abdoulie Manneh",
+      "nationality": "Gambia",
+      "position": 4,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "price": 1250000
     }
   ]
 }

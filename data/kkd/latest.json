@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-14T05:13:41.898708+00:00",
+  "fetchedAt": "2026-08-14T09:42:57.503033+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 534,
+  "playerCount": 536,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4203,6 +4203,24 @@
       "teamId": 813,
       "teamName": "Helmond Sport",
       "dateCreated": "2026-08-13T13:58:04.743406+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Sleegers",
+      "price": 1750000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-08-14T07:13:32.8804496+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "K. Oteng-Mensah",
+      "price": 1000000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-08-14T07:15:06.9208786+00:00"
     }
   ],
   "standings": [
@@ -4622,6 +4640,10 @@
     {
       "playerId": 20813,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 27071,
+      "availabilityStatus": 3
     },
     {
       "playerId": 27090,

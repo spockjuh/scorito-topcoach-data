@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-14T05:13:41.898708+00:00",
-  "playerCount": 534,
+  "fetchedAt": "2026-08-14T09:42:57.503033+00:00",
+  "playerCount": 536,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5343,6 +5343,26 @@
       "teamId": 807,
       "teamName": "FC Eindhoven",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1211805,
+      "playerId": 721,
+      "name": "Joey Sleegers",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211611,
+      "playerId": 61657,
+      "name": "Keziah Oteng-Mensah",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "price": 1000000
     }
   ]
 }

@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-14T05:14:16.546381+00:00",
+  "fetchedAt": "2026-08-14T09:43:36.571220+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 513,
+  "playerCount": 517,
   "playerPoints": [
     {
       "marketId": 315,
@@ -3682,6 +3682,42 @@
       "teamId": 625,
       "teamName": "Union",
       "dateCreated": "2026-08-13T10:08:32.5765256+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Hjelde",
+      "price": 1500000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-14T07:19:05.0849498+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Yang",
+      "price": 1250000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-08-14T07:22:12.2033928+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "E. Kaboré",
+      "price": 1000000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-08-14T07:24:12.3215623+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Manneh",
+      "price": 1250000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-08-14T07:26:10.2171105+00:00"
     }
   ],
   "standings": [
@@ -4085,7 +4121,7 @@
     },
     {
       "playerId": 45078,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 46794,
@@ -4113,7 +4149,7 @@
     },
     {
       "playerId": 54025,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 54088,
