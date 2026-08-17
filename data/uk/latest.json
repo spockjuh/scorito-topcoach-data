@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-17T17:00:48.799763+00:00",
+  "fetchedAt": "2026-08-17T19:16:37.343937+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1508,6 +1508,24 @@
       "teamId": 501,
       "teamName": "Sunderland",
       "dateCreated": "2026-08-13T15:00:06.4256393+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "D. Spence",
+      "price": 2500000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-17T18:01:45.364711+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "E. Ünal",
+      "price": 1000000,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
+      "dateCreated": "2026-08-17T18:01:45.3706984+00:00"
     }
   ],
   "standings": [
