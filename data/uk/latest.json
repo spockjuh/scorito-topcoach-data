@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-16T23:40:57.380537+00:00",
+  "fetchedAt": "2026-08-17T08:08:16.050665+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -20,7 +20,7 @@
             "Order": 1,
             "Deadline": "2026-08-21T19:00:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-08-17T08:00:00",
             "Name": "1",
             "DefinitiveCalculationDate": null
@@ -425,7 +425,7 @@
         "Order": 1,
         "Deadline": "2026-08-21T19:00:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-08-17T08:00:00",
         "Name": "1",
         "DefinitiveCalculationDate": null
