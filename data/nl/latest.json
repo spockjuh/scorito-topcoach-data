@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-17T19:15:54.976887+00:00",
+  "fetchedAt": "2026-08-17T20:48:31.842842+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -4291,6 +4291,24 @@
       "teamId": 3,
       "teamName": "FC Groningen",
       "dateCreated": "2026-08-14T15:45:59.0894461+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Twigt",
+      "price": 1250000,
+      "teamId": 21,
+      "teamName": "Go Ahead Eagles",
+      "dateCreated": "2026-08-17T19:16:44.1622042+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "M. Godts",
+      "price": 5000000,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "dateCreated": "2026-08-17T19:16:44.1717329+00:00"
     }
   ],
   "standings": [

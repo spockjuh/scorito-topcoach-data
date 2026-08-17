@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-17T19:16:57.874083+00:00",
+  "fetchedAt": "2026-08-17T20:49:33.058537+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -3943,6 +3943,15 @@
       "teamId": 252,
       "teamName": "Club Brugge",
       "dateCreated": "2026-08-17T18:01:45.3580826+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "A. Khalaili",
+      "price": 3000000,
+      "teamId": 625,
+      "teamName": "Union",
+      "dateCreated": "2026-08-17T19:46:43.3971337+00:00"
     }
   ],
   "standings": [

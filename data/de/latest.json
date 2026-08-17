@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-17T19:17:35.530711+00:00",
+  "fetchedAt": "2026-08-17T20:49:52.576925+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -933,6 +933,33 @@
       "teamId": 663,
       "teamName": "VfB Stuttgart",
       "dateCreated": "2026-08-17T18:01:45.3779791+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Sieb",
+      "price": 2500000,
+      "teamId": 165,
+      "teamName": "Bayern München",
+      "dateCreated": "2026-08-17T19:46:43.4509933+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "N. Futkeu",
+      "price": 1500000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-17T19:46:43.4661734+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "D. Ramaj",
+      "price": 3000000,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "dateCreated": "2026-08-17T20:16:48.7242017+00:00"
     }
   ],
   "standings": [

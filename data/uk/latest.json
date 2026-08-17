@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-17T19:16:37.343937+00:00",
+  "fetchedAt": "2026-08-17T20:49:13.609282+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1526,6 +1526,51 @@
       "teamId": 494,
       "teamName": "AFC Bournemouth",
       "dateCreated": "2026-08-17T18:01:45.3706984+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "A. Patterson",
+      "price": 750000,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "dateCreated": "2026-08-17T19:46:43.4052711+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "S. Iling",
+      "price": 1500000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-08-17T19:46:43.4185133+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "E. Destan",
+      "price": 500000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-17T19:46:43.429301+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "J. Gelhardt",
+      "price": 1250000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-17T19:46:43.4408755+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "C. Romero",
+      "price": 2000000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-17T20:16:48.7172382+00:00"
     }
   ],
   "standings": [
