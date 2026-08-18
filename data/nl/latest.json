@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-17T23:48:45.849220+00:00",
+  "fetchedAt": "2026-08-18T07:58:29.353367+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 503,
+  "playerCount": 505,
   "playerPoints": [
     {
       "marketId": 312,
@@ -4309,6 +4309,87 @@
       "teamId": 1,
       "teamName": "Ajax",
       "dateCreated": "2026-08-17T19:16:44.1717329+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Twigt",
+      "price": 750000,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "dateCreated": "2026-08-18T07:24:06.0660168+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Torrents",
+      "price": 2000000,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "dateCreated": "2026-08-18T07:26:52.7108154+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. López",
+      "price": 3000000,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "dateCreated": "2026-08-18T07:31:07.7642477+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "D. Tadic",
+      "price": 3500000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-08-18T07:52:39.7896407+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Mor",
+      "price": 2000000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-08-18T07:52:51.3288959+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "V. Edvardsen",
+      "price": 2500000,
+      "teamId": 21,
+      "teamName": "Go Ahead Eagles",
+      "dateCreated": "2026-08-18T07:53:08.3894848+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Schreuders",
+      "price": 2000000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-08-18T07:53:25.2741319+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Mito",
+      "price": 2000000,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "dateCreated": "2026-08-18T07:53:36.0084794+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "I. De Ruijter",
+      "price": 750000,
+      "teamId": 16,
+      "teamName": "ADO Den Haag",
+      "dateCreated": "2026-08-18T07:53:46.190129+00:00"
     }
   ],
   "standings": [
