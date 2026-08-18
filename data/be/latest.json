@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-18T15:59:05.073650+00:00",
+  "fetchedAt": "2026-08-18T17:04:17.877874+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -33,7 +33,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-08-10T08:00:00",
             "Name": "2",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-08-17T09:00:00"
           },
           {
             "Id": 7376,
@@ -398,7 +398,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-08-10T08:00:00",
         "Name": "2",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-08-17T09:00:00"
       },
       {
         "Id": 7376,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 526,
+  "playerCount": 529,
   "playerPoints": [
     {
       "marketId": 315,
@@ -4015,6 +4015,33 @@
       "teamId": 570,
       "teamName": "STVV",
       "dateCreated": "2026-08-18T15:46:11.6390367+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "F. Tsimba",
+      "price": 1250000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-08-18T16:29:26.2822509+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Y. Mbodji",
+      "price": 1500000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-08-18T16:32:40.4505603+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Diakite",
+      "price": 1250000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-08-18T16:32:46.4510347+00:00"
     }
   ],
   "standings": [

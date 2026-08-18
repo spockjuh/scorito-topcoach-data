@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-18T15:59:05.073650+00:00",
-  "playerCount": 526,
+  "fetchedAt": "2026-08-18T17:04:17.877874+00:00",
+  "playerCount": 529,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5263,6 +5263,36 @@
       "teamId": 570,
       "teamName": "STVV",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1214884,
+      "playerId": 57514,
+      "name": "Felix Tsimba",
+      "nationality": "Zwitserland",
+      "position": 8,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1214745,
+      "playerId": 58013,
+      "name": "Youssoupha Mbodji",
+      "nationality": "Senegal",
+      "position": 2,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1214755,
+      "playerId": 61731,
+      "name": "Salim Diakite",
+      "nationality": "Mali",
+      "position": 2,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 1250000
     }
   ]
 }
