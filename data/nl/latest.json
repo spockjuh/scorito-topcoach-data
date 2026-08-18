@@ -2,8 +2,8 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-18T22:55:58.032511+00:00",
-  "status": "structure_only",
+  "fetchedAt": "2026-08-18T23:49:05.705834+00:00",
+  "status": "active",
   "marketStructure": {
     "Id": 312,
     "PreviousMarketId": 291,
@@ -722,9 +722,63 @@
       }
     ]
   },
-  "gamePhase": null,
-  "currentPhase": null,
-  "playerCount": 0,
+  "gamePhase": [
+    {
+      "id": 1134,
+      "marketId": 312,
+      "amountOfGoalKeepers": 2,
+      "amountOfDefenders": 5,
+      "amountOfMidfielders": 6,
+      "amountOfForwards": 5,
+      "maxPlayersPerTeam": 4,
+      "transferBudget": 50000000,
+      "teamSelectionOpensAt": "2026-12-18T19:00:00+00:00",
+      "teamSelectionDeadline": "2027-02-05T19:00:00+00:00",
+      "goldenSubstituteAmount": 2,
+      "goldenSubstituteBonusPoints": 250,
+      "marketPhaseIds": [
+        474,
+        473
+      ]
+    },
+    {
+      "id": 1133,
+      "marketId": 312,
+      "amountOfGoalKeepers": 2,
+      "amountOfDefenders": 5,
+      "amountOfMidfielders": 6,
+      "amountOfForwards": 5,
+      "maxPlayersPerTeam": 4,
+      "transferBudget": 48000000,
+      "teamSelectionOpensAt": "2026-07-01T08:00:00+00:00",
+      "teamSelectionDeadline": "2026-09-04T18:00:00+00:00",
+      "goldenSubstituteAmount": 2,
+      "goldenSubstituteBonusPoints": 250,
+      "marketPhaseIds": [
+        472,
+        471
+      ]
+    }
+  ],
+  "currentPhase": {
+    "id": 1133,
+    "marketId": 312,
+    "amountOfGoalKeepers": 2,
+    "amountOfDefenders": 5,
+    "amountOfMidfielders": 6,
+    "amountOfForwards": 5,
+    "maxPlayersPerTeam": 4,
+    "transferBudget": 48000000,
+    "teamSelectionOpensAt": "2026-07-01T08:00:00+00:00",
+    "teamSelectionDeadline": "2026-09-04T18:00:00+00:00",
+    "goldenSubstituteAmount": 2,
+    "goldenSubstituteBonusPoints": 250,
+    "marketPhaseIds": [
+      472,
+      471
+    ]
+  },
+  "playerCount": 507,
   "playerPoints": [
     {
       "marketId": 312,
