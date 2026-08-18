@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-18T10:59:54.074167+00:00",
+  "fetchedAt": "2026-08-18T11:57:02.146033+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -4390,6 +4390,15 @@
       "teamId": 16,
       "teamName": "ADO Den Haag",
       "dateCreated": "2026-08-18T07:53:46.190129+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Veerman",
+      "price": 4500000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-08-18T11:31:47.0464597+00:00"
     }
   ],
   "standings": [
