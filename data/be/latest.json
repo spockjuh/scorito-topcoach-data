@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-18T14:07:39.833397+00:00",
+  "fetchedAt": "2026-08-18T15:59:05.073650+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 520,
+  "playerCount": 526,
   "playerPoints": [
     {
       "marketId": 315,
@@ -3952,6 +3952,69 @@
       "teamId": 625,
       "teamName": "Union",
       "dateCreated": "2026-08-17T19:46:43.3971337+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "N. Nsingi",
+      "price": 750000,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "dateCreated": "2026-08-18T14:46:45.1111765+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Winkler",
+      "price": 1750000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-08-18T15:39:11.4856045+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Adaramola",
+      "price": 1250000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-08-18T15:40:56.5539288+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Marijnissen",
+      "price": 1500000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-18T15:41:43.4196997+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "M. Van Dijck",
+      "price": 1000000,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "dateCreated": "2026-08-18T15:43:04.79536+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "L. Rousseau",
+      "price": 1500000,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "dateCreated": "2026-08-18T15:43:37.2190199+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "A. Aburasyin",
+      "price": 1500000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-08-18T15:46:11.6390367+00:00"
     }
   ],
   "standings": [

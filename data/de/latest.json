@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-18T14:07:56.242500+00:00",
+  "fetchedAt": "2026-08-18T15:59:25.060575+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -960,6 +960,24 @@
       "teamId": 86,
       "teamName": "Borussia Dortmund",
       "dateCreated": "2026-08-17T20:16:48.7242017+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "N. Minpole",
+      "price": 1500000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-18T14:46:45.1212824+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "M. Batshuayi",
+      "price": 1500000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-18T14:46:45.1336983+00:00"
     }
   ],
   "standings": [

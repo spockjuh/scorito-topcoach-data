@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-18T14:06:48.451576+00:00",
+  "fetchedAt": "2026-08-18T15:58:05.178176+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 505,
+  "playerCount": 507,
   "playerPoints": [
     {
       "marketId": 312,
@@ -4399,6 +4399,51 @@
       "teamId": 7,
       "teamName": "PSV",
       "dateCreated": "2026-08-18T11:31:47.0464597+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "S. Resink",
+      "price": 2000000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-08-18T14:31:44.9745227+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Resink",
+      "price": 2000000,
+      "teamId": 13,
+      "teamName": "AZ",
+      "dateCreated": "2026-08-18T15:01:18.51337+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "E. Adiele",
+      "price": 1750000,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "dateCreated": "2026-08-18T15:01:46.1864522+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Renwarin",
+      "price": 500000,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "dateCreated": "2026-08-18T15:01:46.3742456+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. Bouah",
+      "price": 750000,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "dateCreated": "2026-08-18T15:27:19.2992257+00:00"
     }
   ],
   "standings": [

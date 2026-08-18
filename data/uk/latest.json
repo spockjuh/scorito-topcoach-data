@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-18T14:07:23.254149+00:00",
+  "fetchedAt": "2026-08-18T15:58:45.906085+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 594,
+  "playerCount": 602,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1571,6 +1571,96 @@
       "teamId": 406,
       "teamName": "Tottenham Hotspur",
       "dateCreated": "2026-08-17T20:16:48.7172382+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "T. Adaramola",
+      "price": 750000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-18T14:31:44.9706897+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Hamer",
+      "price": 750000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-18T15:32:47.3650086+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Khalaili",
+      "price": 1500000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-18T15:34:26.5389837+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "L. Gourna-Douath",
+      "price": 750000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-18T15:34:53.6065673+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Gelhardt",
+      "price": 1000000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-18T15:35:43.2846681+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "N. Mendy",
+      "price": 1000000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-18T15:36:16.6715301+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Herrington",
+      "price": 750000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-08-18T15:36:28.2112143+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Ouattara",
+      "price": 1000000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-18T15:37:39.1587434+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Enciso",
+      "price": 1500000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-18T15:37:56.1608162+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "G. Rulli",
+      "price": 3000000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-08-18T15:38:23.2153281+00:00"
     }
   ],
   "standings": [

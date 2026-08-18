@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-18T14:07:23.254149+00:00",
-  "playerCount": 594,
+  "fetchedAt": "2026-08-18T15:58:45.906085+00:00",
+  "playerCount": 602,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -4485,14 +4485,14 @@
       "price": 3000000
     },
     {
-      "teamPlayerId": 1197198,
+      "teamPlayerId": 1214735,
       "playerId": 34095,
       "name": "Joe Gelhardt",
       "nationality": "Engeland",
       "position": 8,
-      "teamId": 864,
-      "teamName": "Leeds United",
-      "price": 1250000
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
     },
     {
       "teamPlayerId": 576454,
@@ -5817,7 +5817,7 @@
     {
       "teamPlayerId": 1197199,
       "playerId": 44049,
-      "name": "Mateo Fernandez",
+      "name": "Mateo Joseph",
       "nationality": "Spanje",
       "position": 8,
       "teamId": 864,
@@ -5943,6 +5943,86 @@
       "teamId": 933,
       "teamName": "Nottingham Forest",
       "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211539,
+      "playerId": 9619,
+      "name": "Gustavo Hamer",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1214495,
+      "playerId": 48710,
+      "name": "Anan Khalaili",
+      "nationality": "Israël",
+      "position": 4,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1214265,
+      "playerId": 29818,
+      "name": "Lucas Gourna-Douath",
+      "nationality": "Frankrijk",
+      "position": 4,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211504,
+      "playerId": 50128,
+      "name": "Nobel Mendy",
+      "nationality": "Senegal",
+      "position": 2,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211505,
+      "playerId": 59492,
+      "name": "Lucas Herrington",
+      "nationality": "Australië",
+      "position": 2,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1214958,
+      "playerId": 38172,
+      "name": "Abdoul Ouattara",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1214905,
+      "playerId": 38935,
+      "name": "Julio Enciso",
+      "nationality": "Paraguay",
+      "position": 4,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211323,
+      "playerId": 13198,
+      "name": "Gerónimo Rulli",
+      "nationality": "Argentinië",
+      "position": 1,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "price": 3000000
     }
   ]
 }

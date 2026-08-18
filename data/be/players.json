@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-18T14:07:39.833397+00:00",
-  "playerCount": 520,
+  "fetchedAt": "2026-08-18T15:59:05.073650+00:00",
+  "playerCount": 526,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5202,6 +5202,66 @@
       "position": 4,
       "teamId": 360,
       "teamName": "Standard",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1214956,
+      "playerId": 34319,
+      "name": "Marten Winkler",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1214883,
+      "playerId": 37999,
+      "name": "Tayo Adaramola",
+      "nationality": "Ierland",
+      "position": 2,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1213205,
+      "playerId": 32929,
+      "name": "Luc Marijnissen",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1213027,
+      "playerId": 61702,
+      "name": "Marcel van Dijck",
+      "nationality": "België",
+      "position": 1,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1212054,
+      "playerId": 61698,
+      "name": "Léandro Rousseau",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1214957,
+      "playerId": 54873,
+      "name": "Ahmad Abu Rasen",
+      "nationality": "Saudi-Arabië",
+      "position": 1,
+      "teamId": 570,
+      "teamName": "STVV",
       "price": 1500000
     }
   ]

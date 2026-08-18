@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-18T14:06:48.451576+00:00",
-  "playerCount": 505,
+  "fetchedAt": "2026-08-18T15:58:05.178176+00:00",
+  "playerCount": 507,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -785,13 +785,13 @@
       "price": 1750000
     },
     {
-      "teamPlayerId": 836328,
+      "teamPlayerId": 1214934,
       "playerId": 33080,
       "name": "Stije Resink",
       "nationality": "Nederland",
       "position": 4,
-      "teamId": 3,
-      "teamName": "FC Groningen",
+      "teamId": 13,
+      "teamName": "AZ",
       "price": 2000000
     },
     {
@@ -5053,6 +5053,26 @@
       "teamId": 2,
       "teamName": "Feyenoord",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1214811,
+      "playerId": 57643,
+      "name": "Givaro Renwarin",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1214747,
+      "playerId": 20151,
+      "name": "Devid Bouah",
+      "nationality": "Italië",
+      "position": 2,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 750000
     }
   ]
 }
