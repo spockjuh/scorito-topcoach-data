@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-18T07:59:22.266421+00:00",
+  "fetchedAt": "2026-08-18T09:53:24.853497+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4311,7 +4311,7 @@
   "playerAvailability": [
     {
       "playerId": 13299,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 13928,
@@ -4403,10 +4403,14 @@
     },
     {
       "playerId": 45078,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 46794,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 46859,
       "availabilityStatus": 3
     },
     {
@@ -4415,7 +4419,7 @@
     },
     {
       "playerId": 48024,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 48344,
@@ -4431,7 +4435,7 @@
     },
     {
       "playerId": 50473,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 52863,
@@ -4439,7 +4443,7 @@
     },
     {
       "playerId": 52869,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 53286,

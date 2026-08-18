@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-18T07:58:47.850594+00:00",
+  "fetchedAt": "2026-08-18T09:52:44.867801+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 539,
+  "playerCount": 540,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4611,6 +4611,33 @@
       "teamId": 817,
       "teamName": "MVV Maastricht",
       "dateCreated": "2026-08-14T15:09:25.3460328+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "L. Román",
+      "price": 1500000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-08-18T08:59:21.8170017+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Laros",
+      "price": 1750000,
+      "teamId": 806,
+      "teamName": "FC Den Bosch",
+      "dateCreated": "2026-08-18T09:14:04.5745649+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Van Der Wegen",
+      "price": 1000000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-08-18T09:14:21.0213121+00:00"
     }
   ],
   "standings": [
@@ -5045,7 +5072,7 @@
     },
     {
       "playerId": 27071,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 27090,
@@ -5073,7 +5100,7 @@
     },
     {
       "playerId": 37033,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 37277,
@@ -5105,7 +5132,7 @@
     },
     {
       "playerId": 39785,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 41393,
@@ -5129,7 +5156,7 @@
     },
     {
       "playerId": 45763,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 48019,
@@ -5161,7 +5188,7 @@
     },
     {
       "playerId": 54128,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 55095,
@@ -5173,7 +5200,7 @@
     },
     {
       "playerId": 57460,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 57465,
