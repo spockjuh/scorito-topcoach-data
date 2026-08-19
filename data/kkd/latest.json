@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-19T11:57:10.623700+00:00",
+  "fetchedAt": "2026-08-19T14:07:41.606430+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 540,
+  "playerCount": 542,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4638,6 +4638,33 @@
       "teamId": 817,
       "teamName": "MVV Maastricht",
       "dateCreated": "2026-08-18T09:14:21.0213121+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "I. Breugelmans",
+      "price": 1000000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-08-19T13:32:18.0984455+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Bouland",
+      "price": 750000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-08-19T13:49:17.229519+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "G. Finocchiaro",
+      "price": 1250000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-08-19T13:50:10.3674689+00:00"
     }
   ],
   "standings": [

@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-19T11:56:52.871161+00:00",
-  "playerCount": 507,
+  "fetchedAt": "2026-08-19T14:07:21.142391+00:00",
+  "playerCount": 508,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5073,6 +5073,16 @@
       "teamId": 22,
       "teamName": "SC Cambuur",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1215253,
+      "playerId": 52137,
+      "name": "Andrej Kostic",
+      "nationality": "Montenegro",
+      "position": 8,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "price": 1750000
     }
   ]
 }

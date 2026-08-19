@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-19T11:57:44.143601+00:00",
+  "fetchedAt": "2026-08-19T14:08:19.008928+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4042,6 +4042,69 @@
       "teamId": 572,
       "teamName": "Zulte Waregem",
       "dateCreated": "2026-08-18T16:32:46.4510347+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Decoene",
+      "price": 1000000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-19T12:56:35.6921645+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "T. Somers",
+      "price": 2000000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-19T12:56:45.4934713+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Guilherme",
+      "price": 3000000,
+      "teamId": 625,
+      "teamName": "Union",
+      "dateCreated": "2026-08-19T12:56:53.4227564+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Van Duiven",
+      "price": 1000000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-08-19T12:57:00.1915588+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Campbell",
+      "price": 1000000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-08-19T12:57:19.416779+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "H. Lambotte",
+      "price": 1000000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-08-19T13:32:18.1060907+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "P. David",
+      "price": 5000000,
+      "teamId": 625,
+      "teamName": "Union",
+      "dateCreated": "2026-08-19T13:32:18.1235875+00:00"
     }
   ],
   "standings": [

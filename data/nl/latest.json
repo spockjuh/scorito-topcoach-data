@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-19T11:56:52.871161+00:00",
+  "fetchedAt": "2026-08-19T14:07:21.142391+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 507,
+  "playerCount": 508,
   "playerPoints": [
     {
       "marketId": 312,
@@ -4444,6 +4444,24 @@
       "teamId": 22,
       "teamName": "SC Cambuur",
       "dateCreated": "2026-08-18T15:27:19.2992257+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "S. Bouland",
+      "price": 750000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-08-19T13:32:18.0906716+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Kostic",
+      "price": 1750000,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "dateCreated": "2026-08-19T13:47:38.0713512+00:00"
     }
   ],
   "standings": [

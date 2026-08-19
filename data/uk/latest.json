@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-19T11:57:27.617763+00:00",
+  "fetchedAt": "2026-08-19T14:08:00.426070+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1661,6 +1661,96 @@
       "teamId": 295,
       "teamName": "Manchester City",
       "dateCreated": "2026-08-18T15:38:23.2153281+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "Rodri",
+      "price": 3000000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-08-19T13:17:22.8341245+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "G. Vicario",
+      "price": 2000000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-19T13:17:22.8397381+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Alleyne",
+      "price": 1500000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-08-19T14:02:40.3377952+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Phillips",
+      "price": 1250000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-19T14:02:40.3478991+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "K. Nedeljkovic",
+      "price": 2000000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-08-19T14:02:40.356018+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "S. Bornauw",
+      "price": 750000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-19T14:02:40.3674744+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "J. Piroe",
+      "price": 750000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-19T14:02:40.373676+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "Y. Konak",
+      "price": 750000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-08-19T14:02:40.3834297+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "T. Awoniyi",
+      "price": 1500000,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "dateCreated": "2026-08-19T14:02:40.3893186+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "H. Clarke",
+      "price": 500000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-19T14:02:40.3959057+00:00"
     }
   ],
   "standings": [

@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-19T11:58:00.704553+00:00",
+  "fetchedAt": "2026-08-19T14:08:37.555285+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -978,6 +978,24 @@
       "teamId": 565,
       "teamName": "Eintracht Frankfurt",
       "dateCreated": "2026-08-18T14:46:45.1336983+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "F. Balde",
+      "price": 750000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-08-19T13:32:18.13154+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "N. Elvedi",
+      "price": 1500000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-19T14:02:40.4010867+00:00"
     }
   ],
   "standings": [

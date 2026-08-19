@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-19T11:57:10.623700+00:00",
-  "playerCount": 540,
+  "fetchedAt": "2026-08-19T14:07:41.606430+00:00",
+  "playerCount": 542,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5403,6 +5403,26 @@
       "teamId": 23,
       "teamName": "FC Dordrecht",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1215128,
+      "playerId": 50442,
+      "name": "Sven Bouland",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1214967,
+      "playerId": 61737,
+      "name": "Gabriele Finocchiaro",
+      "nationality": "Italië",
+      "position": 8,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1250000
     }
   ]
 }
