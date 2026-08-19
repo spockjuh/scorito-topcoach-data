@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-19T14:08:37.555285+00:00",
+  "fetchedAt": "2026-08-19T15:59:53.876322+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -996,6 +996,51 @@
       "teamId": 97,
       "teamName": "Borussia Mönchengladbach",
       "dateCreated": "2026-08-19T14:02:40.4010867+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "R. Ramsak",
+      "price": 1500000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-08-19T14:17:20.0951271+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "U. Tohumcu",
+      "price": 1250000,
+      "teamId": 568,
+      "teamName": "Hoffenheim",
+      "dateCreated": "2026-08-19T14:17:20.1038965+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "E. Dinkci",
+      "price": 1000000,
+      "teamId": 571,
+      "teamName": "SC Freiburg",
+      "dateCreated": "2026-08-19T14:17:20.1109249+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "M. Baur",
+      "price": 750000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-19T14:17:20.119884+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Bogdanov",
+      "price": 750000,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "dateCreated": "2026-08-19T14:17:20.1344493+00:00"
     }
   ],
   "standings": [
