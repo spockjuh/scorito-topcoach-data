@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-20T08:05:21.124801+00:00",
+  "fetchedAt": "2026-08-20T10:03:47.485064+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -1751,6 +1751,15 @@
       "teamId": 971,
       "teamName": "Ipswich Town",
       "dateCreated": "2026-08-19T14:02:40.3959057+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "T. Reijnders",
+      "price": 2500000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-08-20T09:02:26.3220552+00:00"
     }
   ],
   "standings": [

@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-20T08:05:37.727313+00:00",
+  "fetchedAt": "2026-08-20T10:04:06.330154+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4105,6 +4105,24 @@
       "teamId": 625,
       "teamName": "Union",
       "dateCreated": "2026-08-19T13:32:18.1235875+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "V. Osuji",
+      "price": 2500000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-08-20T09:54:41.9350102+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "A. Beka",
+      "price": 500000,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "dateCreated": "2026-08-20T09:54:41.9425704+00:00"
     }
   ],
   "standings": [
