@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-20T10:03:08.602008+00:00",
-  "playerCount": 508,
+  "fetchedAt": "2026-08-20T11:48:04.408919+00:00",
+  "playerCount": 511,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -95,14 +95,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 933071,
+      "teamPlayerId": 1215352,
       "playerId": 36256,
       "name": "Ahmetcan Kaplan",
       "nationality": "Turkije",
       "position": 2,
-      "teamId": 1,
-      "teamName": "Ajax",
-      "price": 2000000
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1750000
     },
     {
       "teamPlayerId": 856470,
@@ -5083,6 +5083,36 @@
       "teamId": 351,
       "teamName": "Sparta Rotterdam",
       "price": 1750000
+    },
+    {
+      "teamPlayerId": 1215375,
+      "playerId": 50175,
+      "name": "Nils Eggens",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215341,
+      "playerId": 30486,
+      "name": "Rodrigo Guth",
+      "nationality": "Brazilië",
+      "position": 2,
+      "teamId": 692,
+      "teamName": "Fortuna Sittard",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1215405,
+      "playerId": 58745,
+      "name": "Kevin Kers",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1500000
     }
   ]
 }

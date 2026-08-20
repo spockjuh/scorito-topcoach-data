@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-20T10:04:24.900342+00:00",
+  "fetchedAt": "2026-08-20T11:49:11.955217+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 533,
+  "playerCount": 554,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1041,6 +1041,222 @@
       "teamId": 837,
       "teamName": "1. FC Union Berlin",
       "dateCreated": "2026-08-19T14:17:20.1344493+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "T. Dallinga",
+      "price": 1750000,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "dateCreated": "2026-08-20T10:18:33.1002211+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Neves",
+      "price": 750000,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "dateCreated": "2026-08-20T10:19:28.9806257+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Aebischer",
+      "price": 1000000,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "dateCreated": "2026-08-20T10:23:57.4312711+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Posch",
+      "price": 1250000,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "dateCreated": "2026-08-20T10:31:38.1143705+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "F. Gruber",
+      "price": 1000000,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "dateCreated": "2026-08-20T10:31:58.621386+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "F. Medina",
+      "price": 2500000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-20T10:32:52.0901711+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Veerman",
+      "price": 2000000,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "dateCreated": "2026-08-20T10:33:36.7294526+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Konstantelias",
+      "price": 2500000,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "dateCreated": "2026-08-20T10:34:18.3406264+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "K. Prates",
+      "price": 2000000,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "dateCreated": "2026-08-20T10:34:49.7227454+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "K. Itakura",
+      "price": 1500000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-20T10:35:23.2956939+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. Herold",
+      "price": 1250000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-20T10:36:57.1135518+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Leopold",
+      "price": 1250000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-20T10:37:39.1955059+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Z. Uno",
+      "price": 1000000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-08-20T10:37:55.8371329+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Pimpong",
+      "price": 1000000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-20T10:38:56.3633825+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "C. Brackelmann",
+      "price": 750000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-20T10:39:52.6830432+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Suso",
+      "price": 1000000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-20T10:40:38.0945009+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Bornauw",
+      "price": 1000000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-08-20T10:50:05.1005948+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Vidovic",
+      "price": 1000000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-20T10:57:48.8568125+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "L. Ulrich",
+      "price": 750000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-20T10:58:15.882955+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Füllkrug",
+      "price": 1500000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-08-20T10:59:05.096596+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "L. Reis",
+      "price": 1250000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-08-20T10:59:53.27976+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "E. Dinkci",
+      "price": 1000000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-08-20T11:00:12.6870982+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Futkeu",
+      "price": 1500000,
+      "teamId": 1062,
+      "teamName": "SV Elversberg",
+      "dateCreated": "2026-08-20T11:07:57.5760163+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "N. Grant",
+      "price": 500000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-20T11:08:23.4513062+00:00"
     }
   ],
   "standings": [

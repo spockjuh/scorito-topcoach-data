@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-08-20T10:04:24.900342+00:00",
-  "playerCount": 533,
+  "fetchedAt": "2026-08-20T11:49:11.955217+00:00",
+  "playerCount": 554,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -2905,13 +2905,13 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 1209499,
+      "teamPlayerId": 1214734,
       "playerId": 50108,
       "name": "Noel Futkeu",
       "nationality": "Kameroen",
       "position": 8,
-      "teamId": 565,
-      "teamName": "Eintracht Frankfurt",
+      "teamId": 1062,
+      "teamName": "SV Elversberg",
       "price": 1500000
     },
     {
@@ -3735,13 +3735,13 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 1021924,
+      "teamPlayerId": 1215274,
       "playerId": 33974,
       "name": "Eren Dinkci",
       "nationality": "Duitsland",
       "position": 8,
-      "teamId": 571,
-      "teamName": "SC Freiburg",
+      "teamId": 564,
+      "teamName": "Werder Bremen",
       "price": 1000000
     },
     {
@@ -4325,14 +4325,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 1209481,
+      "teamPlayerId": 1214228,
       "playerId": 40120,
       "name": "Laurin Ulrich",
       "nationality": "Duitsland",
       "position": 4,
-      "teamId": 663,
-      "teamName": "VfB Stuttgart",
-      "price": 1500000
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "price": 750000
     },
     {
       "teamPlayerId": 889329,
@@ -5333,6 +5333,216 @@
       "teamId": 663,
       "teamName": "VfB Stuttgart",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1214754,
+      "playerId": 21609,
+      "name": "Thijs Dallinga",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1211773,
+      "playerId": 61674,
+      "name": "Gil Neves",
+      "nationality": "Portugal",
+      "position": 4,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1215270,
+      "playerId": 14770,
+      "name": "Michel Aebischer",
+      "nationality": "Zwitserland",
+      "position": 4,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215277,
+      "playerId": 15557,
+      "name": "Stefan Posch",
+      "nationality": "Oostenrijk",
+      "position": 2,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211542,
+      "playerId": 61652,
+      "name": "Fabio Gruber",
+      "nationality": "Peru",
+      "position": 2,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211618,
+      "playerId": 34686,
+      "name": "Facundo Medina",
+      "nationality": "Argentinië",
+      "position": 2,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1214833,
+      "playerId": 26416,
+      "name": "Joey Veerman",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1214771,
+      "playerId": 33218,
+      "name": "Giannis Konstantelias",
+      "nationality": "Griekenland",
+      "position": 4,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1211310,
+      "playerId": 61645,
+      "name": "Kauã Prates",
+      "nationality": "Brazilië",
+      "position": 2,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1215349,
+      "playerId": 24661,
+      "name": "Ko Itakura",
+      "nationality": "Japan",
+      "position": 2,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1211666,
+      "playerId": 61664,
+      "name": "David Herold",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211665,
+      "playerId": 61663,
+      "name": "Enzo Leopold",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211788,
+      "playerId": 61676,
+      "name": "Zento Uno",
+      "nationality": "Japan",
+      "position": 4,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1214042,
+      "playerId": 58786,
+      "name": "Malik Pimpong",
+      "nationality": "Denemarken",
+      "position": 8,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1211523,
+      "playerId": 61650,
+      "name": "Calvin Brackelmann",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1211528,
+      "playerId": 61651,
+      "name": "Sima Suso",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215260,
+      "playerId": 20177,
+      "name": "Sebastiaan Bornauw",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215272,
+      "playerId": 38062,
+      "name": "Gabriel Vidovic",
+      "nationality": "Kroatië",
+      "position": 4,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215250,
+      "playerId": 16957,
+      "name": "Niclas Füllkrug",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1212930,
+      "playerId": 19118,
+      "name": "Ludovit Reis",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1211754,
+      "playerId": 61672,
+      "name": "Nyamekye Awortwie Grant",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "price": 500000
     }
   ]
 }

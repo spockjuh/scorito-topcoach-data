@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-20T10:03:47.485064+00:00",
-  "playerCount": 602,
+  "fetchedAt": "2026-08-20T11:48:38.803798+00:00",
+  "playerCount": 610,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -5095,14 +5095,14 @@
       "price": 1250000
     },
     {
-      "teamPlayerId": 534175,
+      "teamPlayerId": 1215265,
       "playerId": 14094,
       "name": "Taiwo Awoniyi",
       "nationality": "Nigeria",
       "position": 8,
-      "teamId": 933,
-      "teamName": "Nottingham Forest",
-      "price": 1500000
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 1000000
     },
     {
       "teamPlayerId": 880304,
@@ -6023,6 +6023,86 @@
       "teamId": 295,
       "teamName": "Manchester City",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1215262,
+      "playerId": 32655,
+      "name": "Matteo Ruggeri",
+      "nationality": "Italië",
+      "position": 2,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1215257,
+      "playerId": 47694,
+      "name": "Zion Suzuki",
+      "nationality": "Japan",
+      "position": 1,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1214982,
+      "playerId": 51761,
+      "name": "Promise David",
+      "nationality": "Canada",
+      "position": 8,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1215255,
+      "playerId": 52679,
+      "name": "Sidiki Cherif",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1215176,
+      "playerId": 61740,
+      "name": "Zavier Gozo",
+      "nationality": "Verenigde Staten",
+      "position": 8,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215256,
+      "playerId": 2432,
+      "name": "Nico Elvedi",
+      "nationality": "Zwitserland",
+      "position": 2,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1215264,
+      "playerId": 32565,
+      "name": "Amar Dedic",
+      "nationality": "Bosnië-Herzegovina",
+      "position": 2,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1215267,
+      "playerId": 48966,
+      "name": "Steven Benda",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "price": 1000000
     }
   ]
 }
