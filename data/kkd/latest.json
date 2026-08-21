@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-21T14:06:46.099930+00:00",
+  "fetchedAt": "2026-08-21T16:01:11.262522+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -5107,6 +5107,10 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 26302,
+      "availabilityStatus": 0
+    },
+    {
       "playerId": 26426,
       "availabilityStatus": 3
     },
@@ -5132,6 +5136,10 @@
     },
     {
       "playerId": 29598,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 30575,
       "availabilityStatus": 2
     },
     {
@@ -5272,7 +5280,7 @@
     },
     {
       "playerId": 57465,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 57545,
@@ -5284,7 +5292,7 @@
     },
     {
       "playerId": 57723,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 57868,
