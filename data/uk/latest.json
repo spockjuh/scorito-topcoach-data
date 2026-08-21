@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-21T22:55:52.657050+00:00",
+  "fetchedAt": "2026-08-21T23:52:35.556769+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -2093,7 +2093,310 @@
       "dateCreated": "2026-08-21T07:15:37.7501227+00:00"
     }
   ],
-  "standings": null,
+  "standings": [
+    {
+      "TranslatedName": "Football.Event.808.Phase.1.SubPhase.1.Group.1",
+      "RankEntries": [
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 3,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_312.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "MatchesPlayed": 1,
+          "Points": 3,
+          "Rank": 1,
+          "TeamNameShort": "ARS",
+          "TeamType": 0,
+          "TranslatedName": "Arsenal",
+          "TeamId": 312
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_502.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 2,
+          "TeamNameShort": "AVL",
+          "TeamType": 0,
+          "TranslatedName": "Aston Villa",
+          "TeamId": 502
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_494.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 3,
+          "TeamNameShort": "BOU",
+          "TeamType": 0,
+          "TranslatedName": "AFC Bournemouth",
+          "TeamId": 494
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_882.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 4,
+          "TeamNameShort": "BRE",
+          "TeamType": 0,
+          "TranslatedName": "Brentford",
+          "TeamId": 882
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_630.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeague",
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 5,
+          "TeamNameShort": "BHA",
+          "TeamType": 0,
+          "TranslatedName": "Brighton and Hove Albion",
+          "TeamId": 630
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_211.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 6,
+          "TeamNameShort": "CHE",
+          "TeamType": 0,
+          "TranslatedName": "Chelsea",
+          "TeamId": 211
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_498.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 7,
+          "TeamNameShort": "CRY",
+          "TeamType": 0,
+          "TranslatedName": "Crystal Palace",
+          "TeamId": 498
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_497.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 8,
+          "TeamNameShort": "EVE",
+          "TeamType": 0,
+          "TranslatedName": "Everton",
+          "TeamId": 497
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_689.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 9,
+          "TeamNameShort": "FUL",
+          "TeamType": 0,
+          "TranslatedName": "Fulham",
+          "TeamId": 689
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_553.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 10,
+          "TeamNameShort": "HUL",
+          "TeamType": 0,
+          "TranslatedName": "Hull City",
+          "TeamId": 553
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_971.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 11,
+          "TeamNameShort": "IPS",
+          "TeamType": 0,
+          "TranslatedName": "Ipswich Town",
+          "TeamId": 971
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_864.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 12,
+          "TeamNameShort": "LEE",
+          "TeamType": 0,
+          "TranslatedName": "Leeds United",
+          "TeamId": 864
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_289.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 13,
+          "TeamNameShort": "LIV",
+          "TeamType": 0,
+          "TranslatedName": "Liverpool",
+          "TeamId": 289
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_295.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 14,
+          "TeamNameShort": "MCI",
+          "TeamType": 0,
+          "TranslatedName": "Manchester City",
+          "TeamId": 295
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_143.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 15,
+          "TeamNameShort": "MUN",
+          "TeamType": 0,
+          "TranslatedName": "Manchester United",
+          "TeamId": 143
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_503.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 16,
+          "TeamNameShort": "NEW",
+          "TeamType": 0,
+          "TranslatedName": "Newcastle United",
+          "TeamId": 503
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_933.png",
+          "LabelKey": null,
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 17,
+          "TeamNameShort": "NOT",
+          "TeamType": 0,
+          "TranslatedName": "Nottingham Forest",
+          "TeamId": 933
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_501.png",
+          "LabelKey": "EventRankingCategory.League.Relegated",
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 18,
+          "TeamNameShort": "SUN",
+          "TeamType": 0,
+          "TranslatedName": "Sunderland",
+          "TeamId": 501
+        },
+        {
+          "GoalsAgainst": 0,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_406.png",
+          "LabelKey": "EventRankingCategory.League.Relegated",
+          "MatchesPlayed": 0,
+          "Points": 0,
+          "Rank": 19,
+          "TeamNameShort": "TOT",
+          "TeamType": 0,
+          "TranslatedName": "Tottenham Hotspur",
+          "TeamId": 406
+        },
+        {
+          "GoalsAgainst": 3,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_1060.png",
+          "LabelKey": "EventRankingCategory.League.Relegated",
+          "MatchesPlayed": 1,
+          "Points": 0,
+          "Rank": 20,
+          "TeamNameShort": "COV",
+          "TeamType": 0,
+          "TranslatedName": "Coventry City",
+          "TeamId": 1060
+        }
+      ],
+      "GroupId": 1,
+      "PhaseId": 1,
+      "SubPhaseId": 1,
+      "RankingCategories": [
+        {
+          "Label": "Champions League",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague"
+        },
+        {
+          "Label": "Champions League",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague"
+        },
+        {
+          "Label": "Champions League",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague"
+        },
+        {
+          "Label": "Champions League",
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague"
+        },
+        {
+          "Label": "Europa League",
+          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeague"
+        },
+        {
+          "Label": "Degradatie",
+          "LabelKey": "EventRankingCategory.League.Relegated"
+        },
+        {
+          "Label": "Degradatie",
+          "LabelKey": "EventRankingCategory.League.Relegated"
+        },
+        {
+          "Label": "Degradatie",
+          "LabelKey": "EventRankingCategory.League.Relegated"
+        }
+      ]
+    }
+  ],
   "currentMarketRoundId": 7524,
   "marketRoundMatches": [
     {
@@ -2195,5 +2498,338 @@
     "deadline": "2026-08-28T19:00:00+00:00",
     "gamePhaseId": 1139
   },
-  "playerAvailability": null
+  "playerAvailability": [
+    {
+      "playerId": 839,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 1377,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 1709,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 3125,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 4070,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 4170,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 4351,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 5534,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 7429,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 8675,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 9101,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 9211,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 9522,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 11705,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 13856,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 15688,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 15830,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 18511,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 19623,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 20082,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 20334,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 20363,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 20373,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 22356,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 23052,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 23620,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 24438,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 24471,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 25782,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 26422,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 26651,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 27101,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 27385,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 27678,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 28830,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 29643,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 29687,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 30008,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 30254,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 32007,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 32728,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 32840,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 33093,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 33441,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 34094,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 34095,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 34197,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 34257,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 34280,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 34425,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 35983,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 36175,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 36346,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 36669,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 36872,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 36873,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 37026,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 38359,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 38587,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 39027,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 39147,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 39850,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 40004,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 40011,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 40398,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 42407,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 43879,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 44049,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 44638,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 44746,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 45339,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 46295,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 49329,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 52580,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 53042,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 53234,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 53981,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 54048,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 54617,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 59891,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 59892,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 59949,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 59957,
+      "availabilityStatus": 3
+    }
+  ]
 }
