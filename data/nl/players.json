@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-20T23:53:52.291370+00:00",
-  "playerCount": 511,
+  "fetchedAt": "2026-08-21T08:04:27.222390+00:00",
+  "playerCount": 512,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5113,6 +5113,16 @@
       "teamId": 6,
       "teamName": "N.E.C.",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1216027,
+      "playerId": 36198,
+      "name": "Marius Broholm",
+      "nationality": "Noorwegen",
+      "position": 8,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "price": 1250000
     }
   ]
 }

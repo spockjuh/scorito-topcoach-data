@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-20T23:55:00.342137+00:00",
+  "fetchedAt": "2026-08-21T08:05:37.528898+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 554,
+  "playerCount": 555,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1257,6 +1257,33 @@
       "teamId": 836,
       "teamName": "SC Paderborn",
       "dateCreated": "2026-08-20T11:08:23.4513062+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "F. Alfa-Ruprecht",
+      "price": 1500000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-21T07:15:37.7594823+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "J. Milosevic",
+      "price": 1750000,
+      "teamId": 663,
+      "teamName": "VfB Stuttgart",
+      "dateCreated": "2026-08-21T07:15:37.7709015+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "E. Etringer",
+      "price": 500000,
+      "teamId": 1062,
+      "teamName": "SV Elversberg",
+      "dateCreated": "2026-08-21T07:23:26.658353+00:00"
     }
   ],
   "standings": [

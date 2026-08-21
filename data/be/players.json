@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-20T23:54:43.647874+00:00",
-  "playerCount": 529,
+  "fetchedAt": "2026-08-21T08:05:20.434802+00:00",
+  "playerCount": 532,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5293,6 +5293,36 @@
       "teamId": 572,
       "teamName": "Zulte Waregem",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1215249,
+      "playerId": 57835,
+      "name": "Jerry Afriyie",
+      "nationality": "Ghana",
+      "position": 8,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1214980,
+      "playerId": 61738,
+      "name": "Kevin Amaro",
+      "nationality": "Uruguay",
+      "position": 2,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1215153,
+      "playerId": 52681,
+      "name": "Marius Courcoul",
+      "nationality": "Frankrijk",
+      "position": 4,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "price": 750000
     }
   ]
 }

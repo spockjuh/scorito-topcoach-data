@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-08-20T23:55:00.342137+00:00",
-  "playerCount": 554,
+  "fetchedAt": "2026-08-21T08:05:37.528898+00:00",
+  "playerCount": 555,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -5542,6 +5542,16 @@
       "position": 2,
       "teamId": 836,
       "teamName": "SC Paderborn",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1215502,
+      "playerId": 61760,
+      "name": null,
+      "nationality": null,
+      "position": 1,
+      "teamId": 1062,
+      "teamName": "SV Elversberg",
       "price": 500000
     }
   ]
