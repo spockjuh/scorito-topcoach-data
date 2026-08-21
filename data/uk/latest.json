@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-21T20:00:57.947712+00:00",
+  "fetchedAt": "2026-08-21T21:43:20.021492+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -868,24 +868,6 @@
     },
     {
       "marketId": 314,
-      "teamPlayerId": 940928,
-      "playerId": 16652,
-      "points": 0
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 879293,
-      "playerId": 34135,
-      "points": 0
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 833890,
-      "playerId": 10035,
-      "points": 0
-    },
-    {
-      "marketId": 314,
       "teamPlayerId": 940805,
       "playerId": 59891,
       "points": 0
@@ -898,36 +880,6 @@
     },
     {
       "marketId": 314,
-      "teamPlayerId": 940802,
-      "playerId": 37736,
-      "points": 0
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 940893,
-      "playerId": 59897,
-      "points": 0
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 1215265,
-      "playerId": 14094,
-      "points": 0
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 879011,
-      "playerId": 57822,
-      "points": 0
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 873581,
-      "playerId": 29047,
-      "points": 0
-    },
-    {
-      "marketId": 314,
       "teamPlayerId": 869879,
       "playerId": 13063,
       "points": 0
@@ -936,6 +888,12 @@
       "marketId": 314,
       "teamPlayerId": 940831,
       "playerId": 59893,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940802,
+      "playerId": 37736,
       "points": 0
     },
     {
@@ -976,20 +934,56 @@
     },
     {
       "marketId": 314,
-      "teamPlayerId": 940886,
-      "playerId": 26696,
-      "points": 12
+      "teamPlayerId": 940928,
+      "playerId": 16652,
+      "points": 0
     },
     {
       "marketId": 314,
-      "teamPlayerId": 940776,
-      "playerId": 49960,
-      "points": 12
+      "teamPlayerId": 879293,
+      "playerId": 34135,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 833890,
+      "playerId": 10035,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1215265,
+      "playerId": 14094,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 879011,
+      "playerId": 57822,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 873581,
+      "playerId": 29047,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940893,
+      "playerId": 59897,
+      "points": 0
     },
     {
       "marketId": 314,
       "teamPlayerId": 933733,
       "playerId": 30368,
+      "points": 12
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940886,
+      "playerId": 26696,
       "points": 12
     },
     {
@@ -1002,6 +996,12 @@
       "marketId": 314,
       "teamPlayerId": 1187938,
       "playerId": 34360,
+      "points": 12
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940776,
+      "playerId": 49960,
       "points": 12
     },
     {
@@ -1024,14 +1024,14 @@
     },
     {
       "marketId": 314,
-      "teamPlayerId": 940855,
-      "playerId": 59482,
+      "teamPlayerId": 940803,
+      "playerId": 30586,
       "points": 28
     },
     {
       "marketId": 314,
-      "teamPlayerId": 940803,
-      "playerId": 30586,
+      "teamPlayerId": 940855,
+      "playerId": 59482,
       "points": 28
     },
     {
@@ -1039,12 +1039,6 @@
       "teamPlayerId": 1199056,
       "playerId": 30274,
       "points": 46
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 377011,
-      "playerId": 2737,
-      "points": 70
     },
     {
       "marketId": 314,
@@ -1062,12 +1056,6 @@
       "marketId": 314,
       "teamPlayerId": 874978,
       "playerId": 37192,
-      "points": 102
-    },
-    {
-      "marketId": 314,
-      "teamPlayerId": 368970,
-      "playerId": 16224,
       "points": 102
     },
     {
@@ -1093,6 +1081,18 @@
       "teamPlayerId": 663023,
       "playerId": 34744,
       "points": 118
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 377011,
+      "playerId": 2737,
+      "points": 150
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 368970,
+      "playerId": 16224,
+      "points": 150
     },
     {
       "marketId": 314,
@@ -2099,11 +2099,11 @@
       "RankEntries": [
         {
           "GoalsAgainst": 0,
-          "GoalsFor": 0,
+          "GoalsFor": 3,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_312.png",
           "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeague",
-          "MatchesPlayed": 0,
-          "Points": 0,
+          "MatchesPlayed": 1,
+          "Points": 3,
           "Rank": 1,
           "TeamNameShort": "ARS",
           "TeamType": 0,
@@ -2178,24 +2178,11 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_1060.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 7,
-          "TeamNameShort": "COV",
-          "TeamType": 0,
-          "TranslatedName": "Coventry City",
-          "TeamId": 1060
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_498.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 8,
+          "Rank": 7,
           "TeamNameShort": "CRY",
           "TeamType": 0,
           "TranslatedName": "Crystal Palace",
@@ -2208,7 +2195,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 9,
+          "Rank": 8,
           "TeamNameShort": "EVE",
           "TeamType": 0,
           "TranslatedName": "Everton",
@@ -2221,7 +2208,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 10,
+          "Rank": 9,
           "TeamNameShort": "FUL",
           "TeamType": 0,
           "TranslatedName": "Fulham",
@@ -2234,7 +2221,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 11,
+          "Rank": 10,
           "TeamNameShort": "HUL",
           "TeamType": 0,
           "TranslatedName": "Hull City",
@@ -2247,7 +2234,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 12,
+          "Rank": 11,
           "TeamNameShort": "IPS",
           "TeamType": 0,
           "TranslatedName": "Ipswich Town",
@@ -2260,7 +2247,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 13,
+          "Rank": 12,
           "TeamNameShort": "LEE",
           "TeamType": 0,
           "TranslatedName": "Leeds United",
@@ -2273,7 +2260,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 14,
+          "Rank": 13,
           "TeamNameShort": "LIV",
           "TeamType": 0,
           "TranslatedName": "Liverpool",
@@ -2286,7 +2273,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 15,
+          "Rank": 14,
           "TeamNameShort": "MCI",
           "TeamType": 0,
           "TranslatedName": "Manchester City",
@@ -2299,7 +2286,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 16,
+          "Rank": 15,
           "TeamNameShort": "MUN",
           "TeamType": 0,
           "TranslatedName": "Manchester United",
@@ -2312,7 +2299,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 17,
+          "Rank": 16,
           "TeamNameShort": "NEW",
           "TeamType": 0,
           "TranslatedName": "Newcastle United",
@@ -2322,10 +2309,10 @@
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_933.png",
-          "LabelKey": "EventRankingCategory.League.Relegated",
+          "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 18,
+          "Rank": 17,
           "TeamNameShort": "NOT",
           "TeamType": 0,
           "TranslatedName": "Nottingham Forest",
@@ -2338,7 +2325,7 @@
           "LabelKey": "EventRankingCategory.League.Relegated",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 19,
+          "Rank": 18,
           "TeamNameShort": "SUN",
           "TeamType": 0,
           "TranslatedName": "Sunderland",
@@ -2351,11 +2338,24 @@
           "LabelKey": "EventRankingCategory.League.Relegated",
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 20,
+          "Rank": 19,
           "TeamNameShort": "TOT",
           "TeamType": 0,
           "TranslatedName": "Tottenham Hotspur",
           "TeamId": 406
+        },
+        {
+          "GoalsAgainst": 3,
+          "GoalsFor": 0,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_1060.png",
+          "LabelKey": "EventRankingCategory.League.Relegated",
+          "MatchesPlayed": 1,
+          "Points": 0,
+          "Rank": 20,
+          "TeamNameShort": "COV",
+          "TeamType": 0,
+          "TranslatedName": "Coventry City",
+          "TeamId": 1060
         }
       ],
       "GroupId": 1,
