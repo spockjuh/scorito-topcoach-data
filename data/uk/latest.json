@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-21T17:57:13.203243+00:00",
+  "fetchedAt": "2026-08-21T19:16:39.813354+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -19,7 +19,7 @@
             "Id": 7523,
             "Order": 1,
             "Deadline": "2026-08-21T19:00:00",
-            "IsDeadlinePassed": false,
+            "IsDeadlinePassed": true,
             "IsStarted": true,
             "StartDateTime": "2026-08-17T08:00:00",
             "Name": "1",
@@ -424,7 +424,7 @@
         "Id": 7523,
         "Order": 1,
         "Deadline": "2026-08-21T19:00:00",
-        "IsDeadlinePassed": false,
+        "IsDeadlinePassed": true,
         "IsStarted": true,
         "StartDateTime": "2026-08-17T08:00:00",
         "Name": "1",
@@ -859,7 +859,248 @@
     ]
   },
   "playerCount": 610,
-  "playerPoints": [],
+  "playerPoints": [
+    {
+      "marketId": 314,
+      "teamPlayerId": 940805,
+      "playerId": 59891,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 880548,
+      "playerId": 36946,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 869879,
+      "playerId": 13063,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940831,
+      "playerId": 59893,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940802,
+      "playerId": 37736,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 962360,
+      "playerId": 43615,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940857,
+      "playerId": 18891,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940830,
+      "playerId": 21683,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1211539,
+      "playerId": 9619,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 875192,
+      "playerId": 19948,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 871266,
+      "playerId": 24955,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940893,
+      "playerId": 59897,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940928,
+      "playerId": 16652,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 879293,
+      "playerId": 34135,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 833890,
+      "playerId": 10035,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1215265,
+      "playerId": 14094,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 879011,
+      "playerId": 57822,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 873581,
+      "playerId": 29047,
+      "points": 0
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940806,
+      "playerId": 4456,
+      "points": 28
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1211107,
+      "playerId": 59483,
+      "points": 28
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1199224,
+      "playerId": 36045,
+      "points": 28
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940803,
+      "playerId": 30586,
+      "points": 28
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940751,
+      "playerId": 17267,
+      "points": 28
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940855,
+      "playerId": 59482,
+      "points": 28
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 933733,
+      "playerId": 30368,
+      "points": 36
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940886,
+      "playerId": 26696,
+      "points": 36
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1210344,
+      "playerId": 47362,
+      "points": 36
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1187938,
+      "playerId": 34360,
+      "points": 36
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 940776,
+      "playerId": 49960,
+      "points": 36
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 1199056,
+      "playerId": 30274,
+      "points": 46
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 656180,
+      "playerId": 24451,
+      "points": 46
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 377011,
+      "playerId": 2737,
+      "points": 70
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 655871,
+      "playerId": 15252,
+      "points": 70
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 368970,
+      "playerId": 16224,
+      "points": 102
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 874978,
+      "playerId": 37192,
+      "points": 102
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 852403,
+      "playerId": 50076,
+      "points": 102
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 305417,
+      "playerId": 25934,
+      "points": 102
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 822928,
+      "playerId": 29316,
+      "points": 102
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 833459,
+      "playerId": 14087,
+      "points": 110
+    },
+    {
+      "marketId": 314,
+      "teamPlayerId": 663023,
+      "playerId": 34744,
+      "points": 118
+    }
+  ],
   "transferFeed": [
     {
       "mutationType": 2,
@@ -2156,111 +2397,111 @@
       ]
     }
   ],
-  "currentMarketRoundId": 7523,
+  "currentMarketRoundId": 7524,
   "marketRoundMatches": [
     {
-      "marketRoundId": 7523,
-      "matchId": 66340,
+      "marketRoundId": 7524,
+      "matchId": 66308,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 630,
-      "awayTeamId": 502,
-      "dateModified": "2026-07-27T19:22:35.1789834+00:00"
+      "homeTeamId": 406,
+      "awayTeamId": 503,
+      "dateModified": "2026-07-27T19:22:42.9609948+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66333,
+      "marketRoundId": 7524,
+      "matchId": 66279,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 933,
-      "awayTeamId": 864,
-      "dateModified": "2026-07-27T19:22:31.7324877+00:00"
+      "homeTeamId": 501,
+      "awayTeamId": 689,
+      "dateModified": "2026-07-27T19:22:44.10307+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66243,
+      "marketRoundId": 7524,
+      "matchId": 66263,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 497,
-      "awayTeamId": 498,
-      "dateModified": "2026-07-27T19:22:31.2351311+00:00"
+      "homeTeamId": 143,
+      "awayTeamId": 971,
+      "dateModified": "2026-07-27T19:22:44.4688465+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66219,
+      "marketRoundId": 7524,
+      "matchId": 66241,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 295,
-      "awayTeamId": 494,
-      "dateModified": "2026-07-27T19:22:32.8675816+00:00"
+      "homeTeamId": 289,
+      "awayTeamId": 933,
+      "dateModified": "2026-07-27T19:22:41.7574293+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66217,
+      "marketRoundId": 7524,
+      "matchId": 66207,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 882,
-      "awayTeamId": 406,
-      "dateModified": "2026-07-27T19:22:32.3109638+00:00"
+      "homeTeamId": 498,
+      "awayTeamId": 295,
+      "dateModified": "2026-07-27T19:22:41.2241197+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66186,
+      "marketRoundId": 7524,
+      "matchId": 66121,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 971,
-      "awayTeamId": 501,
-      "dateModified": "2026-07-27T19:22:30.6801487+00:00"
+      "homeTeamId": 211,
+      "awayTeamId": 630,
+      "dateModified": "2026-07-27T19:22:43.7073878+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66156,
+      "marketRoundId": 7524,
+      "matchId": 66088,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 689,
-      "awayTeamId": 211,
-      "dateModified": "2026-07-27T19:22:36.6871061+00:00"
+      "homeTeamId": 864,
+      "awayTeamId": 882,
+      "dateModified": "2026-07-27T19:22:43.3488133+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66137,
+      "marketRoundId": 7524,
+      "matchId": 66011,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 503,
-      "awayTeamId": 289,
-      "dateModified": "2026-07-27T19:22:35.9310583+00:00"
+      "homeTeamId": 1060,
+      "awayTeamId": 553,
+      "dateModified": "2026-07-27T19:22:42.5656486+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 66101,
+      "marketRoundId": 7524,
+      "matchId": 65996,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 312,
-      "awayTeamId": 1060,
-      "dateModified": "2026-07-27T19:22:28.5417517+00:00"
+      "homeTeamId": 502,
+      "awayTeamId": 312,
+      "dateModified": "2026-07-27T19:22:44.8356702+00:00"
     },
     {
-      "marketRoundId": 7523,
-      "matchId": 65975,
+      "marketRoundId": 7524,
+      "matchId": 65990,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 553,
-      "awayTeamId": 143,
-      "dateModified": "2026-07-27T19:22:29.9487854+00:00"
+      "homeTeamId": 494,
+      "awayTeamId": 497,
+      "dateModified": "2026-07-27T19:22:42.1812344+00:00"
     }
   ],
   "marketRoundEnriched": {
-    "marketRoundId": 7523,
+    "marketRoundId": 7524,
     "marketId": 314,
-    "matchOfWeekId": 66137,
+    "matchOfWeekId": null,
     "captainFactor": 2,
-    "deadline": "2026-08-21T19:00:00+00:00",
+    "deadline": "2026-08-28T19:00:00+00:00",
     "gamePhaseId": 1139
   },
   "playerAvailability": [
     {
       "playerId": 839,
-      "availabilityStatus": 1
+      "availabilityStatus": 0
     },
     {
       "playerId": 1377,
@@ -2288,7 +2529,7 @@
     },
     {
       "playerId": 5534,
-      "availabilityStatus": 1
+      "availabilityStatus": 0
     },
     {
       "playerId": 7429,
@@ -2372,7 +2613,7 @@
     },
     {
       "playerId": 25782,
-      "availabilityStatus": 1
+      "availabilityStatus": 0
     },
     {
       "playerId": 26422,
@@ -2588,7 +2829,7 @@
     },
     {
       "playerId": 59957,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     }
   ]
 }
