@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-21T11:47:27.834781+00:00",
+  "fetchedAt": "2026-08-21T14:06:46.099930+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -4665,6 +4665,15 @@
       "teamId": 18,
       "teamName": "De Graafschap",
       "dateCreated": "2026-08-19T13:50:10.3674689+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Konadu",
+      "price": 750000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-08-21T12:32:22.8693894+00:00"
     }
   ],
   "standings": [
@@ -5083,15 +5092,19 @@
     },
     {
       "playerId": 3986,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 8916,
       "availabilityStatus": 0
     },
     {
-      "playerId": 20813,
+      "playerId": 16027,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 20813,
+      "availabilityStatus": 0
     },
     {
       "playerId": 26426,
@@ -5104,6 +5117,10 @@
     {
       "playerId": 27090,
       "availabilityStatus": 0
+    },
+    {
+      "playerId": 27671,
+      "availabilityStatus": 2
     },
     {
       "playerId": 28824,
@@ -5135,7 +5152,7 @@
     },
     {
       "playerId": 37277,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 37374,
@@ -5143,7 +5160,7 @@
     },
     {
       "playerId": 37500,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 37512,
@@ -5151,7 +5168,7 @@
     },
     {
       "playerId": 38285,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 38386,
@@ -5174,8 +5191,12 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 43856,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 43975,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
     },
     {
       "playerId": 44400,
@@ -5195,14 +5216,22 @@
     },
     {
       "playerId": 48441,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 50063,
       "availabilityStatus": 3
     },
     {
+      "playerId": 51211,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 51688,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 52363,
       "availabilityStatus": 2
     },
     {
@@ -5218,12 +5247,20 @@
       "availabilityStatus": 2
     },
     {
+      "playerId": 54018,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 54128,
       "availabilityStatus": 0
     },
     {
+      "playerId": 54140,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 55095,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
     },
     {
       "playerId": 56414,
@@ -5251,7 +5288,7 @@
     },
     {
       "playerId": 57868,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
     },
     {
       "playerId": 58557,
@@ -5279,7 +5316,7 @@
     },
     {
       "playerId": 61647,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     }
   ]
 }

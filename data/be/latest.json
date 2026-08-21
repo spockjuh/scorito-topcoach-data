@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-21T11:48:06.407515+00:00",
+  "fetchedAt": "2026-08-21T14:07:23.642422+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4508,8 +4508,16 @@
   },
   "playerAvailability": [
     {
+      "playerId": 9622,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 13299,
       "availabilityStatus": 0
+    },
+    {
+      "playerId": 13408,
+      "availabilityStatus": 3
     },
     {
       "playerId": 13928,
@@ -4517,11 +4525,15 @@
     },
     {
       "playerId": 14822,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 14934,
       "availabilityStatus": 3
+    },
+    {
+      "playerId": 18669,
+      "availabilityStatus": 2
     },
     {
       "playerId": 19932,
@@ -4536,8 +4548,16 @@
       "availabilityStatus": 3
     },
     {
-      "playerId": 24320,
+      "playerId": 21733,
       "availabilityStatus": 3
+    },
+    {
+      "playerId": 22316,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 24320,
+      "availabilityStatus": 2
     },
     {
       "playerId": 26061,
@@ -4545,11 +4565,11 @@
     },
     {
       "playerId": 26460,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
     },
     {
       "playerId": 28840,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 29673,
@@ -4565,11 +4585,23 @@
     },
     {
       "playerId": 32967,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 33332,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 33909,
+      "availabilityStatus": 3
     },
     {
       "playerId": 34791,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 34901,
+      "availabilityStatus": 3
     },
     {
       "playerId": 35016,
@@ -4580,24 +4612,44 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 35851,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 36197,
       "availabilityStatus": 0
     },
     {
+      "playerId": 37486,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 38974,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 39026,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 42410,
+      "availabilityStatus": 3
     },
     {
       "playerId": 42879,
       "availabilityStatus": 3
     },
     {
-      "playerId": 43816,
+      "playerId": 43611,
       "availabilityStatus": 0
     },
     {
-      "playerId": 44588,
+      "playerId": 43816,
       "availabilityStatus": 3
+    },
+    {
+      "playerId": 44588,
+      "availabilityStatus": 2
     },
     {
       "playerId": 45078,
@@ -4605,7 +4657,7 @@
     },
     {
       "playerId": 46794,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 46859,
@@ -4629,15 +4681,23 @@
     },
     {
       "playerId": 50412,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 50473,
       "availabilityStatus": 0
     },
     {
-      "playerId": 52863,
+      "playerId": 50718,
       "availabilityStatus": 3
+    },
+    {
+      "playerId": 52681,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 52863,
+      "availabilityStatus": 2
     },
     {
       "playerId": 52869,
@@ -4665,7 +4725,7 @@
     },
     {
       "playerId": 54164,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 55155,
@@ -4673,6 +4733,10 @@
     },
     {
       "playerId": 55669,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 56273,
       "availabilityStatus": 3
     },
     {
@@ -4681,11 +4745,15 @@
     },
     {
       "playerId": 56876,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 57375,
       "availabilityStatus": 0
+    },
+    {
+      "playerId": 57895,
+      "availabilityStatus": 3
     },
     {
       "playerId": 58369,
@@ -4701,7 +4769,7 @@
     },
     {
       "playerId": 60177,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     }
   ]
 }

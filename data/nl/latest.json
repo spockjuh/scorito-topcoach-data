@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-21T11:47:07.051327+00:00",
+  "fetchedAt": "2026-08-21T14:06:25.900401+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 512,
+  "playerCount": 513,
   "playerPoints": [
     {
       "marketId": 312,
@@ -4543,6 +4543,15 @@
       "teamId": 11,
       "teamName": "FC Utrecht",
       "dateCreated": "2026-08-21T07:17:54.4093169+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Geertruida",
+      "price": 3500000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-08-21T13:39:13.9723677+00:00"
     }
   ],
   "standings": [
@@ -4929,6 +4938,10 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 340,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 369,
       "availabilityStatus": 0
     },
@@ -4938,7 +4951,7 @@
     },
     {
       "playerId": 434,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 452,
@@ -4946,6 +4959,10 @@
     },
     {
       "playerId": 556,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 648,
       "availabilityStatus": 3
     },
     {
@@ -4954,7 +4971,7 @@
     },
     {
       "playerId": 997,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 1011,
@@ -4970,7 +4987,7 @@
     },
     {
       "playerId": 2668,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 4066,
@@ -4982,7 +4999,7 @@
     },
     {
       "playerId": 9646,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 9668,
@@ -4994,7 +5011,7 @@
     },
     {
       "playerId": 15139,
-      "availabilityStatus": 2
+      "availabilityStatus": 3
     },
     {
       "playerId": 18248,
@@ -5006,7 +5023,7 @@
     },
     {
       "playerId": 20800,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
     },
     {
       "playerId": 20844,
@@ -5041,6 +5058,10 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 26945,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 28583,
       "availabilityStatus": 0
     },
@@ -5066,7 +5087,7 @@
     },
     {
       "playerId": 30157,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 30261,
@@ -5082,11 +5103,11 @@
     },
     {
       "playerId": 32012,
-      "availabilityStatus": 4
+      "availabilityStatus": 0
     },
     {
       "playerId": 32708,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 33080,
@@ -5094,7 +5115,7 @@
     },
     {
       "playerId": 33264,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 33306,
@@ -5114,15 +5135,23 @@
     },
     {
       "playerId": 36256,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 36393,
       "availabilityStatus": 0
     },
     {
+      "playerId": 37510,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 37719,
       "availabilityStatus": 0
+    },
+    {
+      "playerId": 37990,
+      "availabilityStatus": 3
     },
     {
       "playerId": 38119,
@@ -5138,15 +5167,19 @@
     },
     {
       "playerId": 40408,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 41398,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 41410,
       "availabilityStatus": 0
+    },
+    {
+      "playerId": 41411,
+      "availabilityStatus": 3
     },
     {
       "playerId": 41419,
@@ -5165,16 +5198,24 @@
       "availabilityStatus": 0
     },
     {
+      "playerId": 44559,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 45125,
       "availabilityStatus": 2
     },
     {
+      "playerId": 46870,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 47621,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 47735,
-      "availabilityStatus": 3
+      "availabilityStatus": 2
     },
     {
       "playerId": 47743,
@@ -5186,6 +5227,10 @@
     },
     {
       "playerId": 47999,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 48085,
       "availabilityStatus": 0
     },
     {
@@ -5206,6 +5251,10 @@
     },
     {
       "playerId": 51689,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 52137,
       "availabilityStatus": 2
     },
     {
@@ -5230,7 +5279,7 @@
     },
     {
       "playerId": 55422,
-      "availabilityStatus": 0
+      "availabilityStatus": 3
     },
     {
       "playerId": 56483,
@@ -5242,11 +5291,11 @@
     },
     {
       "playerId": 57632,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
     },
     {
       "playerId": 57670,
-      "availabilityStatus": 2
+      "availabilityStatus": 0
     },
     {
       "playerId": 57698,
@@ -5259,6 +5308,10 @@
     {
       "playerId": 58723,
       "availabilityStatus": 2
+    },
+    {
+      "playerId": 58912,
+      "availabilityStatus": 0
     }
   ]
 }

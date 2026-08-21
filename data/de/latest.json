@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-21T11:48:25.400343+00:00",
+  "fetchedAt": "2026-08-21T14:07:42.584781+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -1284,6 +1284,15 @@
       "teamId": 1062,
       "teamName": "SV Elversberg",
       "dateCreated": "2026-08-21T07:23:26.658353+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "L. Geertruida",
+      "price": 2500000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-08-21T12:32:22.8795355+00:00"
     }
   ],
   "standings": [

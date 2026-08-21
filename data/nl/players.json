@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-21T11:47:07.051327+00:00",
-  "playerCount": 512,
+  "fetchedAt": "2026-08-21T14:06:25.900401+00:00",
+  "playerCount": 513,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5123,6 +5123,16 @@
       "teamId": 11,
       "teamName": "FC Utrecht",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1216043,
+      "playerId": 19435,
+      "name": "Lutsharel Geertruida",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 7,
+      "teamName": "PSV",
+      "price": 3500000
     }
   ]
 }
