@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-24T18:01:50.415127+00:00",
-  "playerCount": 532,
+  "fetchedAt": "2026-08-24T19:52:53.486884+00:00",
+  "playerCount": 538,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5323,6 +5323,66 @@
       "teamId": 1036,
       "teamName": "RAAL La Louvière",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1216931,
+      "playerId": 26248,
+      "name": "Mike Eerdhuijzen",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1216316,
+      "playerId": 37427,
+      "name": "Matteo Dams",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1216034,
+      "playerId": 52828,
+      "name": "Don-Angelo Konadu",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1217934,
+      "playerId": 57436,
+      "name": "Jannik Robatsch",
+      "nationality": "Oostenrijk",
+      "position": 2,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1217938,
+      "playerId": 59546,
+      "name": "Tawfik Bentayeb",
+      "nationality": "Marokko",
+      "position": 8,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1217053,
+      "playerId": 61822,
+      "name": "Niek Corthouts",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 500000
     }
   ]
 }

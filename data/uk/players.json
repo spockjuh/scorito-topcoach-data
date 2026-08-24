@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-24T18:01:32.690705+00:00",
-  "playerCount": 610,
+  "fetchedAt": "2026-08-24T19:52:34.423090+00:00",
+  "playerCount": 612,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -3045,14 +3045,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 289747,
+      "teamPlayerId": 1217933,
       "playerId": 30215,
       "name": "Ezri Konsa",
       "nationality": "Engeland",
       "position": 2,
-      "teamId": 502,
-      "teamName": "Aston Villa",
-      "price": 2000000
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "price": 3500000
     },
     {
       "teamPlayerId": 880549,
@@ -6103,6 +6103,26 @@
       "teamId": 933,
       "teamName": "Nottingham Forest",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1217943,
+      "playerId": 15199,
+      "name": "Aaron Wan-Bissaka",
+      "nationality": "Congo DR",
+      "position": 2,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1217941,
+      "playerId": 53136,
+      "name": "Dayann Methalie",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "price": 1250000
     }
   ]
 }

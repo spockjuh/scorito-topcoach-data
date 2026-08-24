@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-24T18:00:55.050439+00:00",
-  "playerCount": 513,
+  "fetchedAt": "2026-08-24T19:51:55.027590+00:00",
+  "playerCount": 515,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5133,6 +5133,26 @@
       "teamId": 7,
       "teamName": "PSV",
       "price": 3500000
+    },
+    {
+      "teamPlayerId": 1217899,
+      "playerId": 20288,
+      "name": "Mathieu Maertens",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1217898,
+      "playerId": 34347,
+      "name": "Sem Valk",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "price": 750000
     }
   ]
 }

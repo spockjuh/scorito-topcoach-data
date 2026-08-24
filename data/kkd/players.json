@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-24T18:01:14.381365+00:00",
-  "playerCount": 542,
+  "fetchedAt": "2026-08-24T19:52:15.181868+00:00",
+  "playerCount": 544,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5423,6 +5423,26 @@
       "teamId": 18,
       "teamName": "De Graafschap",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1217718,
+      "playerId": 54315,
+      "name": "Abdoulaye Camara",
+      "nationality": "Frankrijk",
+      "position": 4,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1216145,
+      "playerId": 61793,
+      "name": "Chavarello Hellings",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "price": 500000
     }
   ]
 }

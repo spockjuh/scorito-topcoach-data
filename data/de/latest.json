@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-24T18:02:09.919620+00:00",
+  "fetchedAt": "2026-08-24T19:53:12.267662+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 555,
+  "playerCount": 556,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1329,6 +1329,24 @@
       "teamId": 565,
       "teamName": "Eintracht Frankfurt",
       "dateCreated": "2026-08-24T14:17:22.7374364+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Skhiri",
+      "price": 1000000,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "dateCreated": "2026-08-24T19:05:58.3085018+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "T. Moffi",
+      "price": 1500000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-08-24T19:07:15.7507371+00:00"
     }
   ],
   "standings": [

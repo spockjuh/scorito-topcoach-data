@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-24T18:01:50.415127+00:00",
+  "fetchedAt": "2026-08-24T19:52:53.486884+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 532,
+  "playerCount": 538,
   "playerPoints": [
     {
       "marketId": 315,
@@ -4276,6 +4276,60 @@
       "teamId": 625,
       "teamName": "Union",
       "dateCreated": "2026-08-24T13:47:20.7062679+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Eerdhuijzen",
+      "price": 1500000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-24T18:38:14.3708555+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Dams",
+      "price": 2500000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-08-24T18:40:58.2150659+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "D. Konadu",
+      "price": 1250000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-08-24T18:42:07.4243674+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Robatsch",
+      "price": 750000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-08-24T18:57:23.2306989+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "T. Bentayeb",
+      "price": 2000000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-08-24T19:03:26.140617+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Corthouts",
+      "price": 500000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-08-24T19:04:07.9415571+00:00"
     }
   ],
   "standings": [

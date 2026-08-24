@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-08-24T18:02:09.919620+00:00",
-  "playerCount": 555,
+  "fetchedAt": "2026-08-24T19:53:12.267662+00:00",
+  "playerCount": 556,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -2835,14 +2835,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 651953,
+      "teamPlayerId": 1217946,
       "playerId": 20537,
       "name": "Ellyes Skhiri",
       "nationality": "Tunesië",
       "position": 4,
-      "teamId": 565,
-      "teamName": "Eintracht Frankfurt",
-      "price": 1500000
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "price": 1000000
     },
     {
       "teamPlayerId": 808803,
@@ -5553,6 +5553,16 @@
       "teamId": 1062,
       "teamName": "SV Elversberg",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1217945,
+      "playerId": 28309,
+      "name": "Terem Moffi",
+      "nationality": "Nigeria",
+      "position": 8,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "price": 1500000
     }
   ]
 }
