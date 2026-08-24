@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-24T11:50:41.210431+00:00",
+  "fetchedAt": "2026-08-24T14:27:12.929930+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -1293,6 +1293,42 @@
       "teamId": 556,
       "teamName": "RB Leipzig",
       "dateCreated": "2026-08-21T12:32:22.8795355+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "E. Elmas",
+      "price": 2500000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-08-24T12:17:15.1755399+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Pedersen",
+      "price": 500000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-24T14:17:22.7217047+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "K. Coulibaly",
+      "price": 1250000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-08-24T14:17:22.7278142+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "E. Skhiri",
+      "price": 1500000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-24T14:17:22.7374364+00:00"
     }
   ],
   "standings": [
