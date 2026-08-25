@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-25T11:51:56.215955+00:00",
+  "fetchedAt": "2026-08-25T14:28:40.406700+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -4251,6 +4251,24 @@
       "teamId": 501,
       "teamName": "Sunderland",
       "dateCreated": "2026-08-24T18:26:39.4735432+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "Savinho",
+      "price": 2000000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-08-25T14:02:20.6708496+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "S. Byram",
+      "price": 500000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-25T14:02:20.6773429+00:00"
     }
   ],
   "standings": [
@@ -4653,7 +4671,7 @@
   "marketRoundEnriched": {
     "marketRoundId": 7524,
     "marketId": 314,
-    "matchOfWeekId": null,
+    "matchOfWeekId": 66308,
     "captainFactor": 2,
     "deadline": "2026-08-28T19:00:00+00:00",
     "gamePhaseId": 1139
