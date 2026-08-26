@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-26T08:11:01.523882+00:00",
+  "fetchedAt": "2026-08-26T10:19:08.249458+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -4275,6 +4275,24 @@
       "teamId": 864,
       "teamName": "Leeds United",
       "dateCreated": "2026-08-25T14:02:20.6773429+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Baleba",
+      "price": 1250000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-08-26T08:32:47.3268613+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "K. Van Oevelen",
+      "price": 750000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-08-26T08:32:47.334955+00:00"
     }
   ],
   "standings": [

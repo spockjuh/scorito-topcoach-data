@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-26T08:11:20.556548+00:00",
+  "fetchedAt": "2026-08-26T10:19:27.899878+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4330,6 +4330,51 @@
       "teamId": 1059,
       "teamName": "Lommel SK",
       "dateCreated": "2026-08-24T19:04:07.9415571+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Zekri",
+      "price": 2000000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-08-26T09:02:52.4099788+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Ahoka",
+      "price": 1250000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-08-26T09:02:52.4160968+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "N. Saliba",
+      "price": 2000000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-08-26T10:02:47.3099762+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "L. Soh",
+      "price": 1250000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-08-26T10:02:47.3213788+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "B. Šutalo",
+      "price": 1750000,
+      "teamId": 360,
+      "teamName": "Standard",
+      "dateCreated": "2026-08-26T10:02:47.3362746+00:00"
     }
   ],
   "standings": [
@@ -4733,7 +4778,7 @@
     },
     {
       "playerId": 22316,
-      "availabilityStatus": 3
+      "availabilityStatus": 0
     },
     {
       "playerId": 24320,

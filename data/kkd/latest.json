@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-26T08:10:42.601090+00:00",
+  "fetchedAt": "2026-08-26T10:18:48.051437+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -4791,6 +4791,15 @@
       "teamId": 814,
       "teamName": "Jong AZ",
       "dateCreated": "2026-08-24T18:17:17.1963438+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Pawirodihadjo",
+      "price": 750000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-08-26T10:02:47.3099762+00:00"
     }
   ],
   "standings": [
