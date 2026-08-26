@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-26T10:18:27.063853+00:00",
-  "playerCount": 515,
+  "fetchedAt": "2026-08-26T11:56:02.240718+00:00",
+  "playerCount": 516,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -2195,14 +2195,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 876084,
+      "teamPlayerId": 1217998,
       "playerId": 38453,
       "name": "Billy van Duijl",
       "nationality": "Nederland",
       "position": 2,
-      "teamId": 13,
-      "teamName": "AZ",
-      "price": 1500000
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 750000
     },
     {
       "teamPlayerId": 1198841,
@@ -5153,6 +5153,16 @@
       "teamId": 816,
       "teamName": "Telstar",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1217971,
+      "playerId": 35677,
+      "name": "Agust Orri Thorsteinsson",
+      "nationality": "IJsland",
+      "position": 8,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 500000
     }
   ]
 }

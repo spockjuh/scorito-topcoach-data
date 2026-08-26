@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-08-26T10:19:47.867262+00:00",
-  "playerCount": 556,
+  "fetchedAt": "2026-08-26T11:57:12.591177+00:00",
+  "playerCount": 560,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -5563,6 +5563,46 @@
       "teamId": 573,
       "teamName": "Hamburger SV",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1218185,
+      "playerId": 4048,
+      "name": "Christopher Nkunku",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "price": 3000000
+    },
+    {
+      "teamPlayerId": 1217979,
+      "playerId": 13988,
+      "name": "Dennis Geiger",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 568,
+      "teamName": "Hoffenheim",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1217986,
+      "playerId": 61658,
+      "name": "Maximilian Kinzig",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1217990,
+      "playerId": 61759,
+      "name": "Elias Lahti",
+      "nationality": "Finland",
+      "position": 1,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "price": 500000
     }
   ]
 }

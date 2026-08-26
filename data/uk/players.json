@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-26T10:19:08.249458+00:00",
-  "playerCount": 612,
+  "fetchedAt": "2026-08-26T11:56:38.032882+00:00",
+  "playerCount": 617,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -1235,14 +1235,14 @@
       "price": 1750000
     },
     {
-      "teamPlayerId": 818743,
+      "teamPlayerId": 1217997,
       "playerId": 39090,
       "name": "Savinho",
       "nationality": "Brazilië",
       "position": 8,
-      "teamId": 295,
-      "teamName": "Manchester City",
-      "price": 2000000
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "price": 1750000
     },
     {
       "teamPlayerId": 890654,
@@ -3935,14 +3935,14 @@
       "price": 1750000
     },
     {
-      "teamPlayerId": 673860,
+      "teamPlayerId": 1218162,
       "playerId": 38359,
       "name": "Carlos Baleba",
       "nationality": "Kameroen",
       "position": 4,
-      "teamId": 630,
-      "teamName": "Brighton and Hove Albion",
-      "price": 1250000
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "price": 1750000
     },
     {
       "teamPlayerId": 968386,
@@ -6123,6 +6123,56 @@
       "teamId": 501,
       "teamName": "Sunderland",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1218186,
+      "playerId": 44654,
+      "name": "Jaouen Hadjam",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1218011,
+      "playerId": 44790,
+      "name": "Daniel Bentley",
+      "nationality": "Engeland",
+      "position": 1,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1218188,
+      "playerId": 47899,
+      "name": "Michele Di Gregorio",
+      "nationality": "Italië",
+      "position": 1,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1217958,
+      "playerId": 48156,
+      "name": "Luc De Fougerolles",
+      "nationality": "Canada",
+      "position": 2,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1218043,
+      "playerId": 57962,
+      "name": "Jules Ahoka",
+      "nationality": "Congo DR",
+      "position": 4,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "price": 750000
     }
   ]
 }

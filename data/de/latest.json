@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-26T10:19:47.867262+00:00",
+  "fetchedAt": "2026-08-26T11:57:12.591177+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 556,
+  "playerCount": 560,
   "playerPoints": [],
   "transferFeed": [
     {
@@ -1368,24 +1368,6 @@
     },
     {
       "mutationType": 2,
-      "playerPosition": 4,
-      "playerName": "Y. Spalt",
-      "price": 1500000,
-      "teamId": 663,
-      "teamName": "VfB Stuttgart",
-      "dateCreated": "2026-08-25T08:47:17.0881602+00:00"
-    },
-    {
-      "mutationType": 2,
-      "playerPosition": 4,
-      "playerName": "M. Kücüksahin",
-      "price": 500000,
-      "teamId": 392,
-      "teamName": "FC Augsburg",
-      "dateCreated": "2026-08-25T09:02:15.4179802+00:00"
-    },
-    {
-      "mutationType": 2,
       "playerPosition": 8,
       "playerName": "E. Wahi",
       "price": 2000000,
@@ -1403,58 +1385,40 @@
       "dateCreated": "2026-08-25T09:02:15.4340749+00:00"
     },
     {
-      "mutationType": 2,
-      "playerPosition": 4,
-      "playerName": "N. Höfler",
-      "price": 1000000,
-      "teamId": 571,
-      "teamName": "SC Freiburg",
-      "dateCreated": "2026-08-25T09:02:15.441683+00:00"
-    },
-    {
-      "mutationType": 2,
-      "playerPosition": 1,
-      "playerName": "L. Podlech",
-      "price": 500000,
-      "teamId": 266,
-      "teamName": "FC Schalke 04",
-      "dateCreated": "2026-08-25T09:17:21.1902001+00:00"
-    },
-    {
-      "mutationType": 2,
-      "playerPosition": 2,
-      "playerName": "S. Noode",
-      "price": 500000,
-      "teamId": 266,
-      "teamName": "FC Schalke 04",
-      "dateCreated": "2026-08-25T09:17:21.196714+00:00"
-    },
-    {
-      "mutationType": 2,
-      "playerPosition": 4,
-      "playerName": "L. Bittencourt",
-      "price": 1250000,
-      "teamId": 564,
-      "teamName": "Werder Bremen",
-      "dateCreated": "2026-08-25T09:17:21.2023746+00:00"
-    },
-    {
-      "mutationType": 2,
+      "mutationType": 1,
       "playerPosition": 8,
-      "playerName": "L. Copado",
-      "price": 500000,
-      "teamId": 836,
-      "teamName": "SC Paderborn",
-      "dateCreated": "2026-08-25T09:17:21.2098271+00:00"
+      "playerName": "C. Nkunku",
+      "price": 3000000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-08-26T11:33:53.2823349+00:00"
     },
     {
-      "mutationType": 2,
-      "playerPosition": 2,
-      "playerName": "D. Leite",
-      "price": 1250000,
-      "teamId": 837,
-      "teamName": "1. FC Union Berlin",
-      "dateCreated": "2026-08-25T09:17:21.2169689+00:00"
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "D. Geiger",
+      "price": 1000000,
+      "teamId": 568,
+      "teamName": "Hoffenheim",
+      "dateCreated": "2026-08-26T11:34:35.3925127+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "M. Kinzig",
+      "price": 750000,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "dateCreated": "2026-08-26T11:35:01.9263663+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "E. Lahti",
+      "price": 500000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-08-26T11:35:16.9401057+00:00"
     }
   ],
   "standings": [

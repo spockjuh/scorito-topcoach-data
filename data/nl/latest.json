@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-26T10:18:27.063853+00:00",
+  "fetchedAt": "2026-08-26T11:56:02.240718+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 515,
+  "playerCount": 516,
   "playerPoints": [
     {
       "marketId": 312,
@@ -4711,6 +4711,24 @@
       "teamId": 22,
       "teamName": "SC Cambuur",
       "dateCreated": "2026-08-26T10:02:47.304476+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Thorsteinsson",
+      "price": 500000,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "dateCreated": "2026-08-26T10:23:42.6212344+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "B. Van Duijl",
+      "price": 750000,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "dateCreated": "2026-08-26T10:24:49.3475898+00:00"
     }
   ],
   "standings": [

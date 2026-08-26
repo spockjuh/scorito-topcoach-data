@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-26T10:19:08.249458+00:00",
+  "fetchedAt": "2026-08-26T11:56:38.032882+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 612,
+  "playerCount": 617,
   "playerPoints": [
     {
       "marketId": 314,
@@ -4293,6 +4293,78 @@
       "teamId": 971,
       "teamName": "Ipswich Town",
       "dateCreated": "2026-08-26T08:32:47.334955+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "C. Ramsay",
+      "price": 2000000,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "dateCreated": "2026-08-26T10:22:04.6444579+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Baleba",
+      "price": 1750000,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "dateCreated": "2026-08-26T11:26:29.6261427+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "Savinho",
+      "price": 1750000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-08-26T11:27:43.9123065+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Hadjam",
+      "price": 1250000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-08-26T11:28:25.6728358+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "D. Bentley",
+      "price": 750000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-26T11:29:22.2093708+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "M. Gregorio",
+      "price": 1500000,
+      "teamId": 494,
+      "teamName": "AFC Bournemouth",
+      "dateCreated": "2026-08-26T11:29:54.3221479+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. De Fougerolles",
+      "price": 750000,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "dateCreated": "2026-08-26T11:30:23.8383062+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Ahoka",
+      "price": 750000,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "dateCreated": "2026-08-26T11:30:57.0656138+00:00"
     }
   ],
   "standings": [

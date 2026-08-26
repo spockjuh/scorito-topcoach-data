@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-26T10:18:48.051437+00:00",
-  "playerCount": 544,
+  "fetchedAt": "2026-08-26T11:56:20.794094+00:00",
+  "playerCount": 547,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5442,6 +5442,36 @@
       "position": 8,
       "teamId": 814,
       "teamName": "Jong AZ",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1217957,
+      "playerId": 30546,
+      "name": "Fodé Fofana",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 14,
+      "teamName": "Heracles Almelo",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1218180,
+      "playerId": 32496,
+      "name": "Joep Van Der Sluijs",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1218179,
+      "playerId": 53436,
+      "name": "Ryan van de Pavert",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
       "price": 500000
     }
   ]

@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-26T10:18:48.051437+00:00",
+  "fetchedAt": "2026-08-26T11:56:20.794094+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 544,
+  "playerCount": 547,
   "playerPoints": [
     {
       "marketId": 313,
@@ -4800,6 +4800,33 @@
       "teamId": 817,
       "teamName": "MVV Maastricht",
       "dateCreated": "2026-08-26T10:02:47.3099762+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "F. Fofana",
+      "price": 1500000,
+      "teamId": 14,
+      "teamName": "Heracles Almelo",
+      "dateCreated": "2026-08-26T10:27:27.1995867+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Van Der Sluijs",
+      "price": 750000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-08-26T10:29:26.7375346+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "R. Van De Pavert",
+      "price": 500000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-08-26T10:30:17.9484753+00:00"
     }
   ],
   "standings": [
