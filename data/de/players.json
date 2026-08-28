@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-08-28T00:59:07.282185+00:00",
-  "playerCount": 560,
+  "fetchedAt": "2026-08-28T21:57:30.773063+00:00",
+  "playerCount": 563,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -3505,13 +3505,13 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 849165,
+      "teamPlayerId": 1218872,
       "playerId": 35054,
       "name": "Noah Atubolu",
       "nationality": "Duitsland",
       "position": 1,
-      "teamId": 571,
-      "teamName": "SC Freiburg",
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
       "price": 1750000
     },
     {
@@ -5603,6 +5603,36 @@
       "teamId": 573,
       "teamName": "Hamburger SV",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1218876,
+      "playerId": 18884,
+      "name": "Ohis Felix Uduokhai",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1218298,
+      "playerId": 39730,
+      "name": "Marvin Pieringer",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1218877,
+      "playerId": 45424,
+      "name": "Young-Woo Seol",
+      "nationality": "Zuid-Korea",
+      "position": 2,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "price": 1000000
     }
   ]
 }

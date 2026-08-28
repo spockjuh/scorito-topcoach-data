@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-28T00:58:48.067541+00:00",
-  "playerCount": 541,
+  "fetchedAt": "2026-08-28T21:57:13.928628+00:00",
+  "playerCount": 544,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5413,6 +5413,36 @@
       "teamId": 560,
       "teamName": "Westerlo",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1218870,
+      "playerId": 54159,
+      "name": "Mauricio Benitez",
+      "nationality": "Argentinië",
+      "position": 4,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1218906,
+      "playerId": 54208,
+      "name": "Wisdom Mike",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1218907,
+      "playerId": 61867,
+      "name": "Niko Horvat",
+      "nationality": "Kroatië",
+      "position": 4,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 750000
     }
   ]
 }

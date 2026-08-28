@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-28T00:59:07.282185+00:00",
+  "fetchedAt": "2026-08-28T21:57:30.773063+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -19,7 +19,7 @@
             "Id": 7561,
             "Order": 1,
             "Deadline": "2026-08-28T18:30:00",
-            "IsDeadlinePassed": false,
+            "IsDeadlinePassed": true,
             "IsStarted": true,
             "StartDateTime": "2026-07-14T08:00:00",
             "Name": "1",
@@ -384,7 +384,7 @@
         "Id": 7561,
         "Order": 1,
         "Deadline": "2026-08-28T18:30:00",
-        "IsDeadlinePassed": false,
+        "IsDeadlinePassed": true,
         "IsStarted": true,
         "StartDateTime": "2026-07-14T08:00:00",
         "Name": "1",
@@ -778,8 +778,249 @@
       489
     ]
   },
-  "playerCount": 560,
-  "playerPoints": [],
+  "playerCount": 563,
+  "playerPoints": [
+    {
+      "marketId": 328,
+      "teamPlayerId": 812105,
+      "playerId": 16023,
+      "points": -36
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 856437,
+      "playerId": 54177,
+      "points": -36
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 1016136,
+      "playerId": 30024,
+      "points": -20
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 797467,
+      "playerId": 33307,
+      "points": -12
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 348119,
+      "playerId": 22348,
+      "points": -12
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 641812,
+      "playerId": 10599,
+      "points": -12
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 880162,
+      "playerId": 39835,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 880151,
+      "playerId": 38127,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 655596,
+      "playerId": 35058,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 1211241,
+      "playerId": 59286,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 944118,
+      "playerId": 37751,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 1016128,
+      "playerId": 27028,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 875183,
+      "playerId": 53369,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 863052,
+      "playerId": 37823,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 797875,
+      "playerId": 23809,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 1209484,
+      "playerId": 33954,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 1015882,
+      "playerId": 34787,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 843007,
+      "playerId": 36207,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 818399,
+      "playerId": 18573,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 789462,
+      "playerId": 36345,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 863053,
+      "playerId": 54759,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 863051,
+      "playerId": 2001,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 855462,
+      "playerId": 36269,
+      "points": 0
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 674941,
+      "playerId": 28530,
+      "points": 4
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 826176,
+      "playerId": 34905,
+      "points": 28
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 878421,
+      "playerId": 30427,
+      "points": 28
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 1211242,
+      "playerId": 39741,
+      "points": 28
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 656442,
+      "playerId": 36905,
+      "points": 30
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 661530,
+      "playerId": 4188,
+      "points": 46
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 557232,
+      "playerId": 20242,
+      "points": 52
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 262515,
+      "playerId": 24603,
+      "points": 54
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 951642,
+      "playerId": 52970,
+      "points": 54
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 4063,
+      "playerId": 1663,
+      "points": 54
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 874658,
+      "playerId": 2437,
+      "points": 54
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 875458,
+      "playerId": 28300,
+      "points": 110
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 696712,
+      "playerId": 45439,
+      "points": 126
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 811766,
+      "playerId": 35740,
+      "points": 126
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 11054,
+      "playerId": 2503,
+      "points": 126
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 351930,
+      "playerId": 3539,
+      "points": 150
+    },
+    {
+      "marketId": 328,
+      "teamPlayerId": 942079,
+      "playerId": 30695,
+      "points": 160
+    }
+  ],
   "transferFeed": [
     {
       "mutationType": 2,
@@ -1419,6 +1660,105 @@
       "teamId": 573,
       "teamName": "Hamburger SV",
       "dateCreated": "2026-08-26T11:35:16.9401057+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "E. Poku",
+      "price": 2000000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-28T08:17:47.2399726+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Palhinha",
+      "price": 1750000,
+      "teamId": 165,
+      "teamName": "Bayern München",
+      "dateCreated": "2026-08-28T08:17:47.2571573+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "E. Palacios",
+      "price": 2000000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-28T08:47:46.4152174+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "B. Zaragoza",
+      "price": 2000000,
+      "teamId": 165,
+      "teamName": "Bayern München",
+      "dateCreated": "2026-08-28T08:47:46.4221802+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "K. Schlotterbeck",
+      "price": 1000000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-28T08:47:46.4305677+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "Y. Niang",
+      "price": 750000,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "dateCreated": "2026-08-28T08:47:46.4362988+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "N. Atubolu",
+      "price": 1750000,
+      "teamId": 571,
+      "teamName": "SC Freiburg",
+      "dateCreated": "2026-08-28T08:47:46.4469352+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "O. Uduokhai",
+      "price": 1000000,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "dateCreated": "2026-08-28T15:39:22.2695812+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "N. Atubolu",
+      "price": 1750000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-28T15:40:18.5273414+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Pieringer",
+      "price": 1250000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-28T15:41:19.4721722+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Y. Seol",
+      "price": 1000000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-08-28T15:42:30.2637702+00:00"
     }
   ],
   "standings": [
@@ -1426,13 +1766,26 @@
       "TranslatedName": "Football.Event.846.Phase.1.SubPhase.1.Group.1",
       "RankEntries": [
         {
+          "GoalsAgainst": 1,
+          "GoalsFor": 5,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_165.png",
+          "LabelKey": null,
+          "MatchesPlayed": 1,
+          "Points": 3,
+          "Rank": 1,
+          "TeamNameShort": "FCB",
+          "TeamType": 0,
+          "TranslatedName": "Bayern München",
+          "TeamId": 165
+        },
+        {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_559.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 1,
+          "Rank": 2,
           "TeamNameShort": "KÖL",
           "TeamType": 0,
           "TranslatedName": "1. FC Köln",
@@ -1445,7 +1798,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 2,
+          "Rank": 3,
           "TeamNameShort": "UNI",
           "TeamType": 0,
           "TranslatedName": "1. FC Union Berlin",
@@ -1458,7 +1811,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 3,
+          "Rank": 4,
           "TeamNameShort": "M05",
           "TeamType": 0,
           "TranslatedName": "1. FSV Mainz 05",
@@ -1471,7 +1824,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 4,
+          "Rank": 5,
           "TeamNameShort": "LEV",
           "TeamType": 0,
           "TranslatedName": "Bayer Leverkusen",
@@ -1484,7 +1837,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 5,
+          "Rank": 6,
           "TeamNameShort": "BVB",
           "TeamType": 0,
           "TranslatedName": "Borussia Dortmund",
@@ -1497,7 +1850,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 6,
+          "Rank": 7,
           "TeamNameShort": "MÖN",
           "TeamType": 0,
           "TranslatedName": "Borussia Mönchengladbach",
@@ -1510,7 +1863,7 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 7,
+          "Rank": 8,
           "TeamNameShort": "FRA",
           "TeamType": 0,
           "TranslatedName": "Eintracht Frankfurt",
@@ -1523,24 +1876,11 @@
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 8,
+          "Rank": 9,
           "TeamNameShort": "FCA",
           "TeamType": 0,
           "TranslatedName": "FC Augsburg",
           "TeamId": 392
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_165.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 9,
-          "TeamNameShort": "FCB",
-          "TeamType": 0,
-          "TranslatedName": "Bayern München",
-          "TeamId": 165
         },
         {
           "GoalsAgainst": 0,
@@ -1636,28 +1976,28 @@
         {
           "GoalsAgainst": 0,
           "GoalsFor": 0,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_663.png",
-          "LabelKey": null,
-          "MatchesPlayed": 0,
-          "Points": 0,
-          "Rank": 17,
-          "TeamNameShort": "VFB",
-          "TeamType": 0,
-          "TranslatedName": "VfB Stuttgart",
-          "TeamId": 663
-        },
-        {
-          "GoalsAgainst": 0,
-          "GoalsFor": 0,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_564.png",
           "LabelKey": null,
           "MatchesPlayed": 0,
           "Points": 0,
-          "Rank": 18,
+          "Rank": 17,
           "TeamNameShort": "BRE",
           "TeamType": 0,
           "TranslatedName": "Werder Bremen",
           "TeamId": 564
+        },
+        {
+          "GoalsAgainst": 5,
+          "GoalsFor": 1,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_663.png",
+          "LabelKey": null,
+          "MatchesPlayed": 1,
+          "Points": 0,
+          "Rank": 18,
+          "TeamNameShort": "VFB",
+          "TeamType": 0,
+          "TranslatedName": "VfB Stuttgart",
+          "TeamId": 663
         }
       ],
       "GroupId": 1,
@@ -1666,114 +2006,434 @@
       "RankingCategories": []
     }
   ],
-  "currentMarketRoundId": 7561,
+  "currentMarketRoundId": 7562,
   "marketRoundMatches": [
     {
-      "marketRoundId": 7561,
-      "matchId": 68321,
+      "marketRoundId": 7562,
+      "matchId": 68323,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 571,
-      "awayTeamId": 564,
-      "dateModified": "2026-07-14T09:07:22.1678689+00:00"
+      "homeTeamId": 573,
+      "awayTeamId": 567,
+      "dateModified": "2026-07-14T09:07:31.6373123+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68284,
+      "marketRoundId": 7562,
+      "matchId": 68304,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 1062,
-      "awayTeamId": 158,
-      "dateModified": "2026-07-14T09:07:21.6045341+00:00"
+      "homeTeamId": 565,
+      "awayTeamId": 392,
+      "dateModified": "2026-07-14T09:07:31.2302355+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68270,
+      "marketRoundId": 7562,
+      "matchId": 68292,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 86,
-      "awayTeamId": 573,
-      "dateModified": "2026-07-14T09:07:21.2368286+00:00"
+      "homeTeamId": 663,
+      "awayTeamId": 559,
+      "dateModified": "2026-07-14T09:07:30.8550783+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68151,
+      "marketRoundId": 7562,
+      "matchId": 68198,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 165,
-      "awayTeamId": 663,
-      "dateModified": "2026-07-14T09:07:18.7209601+00:00"
+      "homeTeamId": 266,
+      "awayTeamId": 165,
+      "dateModified": "2026-07-14T09:07:30.4973695+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68131,
+      "marketRoundId": 7562,
+      "matchId": 68195,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 556,
-      "awayTeamId": 97,
-      "dateModified": "2026-07-14T09:07:20.9066435+00:00"
+      "homeTeamId": 564,
+      "awayTeamId": 556,
+      "dateModified": "2026-07-14T09:07:30.1260201+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68099,
+      "marketRoundId": 7562,
+      "matchId": 68177,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 559,
-      "awayTeamId": 568,
-      "dateModified": "2026-07-14T09:07:20.5456189+00:00"
+      "homeTeamId": 836,
+      "awayTeamId": 571,
+      "dateModified": "2026-07-14T09:07:29.7764716+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68081,
+      "marketRoundId": 7562,
+      "matchId": 68089,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 392,
-      "awayTeamId": 266,
-      "dateModified": "2026-07-14T09:07:20.2087693+00:00"
+      "homeTeamId": 97,
+      "awayTeamId": 1062,
+      "dateModified": "2026-07-14T09:07:29.4102185+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68066,
+      "marketRoundId": 7562,
+      "matchId": 68064,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 837,
-      "awayTeamId": 565,
-      "dateModified": "2026-07-14T09:07:19.8344105+00:00"
+      "homeTeamId": 158,
+      "awayTeamId": 837,
+      "dateModified": "2026-07-14T09:07:29.0379701+00:00"
     },
     {
-      "marketRoundId": 7561,
-      "matchId": 68036,
+      "marketRoundId": 7562,
+      "matchId": 68050,
       "captainSelectionLockDateTime": null,
       "calculationStatus": 0,
-      "homeTeamId": 567,
-      "awayTeamId": 836,
-      "dateModified": "2026-07-14T09:07:19.4369343+00:00"
+      "homeTeamId": 568,
+      "awayTeamId": 86,
+      "dateModified": "2026-07-14T09:07:28.6171703+00:00"
     }
   ],
   "marketRoundEnriched": {
-    "marketRoundId": 7561,
+    "marketRoundId": 7562,
     "marketId": 328,
-    "matchOfWeekId": 68131,
+    "matchOfWeekId": 68050,
     "captainFactor": 2,
-    "deadline": "2026-08-28T18:30:00+00:00",
+    "deadline": "2026-09-04T18:30:00+00:00",
     "gamePhaseId": 1141
   },
   "playerAvailability": [
     {
+      "playerId": 1547,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 4087,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 4093,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 4248,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 5632,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 7784,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 9366,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 9457,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 13521,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 13522,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 13528,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 13569,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 14965,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 16026,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 16183,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 16521,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 17636,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 18099,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 18855,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 19812,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 19838,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 20299,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 21025,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 21577,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 22367,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 23828,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 24045,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 24860,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 28850,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 30042,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 30044,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 30062,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 30272,
+      "availabilityStatus": 0
+    },
+    {
+      "playerId": 30294,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 30695,
       "availabilityStatus": 0
+    },
+    {
+      "playerId": 32229,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 32335,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 32718,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 32832,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 32907,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 32989,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 33307,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 33966,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 33987,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 34099,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 34690,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 34873,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 36315,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 37279,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 37419,
+      "availabilityStatus": 2
     },
     {
       "playerId": 37632,
       "availabilityStatus": 0
     },
     {
+      "playerId": 38192,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 38581,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 41407,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 43869,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 44690,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 44694,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 45457,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 46291,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 46613,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 47505,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 47666,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 48234,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 50189,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 50919,
+      "availabilityStatus": 3
+    },
+    {
       "playerId": 52580,
       "availabilityStatus": 0
     },
     {
+      "playerId": 52972,
+      "availabilityStatus": 2
+    },
+    {
       "playerId": 54178,
-      "availabilityStatus": 0
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 54759,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 55299,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 57449,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 57454,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 57727,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 58172,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 58618,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 59937,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 59939,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 59974,
+      "availabilityStatus": 3
+    },
+    {
+      "playerId": 59979,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 60042,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 60044,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 60522,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 61672,
+      "availabilityStatus": 2
+    },
+    {
+      "playerId": 61676,
+      "availabilityStatus": 2
     }
   ]
 }

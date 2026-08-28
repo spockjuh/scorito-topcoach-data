@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-28T00:57:48.473526+00:00",
-  "playerCount": 520,
+  "fetchedAt": "2026-08-28T21:56:22.179241+00:00",
+  "playerCount": 522,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5203,6 +5203,26 @@
       "teamId": 1,
       "teamName": "Ajax",
       "price": 2000000
+    },
+    {
+      "teamPlayerId": 1218867,
+      "playerId": 52812,
+      "name": "Sem van Duijn",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1218778,
+      "playerId": 61862,
+      "name": "Tino Jukic",
+      "nationality": "Kroatië",
+      "position": 2,
+      "teamId": 21,
+      "teamName": "Go Ahead Eagles",
+      "price": 1250000
     }
   ]
 }

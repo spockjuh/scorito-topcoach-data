@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-28T00:58:28.693402+00:00",
-  "playerCount": 618,
+  "fetchedAt": "2026-08-28T21:56:57.073339+00:00",
+  "playerCount": 621,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -565,14 +565,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 862667,
+      "teamPlayerId": 1218810,
       "playerId": 32618,
       "name": "Liam Delap",
       "nationality": "Engeland",
       "position": 8,
-      "teamId": 211,
-      "teamName": "Chelsea",
-      "price": 2000000
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "price": 1750000
     },
     {
       "teamPlayerId": 933732,
@@ -1125,14 +1125,14 @@
       "price": 4000000
     },
     {
-      "teamPlayerId": 856298,
+      "teamPlayerId": 1218392,
       "playerId": 36929,
       "name": "Nico González",
       "nationality": "Spanje",
       "position": 4,
-      "teamId": 295,
-      "teamName": "Manchester City",
-      "price": 2500000
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "price": 1500000
     },
     {
       "teamPlayerId": 643058,
@@ -1215,14 +1215,14 @@
       "price": 7000000
     },
     {
-      "teamPlayerId": 855191,
+      "teamPlayerId": 1218812,
       "playerId": 30064,
       "name": "Omar Marmoush",
       "nationality": "Egypte",
       "position": 8,
-      "teamId": 295,
-      "teamName": "Manchester City",
-      "price": 3000000
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "price": 3500000
     },
     {
       "teamPlayerId": 1170539,
@@ -4705,13 +4705,13 @@
       "price": 1000000
     },
     {
-      "teamPlayerId": 354940,
+      "teamPlayerId": 1218390,
       "playerId": 34749,
       "name": "Ethan Pinnock",
       "nationality": "Jamaica",
       "position": 2,
-      "teamId": 882,
-      "teamName": "Brentford",
+      "teamId": 1060,
+      "teamName": "Coventry City",
       "price": 750000
     },
     {
@@ -6183,6 +6183,36 @@
       "teamId": 295,
       "teamName": "Manchester City",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1218811,
+      "playerId": 8168,
+      "name": "Leon Goretzka",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1218882,
+      "playerId": 34631,
+      "name": "Mohamed-Ali Cho",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1218873,
+      "playerId": 29493,
+      "name": "Exequiel Palacios",
+      "nationality": "Argentinië",
+      "position": 4,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "price": 1250000
     }
   ]
 }
