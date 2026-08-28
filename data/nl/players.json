@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-08-26T14:27:02.112696+00:00",
-  "playerCount": 516,
+  "fetchedAt": "2026-08-28T00:57:48.473526+00:00",
+  "playerCount": 520,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5163,6 +5163,46 @@
       "teamId": 17,
       "teamName": "Excelsior Rotterdam",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1218266,
+      "playerId": 47302,
+      "name": "Jonas Jensen Abbew",
+      "nationality": "Denemarken",
+      "position": 2,
+      "teamId": 16,
+      "teamName": "ADO Den Haag",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1218223,
+      "playerId": 51540,
+      "name": "Eric da Silva Moreira",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1218261,
+      "playerId": 597,
+      "name": "Tonny Vilhena",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1218293,
+      "playerId": 14047,
+      "name": "Viktor Tsygankov",
+      "nationality": "Oekraïne",
+      "position": 8,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "price": 2000000
     }
   ]
 }

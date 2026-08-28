@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-08-26T14:27:36.749971+00:00",
-  "playerCount": 617,
+  "fetchedAt": "2026-08-28T00:58:28.693402+00:00",
+  "playerCount": 618,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -405,14 +405,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 1197461,
+      "teamPlayerId": 1218286,
       "playerId": 34186,
       "name": "Axel Disasi",
       "nationality": "Frankrijk",
       "position": 2,
-      "teamId": 211,
-      "teamName": "Chelsea",
-      "price": 1750000
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1250000
     },
     {
       "teamPlayerId": 575392,
@@ -6173,6 +6173,16 @@
       "teamId": 501,
       "teamName": "Sunderland",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1218189,
+      "playerId": 48540,
+      "name": "Ayyoub Bouaddi",
+      "nationality": "Marokko",
+      "position": 4,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "price": 3000000
     }
   ]
 }

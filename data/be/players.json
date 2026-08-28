@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-08-26T14:27:53.518892+00:00",
-  "playerCount": 538,
+  "fetchedAt": "2026-08-28T00:58:48.067541+00:00",
+  "playerCount": 541,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5383,6 +5383,36 @@
       "teamId": 1059,
       "teamName": "Lommel SK",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1218292,
+      "playerId": 38117,
+      "name": "Tristan Gooijer",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1218296,
+      "playerId": 51350,
+      "name": "Simion Michez",
+      "nationality": "Kameroen",
+      "position": 4,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1218295,
+      "playerId": 52704,
+      "name": "Pape Diong",
+      "nationality": "Senegal",
+      "position": 4,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1250000
     }
   ]
 }

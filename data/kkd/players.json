@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-08-26T14:27:19.892601+00:00",
-  "playerCount": 547,
+  "fetchedAt": "2026-08-28T00:58:09.451034+00:00",
+  "playerCount": 551,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5473,6 +5473,46 @@
       "teamId": 811,
       "teamName": "Jong Ajax",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1218271,
+      "playerId": 33026,
+      "name": "Naim Matoug",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1218209,
+      "playerId": 36218,
+      "name": "Martin Wasinski",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 808,
+      "teamName": "Almere City FC",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1218288,
+      "playerId": 54150,
+      "name": "Yousri Sbai",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1218284,
+      "playerId": 61675,
+      "name": "Mokrane Bentoumi",
+      "nationality": "Algerije",
+      "position": 4,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "price": 1750000
     }
   ]
 }
