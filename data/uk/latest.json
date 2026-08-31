@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-31T12:36:23.556873+00:00",
+  "fetchedAt": "2026-08-31T13:06:28.477900+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -4758,6 +4758,24 @@
       "teamId": 864,
       "teamName": "Leeds United",
       "dateCreated": "2026-08-31T12:12:44.714518+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "C. Wiley",
+      "price": 1500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-31T12:57:43.9730453+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "O. Watkins",
+      "price": 5000000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-08-31T12:57:43.9785659+00:00"
     }
   ],
   "standings": [

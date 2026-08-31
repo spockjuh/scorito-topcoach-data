@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-31T12:35:43.454861+00:00",
+  "fetchedAt": "2026-08-31T13:05:54.012876+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -4903,6 +4903,15 @@
       "teamId": 2,
       "teamName": "Feyenoord",
       "dateCreated": "2026-08-31T12:12:44.6771461+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Min",
+      "price": 2000000,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "dateCreated": "2026-08-31T12:57:43.9607757+00:00"
     }
   ],
   "standings": [
