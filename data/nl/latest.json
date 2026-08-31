@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-31T18:35:49.173847+00:00",
+  "fetchedAt": "2026-08-31T23:06:46.307416+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -4948,6 +4948,15 @@
       "teamId": 10,
       "teamName": "FC Twente",
       "dateCreated": "2026-08-31T14:12:40.3543046+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "M. Sin",
+      "price": 1750000,
+      "teamId": 13,
+      "teamName": "AZ",
+      "dateCreated": "2026-08-31T19:57:43.3921966+00:00"
     }
   ],
   "standings": [
