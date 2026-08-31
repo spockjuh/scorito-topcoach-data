@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-31T06:07:18.767120+00:00",
+  "fetchedAt": "2026-08-31T06:35:47.528253+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -53,7 +53,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-08-24T07:00:00",
             "Name": "4",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-08-31T09:00:00"
           }
         ]
       },
@@ -418,7 +418,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-08-24T07:00:00",
         "Name": "4",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-08-31T09:00:00"
       },
       {
         "Id": 7344,
