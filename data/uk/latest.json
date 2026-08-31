@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-31T12:07:10.240081+00:00",
+  "fetchedAt": "2026-08-31T12:36:23.556873+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -4740,6 +4740,24 @@
       "teamId": 406,
       "teamName": "Tottenham Hotspur",
       "dateCreated": "2026-08-28T15:34:17.6527395+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "E. Martínez",
+      "price": 2500000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-08-31T12:12:44.6974958+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "L. Perri",
+      "price": 1250000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-08-31T12:12:44.714518+00:00"
     }
   ],
   "standings": [
