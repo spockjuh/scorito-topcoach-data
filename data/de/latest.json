@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-31T13:07:02.108899+00:00",
+  "fetchedAt": "2026-08-31T13:36:50.819017+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -3637,6 +3637,24 @@
       "teamId": 392,
       "teamName": "FC Augsburg",
       "dateCreated": "2026-08-28T15:42:30.2637702+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "N. Batzner",
+      "price": 500000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-08-31T13:27:41.0179059+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "D. Geiger",
+      "price": 1000000,
+      "teamId": 568,
+      "teamName": "Hoffenheim",
+      "dateCreated": "2026-08-31T13:27:41.0223222+00:00"
     }
   ],
   "standings": [
