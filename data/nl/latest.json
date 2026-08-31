@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-08-31T14:05:48.336103+00:00",
+  "fetchedAt": "2026-08-31T14:35:55.674143+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -4930,6 +4930,24 @@
       "teamId": 816,
       "teamName": "Telstar",
       "dateCreated": "2026-08-31T13:27:41.0059279+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "N. Emeran",
+      "price": 1000000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-08-31T14:12:40.3497504+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Hilgers",
+      "price": 1500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-08-31T14:12:40.3543046+00:00"
     }
   ],
   "standings": [

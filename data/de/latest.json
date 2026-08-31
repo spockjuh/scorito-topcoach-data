@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-08-31T14:07:06.654831+00:00",
+  "fetchedAt": "2026-08-31T14:37:13.281860+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -3655,6 +3655,51 @@
       "teamId": 568,
       "teamName": "Hoffenheim",
       "dateCreated": "2026-08-31T13:27:41.0223222+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Tape",
+      "price": 2000000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-08-31T14:12:40.3603685+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Theate",
+      "price": 1500000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-31T14:12:40.3654593+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "M. Zetterer",
+      "price": 1750000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-08-31T14:27:42.3275794+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "W. Böving",
+      "price": 1000000,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "dateCreated": "2026-08-31T14:27:42.3323651+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "J. Dompé",
+      "price": 750000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-08-31T14:27:42.3369731+00:00"
     }
   ],
   "standings": [

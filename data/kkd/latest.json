@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-08-31T14:06:09.078660+00:00",
+  "fetchedAt": "2026-08-31T14:36:16.599049+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -4998,6 +4998,15 @@
       "teamId": 808,
       "teamName": "Almere City FC",
       "dateCreated": "2026-08-28T08:47:46.379789+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "S. Esajas",
+      "price": 2000000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-08-31T14:12:40.3720106+00:00"
     }
   ],
   "standings": [
