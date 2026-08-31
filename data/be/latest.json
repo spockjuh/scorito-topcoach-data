@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-08-31T14:36:54.281631+00:00",
+  "fetchedAt": "2026-08-31T15:06:46.819349+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4582,6 +4582,15 @@
       "teamId": 233,
       "teamName": "AA Gent",
       "dateCreated": "2026-08-31T14:27:42.3369731+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Demuynck",
+      "price": 750000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-08-31T14:42:41.4949279+00:00"
     }
   ],
   "standings": [

@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-08-31T14:36:35.322138+00:00",
+  "fetchedAt": "2026-08-31T15:06:27.908296+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -4776,6 +4776,60 @@
       "teamId": 502,
       "teamName": "Aston Villa",
       "dateCreated": "2026-08-31T12:57:43.9785659+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "D. Muñoz",
+      "price": 3000000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-08-31T14:42:41.5061704+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "T. Collyer",
+      "price": 1250000,
+      "teamId": 143,
+      "teamName": "Manchester United",
+      "dateCreated": "2026-08-31T14:57:40.4912666+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "N. Jackson",
+      "price": 3000000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-08-31T14:57:40.4970232+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "T. Bindon",
+      "price": 1000000,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "dateCreated": "2026-08-31T14:57:40.5036866+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Brau",
+      "price": 500000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-31T14:57:40.51104+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "K. Andrews",
+      "price": 500000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-08-31T14:57:40.5166535+00:00"
     }
   ],
   "standings": [
