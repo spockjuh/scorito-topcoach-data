@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-01T01:57:54.688822+00:00",
-  "playerCount": 522,
+  "fetchedAt": "2026-09-01T11:11:50.886407+00:00",
+  "playerCount": 529,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -1585,13 +1585,13 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 314491,
+      "teamPlayerId": 1220095,
       "playerId": 32708,
       "name": "Mees Hilgers",
       "nationality": "Nederland",
       "position": 2,
-      "teamId": 10,
-      "teamName": "FC Twente",
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
       "price": 1500000
     },
     {
@@ -2265,14 +2265,14 @@
       "price": 4500000
     },
     {
-      "teamPlayerId": 879699,
+      "teamPlayerId": 1220136,
       "playerId": 52256,
       "name": "Matej Sin",
       "nationality": "Tsjechië",
       "position": 4,
-      "teamId": 13,
-      "teamName": "AZ",
-      "price": 1750000
+      "teamId": 16,
+      "teamName": "ADO Den Haag",
+      "price": 1000000
     },
     {
       "teamPlayerId": 853265,
@@ -3785,14 +3785,14 @@
       "price": 1000000
     },
     {
-      "teamPlayerId": 938913,
+      "teamPlayerId": 1219914,
       "playerId": 44558,
       "name": "Nökkvi Thórisson",
       "nationality": "IJsland",
       "position": 8,
-      "teamId": 351,
-      "teamName": "Sparta Rotterdam",
-      "price": 1500000
+      "teamId": 816,
+      "teamName": "Telstar",
+      "price": 1000000
     },
     {
       "teamPlayerId": 878404,
@@ -5223,6 +5223,76 @@
       "teamId": 21,
       "teamName": "Go Ahead Eagles",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1219106,
+      "playerId": 973,
+      "name": "Sofyan Amrabat",
+      "nationality": "Marokko",
+      "position": 4,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1220236,
+      "playerId": 717,
+      "name": "Wesley Hoedt",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 13,
+      "teamName": "AZ",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220233,
+      "playerId": 44800,
+      "name": "Valdemar Byskov",
+      "nationality": "Denemarken",
+      "position": 4,
+      "teamId": 13,
+      "teamName": "AZ",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1218945,
+      "playerId": 13988,
+      "name": "Dennis Geiger",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220242,
+      "playerId": 48376,
+      "name": "Jordy Bawuah",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220093,
+      "playerId": 50384,
+      "name": "Cedric Hatenboer",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220235,
+      "playerId": 52984,
+      "name": "Thijs Muller",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 500000
     }
   ]
 }

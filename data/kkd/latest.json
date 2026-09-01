@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-01T01:58:13.676110+00:00",
+  "fetchedAt": "2026-09-01T11:12:08.694273+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 551,
+  "playerCount": 555,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5019,6 +5019,78 @@
       "teamId": 190,
       "teamName": "FC Volendam",
       "dateCreated": "2026-08-31T14:12:40.3720106+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Bawuah",
+      "price": 750000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-09-01T07:12:40.2063913+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "T. Muller",
+      "price": 2000000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-09-01T07:12:40.2120819+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "R. Omorowa",
+      "price": 1000000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-09-01T07:26:03.4555367+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Triep",
+      "price": 1500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-09-01T07:33:04.8855677+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Bazdaric",
+      "price": 500000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-09-01T07:34:04.5998276+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "I. M'Hand",
+      "price": 500000,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "dateCreated": "2026-09-01T07:37:22.5786538+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "R. Paula",
+      "price": 3000000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-09-01T08:07:08.0412174+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "Y. Leliendal",
+      "price": 3000000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-09-01T08:07:08.0472287+00:00"
     }
   ],
   "standings": [

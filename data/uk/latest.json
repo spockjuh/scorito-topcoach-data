@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-01T01:58:31.067764+00:00",
+  "fetchedAt": "2026-09-01T11:12:25.540489+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -33,7 +33,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-08-24T08:00:00",
             "Name": "2",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-09-01T09:00:00"
           },
           {
             "Id": 7525,
@@ -438,7 +438,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-08-24T08:00:00",
         "Name": "2",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-09-01T09:00:00"
       },
       {
         "Id": 7525,
@@ -858,7 +858,7 @@
       485
     ]
   },
-  "playerCount": 621,
+  "playerCount": 627,
   "playerPoints": [
     {
       "marketId": 314,
@@ -4872,6 +4872,141 @@
       "teamId": 1060,
       "teamName": "Coventry City",
       "dateCreated": "2026-08-31T14:57:40.5166535+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Fofana",
+      "price": 1500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-09-01T08:23:43.989867+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "S. Bajcetic",
+      "price": 1500000,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "dateCreated": "2026-09-01T08:23:43.9956292+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "Souza",
+      "price": 1750000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-09-01T08:23:44.0026898+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Aznou",
+      "price": 1000000,
+      "teamId": 497,
+      "teamName": "Everton",
+      "dateCreated": "2026-09-01T08:23:44.0087768+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "L. Semedo",
+      "price": 750000,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "dateCreated": "2026-09-01T08:23:44.0144333+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "O. Hutchinson",
+      "price": 1500000,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "dateCreated": "2026-09-01T08:23:44.0212938+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Jackson",
+      "price": 3000000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-09-01T08:28:04.455749+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Cisse",
+      "price": 1500000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-09-01T08:28:46.1125679+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "E. Martínez",
+      "price": 2500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-09-01T08:30:40.141991+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Diouf",
+      "price": 1750000,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "dateCreated": "2026-09-01T08:33:11.6268416+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Mfuni",
+      "price": 500000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-09-01T08:37:28.6248806+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "M. Zetterer",
+      "price": 1000000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-09-01T08:38:12.0726231+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Elias",
+      "price": 3000000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-09-01T08:39:41.2769185+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "B. Barcola",
+      "price": 3000000,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "dateCreated": "2026-09-01T08:40:37.1211558+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. Muñoz",
+      "price": 2500000,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "dateCreated": "2026-09-01T08:47:28.756374+00:00"
     }
   ],
   "standings": [

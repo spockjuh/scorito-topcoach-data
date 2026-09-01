@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-09-01T01:58:13.676110+00:00",
-  "playerCount": 551,
+  "fetchedAt": "2026-09-01T11:12:08.694273+00:00",
+  "playerCount": 555,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5513,6 +5513,46 @@
       "teamId": 9,
       "teamName": "Roda JC",
       "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220100,
+      "playerId": 47597,
+      "name": "Richie Omorowa",
+      "nationality": "Zweden",
+      "position": 8,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220234,
+      "playerId": 50094,
+      "name": "Jorn Triep",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1219132,
+      "playerId": 61887,
+      "name": "Antonio Bazdaric",
+      "nationality": "Kroatië",
+      "position": 4,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1219246,
+      "playerId": 61907,
+      "name": "Ismail Oulad M'Hand",
+      "nationality": "Marokko",
+      "position": 4,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 500000
     }
   ]
 }

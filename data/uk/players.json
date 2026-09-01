@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-09-01T01:58:31.067764+00:00",
-  "playerCount": 621,
+  "fetchedAt": "2026-09-01T11:12:25.540489+00:00",
+  "playerCount": 627,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -615,13 +615,13 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 1196596,
+      "teamPlayerId": 1220122,
       "playerId": 37248,
       "name": "Nicolas Jackson",
       "nationality": "Senegal",
       "position": 8,
-      "teamId": 211,
-      "teamName": "Chelsea",
+      "teamId": 502,
+      "teamName": "Aston Villa",
       "price": 3000000
     },
     {
@@ -2505,14 +2505,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 712181,
+      "teamPlayerId": 1220114,
       "playerId": 30431,
       "name": "Daniel Muñoz",
       "nationality": "Colombia",
       "position": 2,
-      "teamId": 498,
-      "teamName": "Crystal Palace",
-      "price": 3000000
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "price": 2500000
     },
     {
       "teamPlayerId": 814000,
@@ -3005,13 +3005,13 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 348499,
+      "teamPlayerId": 1219198,
       "playerId": 4135,
       "name": "Emiliano Martínez",
       "nationality": "Argentinië",
       "position": 1,
-      "teamId": 502,
-      "teamName": "Aston Villa",
+      "teamId": 211,
+      "teamName": "Chelsea",
       "price": 2500000
     },
     {
@@ -6213,6 +6213,66 @@
       "teamId": 971,
       "teamName": "Ipswich Town",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1219932,
+      "playerId": 61914,
+      "name": "Modou Keba Cisse",
+      "nationality": "Oostenrijk",
+      "position": 2,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1219199,
+      "playerId": 50366,
+      "name": "Malick Diouf",
+      "nationality": "Senegal",
+      "position": 2,
+      "teamId": 882,
+      "teamName": "Brentford",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220118,
+      "playerId": 57993,
+      "name": "Stephen Mfuni",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1220106,
+      "playerId": 12677,
+      "name": "Michael Zetterer",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220113,
+      "playerId": 54525,
+      "name": "Allan Elias",
+      "nationality": "Brazilië",
+      "position": 4,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "price": 3000000
+    },
+    {
+      "teamPlayerId": 1220112,
+      "playerId": 37161,
+      "name": "Bradley Barcola",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "price": 3000000
     }
   ]
 }
