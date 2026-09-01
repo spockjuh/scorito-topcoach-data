@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-09-01T11:12:59.104117+00:00",
-  "playerCount": 563,
+  "fetchedAt": "2026-09-01T15:31:55.592756+00:00",
+  "playerCount": 564,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -5633,6 +5633,16 @@
       "teamId": 392,
       "teamName": "FC Augsburg",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220372,
+      "playerId": 28053,
+      "name": "Fábio Vieira",
+      "nationality": "Portugal",
+      "position": 4,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "price": 2000000
     }
   ]
 }

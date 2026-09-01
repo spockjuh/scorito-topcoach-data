@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-09-01T11:12:59.104117+00:00",
+  "fetchedAt": "2026-09-01T15:31:55.592756+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 563,
+  "playerCount": 564,
   "playerPoints": [
     {
       "marketId": 328,
@@ -3706,6 +3706,87 @@
       "teamId": 573,
       "teamName": "Hamburger SV",
       "dateCreated": "2026-08-31T14:27:42.3369731+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "F. Vieira",
+      "price": 2000000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-09-01T14:29:34.2417192+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "D. Leonard",
+      "price": 500000,
+      "teamId": 266,
+      "teamName": "FC Schalke 04",
+      "dateCreated": "2026-09-01T14:42:40.9258382+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "C. Harder",
+      "price": 3000000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-09-01T14:42:40.9304264+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "I. Ansah",
+      "price": 1500000,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "dateCreated": "2026-09-01T14:42:40.9365997+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "F. Gerezgiher",
+      "price": 500000,
+      "teamId": 1062,
+      "teamName": "SV Elversberg",
+      "dateCreated": "2026-09-01T14:42:40.9443882+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "C. Gomis",
+      "price": 1000000,
+      "teamId": 266,
+      "teamName": "FC Schalke 04",
+      "dateCreated": "2026-09-01T14:57:41.3387651+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "R. Philippe",
+      "price": 750000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-09-01T14:57:41.345098+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "L. Jovanovic",
+      "price": 1500000,
+      "teamId": 663,
+      "teamName": "VfB Stuttgart",
+      "dateCreated": "2026-09-01T14:57:41.3500556+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "K. Okpala",
+      "price": 750000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-09-01T14:57:41.3567963+00:00"
     }
   ],
   "standings": [

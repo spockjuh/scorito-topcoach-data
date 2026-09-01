@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-09-01T11:12:42.500334+00:00",
+  "fetchedAt": "2026-09-01T15:31:39.089472+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 544,
+  "playerCount": 549,
   "playerPoints": [
     {
       "marketId": 315,
@@ -4615,6 +4615,69 @@
       "teamId": 572,
       "teamName": "Zulte Waregem",
       "dateCreated": "2026-08-31T14:42:41.4949279+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Balikwisha",
+      "price": 1500000,
+      "teamId": 233,
+      "teamName": "AA Gent",
+      "dateCreated": "2026-09-01T14:14:22.4710001+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "B. Tahirovic",
+      "price": 1750000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-01T14:19:06.2351363+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. De Roeve",
+      "price": 2500000,
+      "teamId": 625,
+      "teamName": "Union",
+      "dateCreated": "2026-09-01T14:22:55.5172735+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Vasovic",
+      "price": 2500000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-09-01T14:23:36.3241653+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Philips",
+      "price": 500000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-09-01T14:24:08.0138467+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "Z. Ouahdi",
+      "price": 4500000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-01T14:42:40.9027337+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. N'Diaye",
+      "price": 2000000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-09-01T14:57:41.3329019+00:00"
     }
   ],
   "standings": [

@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-01T11:11:50.886407+00:00",
+  "fetchedAt": "2026-09-01T15:30:47.351291+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -5119,6 +5119,24 @@
       "teamId": 10,
       "teamName": "FC Twente",
       "dateCreated": "2026-09-01T08:07:08.0334842+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "T. Ouwejan",
+      "price": 1500000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-09-01T13:42:41.4603292+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "M. Brouwer",
+      "price": 2000000,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "dateCreated": "2026-09-01T13:57:39.5058416+00:00"
     }
   ],
   "standings": [

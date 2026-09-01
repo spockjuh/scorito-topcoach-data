@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-01T11:12:08.694273+00:00",
+  "fetchedAt": "2026-09-01T15:31:05.478867+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -5091,6 +5091,24 @@
       "teamId": 190,
       "teamName": "FC Volendam",
       "dateCreated": "2026-09-01T08:07:08.0472287+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "P. Reverson",
+      "price": 750000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-09-01T13:42:41.4475552+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Versluis",
+      "price": 1750000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-09-01T13:57:39.525579+00:00"
     }
   ],
   "standings": [
