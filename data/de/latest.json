@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-09-01T19:15:08.500142+00:00",
+  "fetchedAt": "2026-09-01T21:56:13.387411+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -778,7 +778,7 @@
       489
     ]
   },
-  "playerCount": 564,
+  "playerCount": 577,
   "playerPoints": [
     {
       "marketId": 328,
@@ -3787,6 +3787,150 @@
       "teamId": 836,
       "teamName": "SC Paderborn",
       "dateCreated": "2026-09-01T14:57:41.3567963+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Thomas",
+      "price": 1500000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-09-01T19:41:14.306506+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "B. Sosa",
+      "price": 1000000,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "dateCreated": "2026-09-01T20:46:04.558527+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Moore",
+      "price": 1250000,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "dateCreated": "2026-09-01T20:47:36.1108281+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "K. Imeri",
+      "price": 1000000,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "dateCreated": "2026-09-01T20:49:45.7271441+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Diaby",
+      "price": 2000000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-09-01T20:54:01.717317+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "E. Nwaneri",
+      "price": 2500000,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "dateCreated": "2026-09-01T20:54:55.2819023+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Nguefack",
+      "price": 750000,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "dateCreated": "2026-09-01T20:56:36.2519172+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Brassier",
+      "price": 1500000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-09-01T21:00:45.3285234+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "N. Nkounkou",
+      "price": 2000000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-09-01T21:03:15.6489594+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Bah",
+      "price": 750000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-09-01T21:03:16.8855569+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Z. Ouahdi",
+      "price": 1500000,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "dateCreated": "2026-09-01T21:03:40.5499293+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "M. Guiu",
+      "price": 2500000,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "dateCreated": "2026-09-01T21:05:30.4252335+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "R. Philippe",
+      "price": 750000,
+      "teamId": 836,
+      "teamName": "SC Paderborn",
+      "dateCreated": "2026-09-01T21:06:45.259361+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Y. Regeer",
+      "price": 750000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-09-01T21:07:39.5193128+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. N'Diaye",
+      "price": 1000000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-09-01T21:08:17.2480045+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Maluze",
+      "price": 1250000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-09-01T21:08:35.0133329+00:00"
     }
   ],
   "standings": [

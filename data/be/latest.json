@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-09-01T19:14:49.481593+00:00",
+  "fetchedAt": "2026-09-01T21:55:55.386495+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 549,
+  "playerCount": 555,
   "playerPoints": [
     {
       "marketId": 315,
@@ -4678,6 +4678,159 @@
       "teamId": 160,
       "teamName": "Anderlecht",
       "dateCreated": "2026-09-01T14:57:41.3329019+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "M. Delanghe",
+      "price": 1500000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-09-01T19:41:14.3012931+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "L. Brughmans",
+      "price": 2500000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-01T20:12:41.1262184+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "G. Nilsson",
+      "price": 2500000,
+      "teamId": 252,
+      "teamName": "Club Brugge",
+      "dateCreated": "2026-09-01T20:25:13.6126254+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "G. David",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-09-01T20:25:13.6284884+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Valencia",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-09-01T20:25:13.6335557+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "C. Ravych",
+      "price": 1500000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-09-01T20:25:13.6491816+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "T. Henry",
+      "price": 1750000,
+      "teamId": 360,
+      "teamName": "Standard",
+      "dateCreated": "2026-09-01T20:25:13.6559235+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "T. Nkada",
+      "price": 1750000,
+      "teamId": 360,
+      "teamName": "Standard",
+      "dateCreated": "2026-09-01T20:25:13.6729856+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Steuckers",
+      "price": 2500000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-01T20:25:13.6803179+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "K. Seven",
+      "price": 750000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-09-01T20:25:13.6858122+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "O. Reabciuk",
+      "price": 2000000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-09-01T20:28:28.2598784+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Rowe",
+      "price": 1500000,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "dateCreated": "2026-09-01T20:31:27.6600453+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "C. Ravych",
+      "price": 1750000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-01T20:32:54.3969389+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Verschueren",
+      "price": 1000000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-09-01T20:33:39.7114106+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Zeqiri",
+      "price": 1750000,
+      "teamId": 360,
+      "teamName": "Standard",
+      "dateCreated": "2026-09-01T20:35:29.7471579+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "K. Takai",
+      "price": 1500000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-09-01T20:40:40.4720912+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "B. Balogh",
+      "price": 1000000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-09-01T20:42:03.0532496+00:00"
     }
   ],
   "standings": [

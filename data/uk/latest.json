@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-01T19:14:30.319274+00:00",
+  "fetchedAt": "2026-09-01T21:55:37.396725+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -5034,6 +5034,204 @@
       "teamId": 406,
       "teamName": "Tottenham Hotspur",
       "dateCreated": "2026-09-01T14:42:40.9194556+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "G. Jesus",
+      "price": 2500000,
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "dateCreated": "2026-09-01T19:27:41.1336405+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "R. Sánchez",
+      "price": 2500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-09-01T20:12:41.1394068+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "D. Essugo",
+      "price": 1500000,
+      "teamId": 211,
+      "teamName": "Chelsea",
+      "dateCreated": "2026-09-01T20:12:41.1472743+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "H. Elliott",
+      "price": 2000000,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "dateCreated": "2026-09-01T20:12:41.1620197+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Bah",
+      "price": 1500000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-09-01T20:12:41.1713043+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "E. Nwaneri",
+      "price": 2500000,
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "dateCreated": "2026-09-01T20:12:41.1852916+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "K. Danso",
+      "price": 1750000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-09-01T20:12:41.2221091+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "K. Takai",
+      "price": 1250000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-09-01T20:12:41.2379486+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "P. Sarr",
+      "price": 1750000,
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
+      "dateCreated": "2026-09-01T20:12:41.2461195+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "N. Patterson",
+      "price": 1000000,
+      "teamId": 497,
+      "teamName": "Everton",
+      "dateCreated": "2026-09-01T20:12:41.250196+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "Beto",
+      "price": 2000000,
+      "teamId": 497,
+      "teamName": "Everton",
+      "dateCreated": "2026-09-01T20:12:41.2585045+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "B. Sosa",
+      "price": 1250000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-09-01T20:12:41.2641058+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "N. Woltemade",
+      "price": 2500000,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "dateCreated": "2026-09-01T20:12:41.2708228+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "C. Drameh",
+      "price": 750000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-09-01T20:12:41.2794667+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "L. Millar",
+      "price": 750000,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "dateCreated": "2026-09-01T20:12:41.2854217+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "E. Cashin",
+      "price": 750000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-09-01T20:12:41.296103+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "I. Julio",
+      "price": 1250000,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "dateCreated": "2026-09-01T20:12:41.296103+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "W. Gnonto",
+      "price": 750000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-09-01T20:12:41.3075973+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "L. Ramazani",
+      "price": 750000,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "dateCreated": "2026-09-01T20:12:41.3155572+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "Morato",
+      "price": 1250000,
+      "teamId": 933,
+      "teamName": "Nottingham Forest",
+      "dateCreated": "2026-09-01T20:12:41.3222297+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Humphreys",
+      "price": 500000,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "dateCreated": "2026-09-01T20:12:41.3309443+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "L. Kitching",
+      "price": 750000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-09-01T20:12:41.3372736+00:00"
     }
   ],
   "standings": [

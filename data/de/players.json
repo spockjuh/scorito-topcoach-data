@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-09-01T19:15:08.500142+00:00",
-  "playerCount": 564,
+  "fetchedAt": "2026-09-01T21:56:13.387411+00:00",
+  "playerCount": 577,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -4025,13 +4025,13 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 870363,
+      "teamPlayerId": 1220430,
       "playerId": 35023,
       "name": "Rayan Philippe",
       "nationality": "Frankrijk",
       "position": 8,
-      "teamId": 573,
-      "teamName": "Hamburger SV",
+      "teamId": 836,
+      "teamName": "SC Paderborn",
       "price": 750000
     },
     {
@@ -5643,6 +5643,136 @@
       "teamId": 573,
       "teamName": "Hamburger SV",
       "price": 2000000
+    },
+    {
+      "teamPlayerId": 1220470,
+      "playerId": 9895,
+      "name": "Borna Sosa",
+      "nationality": "Kroatië",
+      "position": 2,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220415,
+      "playerId": 50892,
+      "name": "Mikey Moore",
+      "nationality": "Engeland",
+      "position": 8,
+      "teamId": 559,
+      "teamName": "1. FC Köln",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220422,
+      "playerId": 31108,
+      "name": "Kastriot Imeri",
+      "nationality": "Zwitserland",
+      "position": 4,
+      "teamId": 837,
+      "teamName": "1. FC Union Berlin",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220429,
+      "playerId": 20090,
+      "name": "Moussa Diaby",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1220478,
+      "playerId": 43615,
+      "name": "Ethan Nwaneri",
+      "nationality": "Engeland",
+      "position": 4,
+      "teamId": 86,
+      "teamName": "Borussia Dortmund",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1218961,
+      "playerId": 61876,
+      "name": "Mathieu Nguefack",
+      "nationality": "Duitsland",
+      "position": 4,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220264,
+      "playerId": 31514,
+      "name": "Lilian Brassier",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220485,
+      "playerId": 49239,
+      "name": "Abdulai Juma Bah",
+      "nationality": "Sierra Leone",
+      "position": 2,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220420,
+      "playerId": 46963,
+      "name": "Zakaria El Ouahdi",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220418,
+      "playerId": 45569,
+      "name": "Marc Guiu",
+      "nationality": "Spanje",
+      "position": 8,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1220230,
+      "playerId": 29770,
+      "name": "Youri Regeer",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220431,
+      "playerId": 42462,
+      "name": "Moussa N'Diaye",
+      "nationality": "Senegal",
+      "position": 2,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220510,
+      "playerId": 61877,
+      "name": "Jeremiaha Maluze",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "price": 1250000
     }
   ]
 }

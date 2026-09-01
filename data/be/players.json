@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-09-01T19:14:49.481593+00:00",
-  "playerCount": 549,
+  "fetchedAt": "2026-09-01T21:55:55.386495+00:00",
+  "playerCount": 555,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -3815,14 +3815,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 592717,
+      "teamPlayerId": 1220505,
       "playerId": 38040,
       "name": "Christiaan Ravych",
       "nationality": "België",
       "position": 2,
-      "teamId": 683,
-      "teamName": "Cercle Brugge",
-      "price": 1500000
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "price": 1750000
     },
     {
       "teamPlayerId": 809207,
@@ -5493,6 +5493,66 @@
       "teamId": 563,
       "teamName": "Kortrijk",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1220496,
+      "playerId": 24123,
+      "name": "Oleg Reabciuk",
+      "nationality": "Moldavië",
+      "position": 2,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1220494,
+      "playerId": 53432,
+      "name": "Triston Rowe",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220460,
+      "playerId": 13333,
+      "name": "Arno Verschueren",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220498,
+      "playerId": 34098,
+      "name": "Andi Zeqiri",
+      "nationality": "Zwitserland",
+      "position": 8,
+      "teamId": 360,
+      "teamName": "Standard",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220493,
+      "playerId": 56628,
+      "name": "Kota Takai",
+      "nationality": "Japan",
+      "position": 2,
+      "teamId": 570,
+      "teamName": "STVV",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220503,
+      "playerId": 37273,
+      "name": "Botond Balogh",
+      "nationality": "Hongarije",
+      "position": 2,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1000000
     }
   ]
 }

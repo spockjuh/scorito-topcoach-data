@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-01T19:13:49.722222+00:00",
-  "playerCount": 529,
+  "fetchedAt": "2026-09-01T21:55:00.397197+00:00",
+  "playerCount": 535,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -1795,14 +1795,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 822534,
+      "teamPlayerId": 1220313,
       "playerId": 621,
       "name": "Michael Brouwer",
       "nationality": "Nederland",
       "position": 1,
-      "teamId": 11,
-      "teamName": "FC Utrecht",
-      "price": 2000000
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "price": 1250000
     },
     {
       "teamPlayerId": 901188,
@@ -5293,6 +5293,66 @@
       "teamId": 19,
       "teamName": "Willem II",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1220465,
+      "playerId": 29991,
+      "name": "Florian Kastenmeier",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1220463,
+      "playerId": 47672,
+      "name": "Jakov Medic",
+      "nationality": "Kroatië",
+      "position": 2,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220464,
+      "playerId": 26313,
+      "name": "Maxime Delanghe",
+      "nationality": "België",
+      "position": 1,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220423,
+      "playerId": 20248,
+      "name": "Luca Plogmann",
+      "nationality": "Duitsland",
+      "position": 1,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220392,
+      "playerId": 59504,
+      "name": "Marko Farji",
+      "nationality": "Irak",
+      "position": 8,
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220466,
+      "playerId": 50655,
+      "name": "Ayodele Thomas",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "price": 1500000
     }
   ]
 }

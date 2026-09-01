@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-01T19:14:10.153983+00:00",
+  "fetchedAt": "2026-09-01T21:55:19.364060+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -5109,6 +5109,15 @@
       "teamId": 5,
       "teamName": "NAC Breda",
       "dateCreated": "2026-09-01T13:57:39.525579+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Zandbergen",
+      "price": 3000000,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "dateCreated": "2026-09-01T19:41:14.2936433+00:00"
     }
   ],
   "standings": [
