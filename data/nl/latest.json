@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-02T10:44:59.733732+00:00",
+  "fetchedAt": "2026-09-02T14:58:36.622855+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 538,
+  "playerCount": 539,
   "playerPoints": [
     {
       "marketId": 312,
@@ -5317,6 +5317,24 @@
       "teamId": 4,
       "teamName": "sc Heerenveen",
       "dateCreated": "2026-09-02T10:12:39.8216746+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Kehrer",
+      "price": 3000000,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "dateCreated": "2026-09-02T11:24:52.4159293+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "S. Henderikx",
+      "price": 500000,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "dateCreated": "2026-09-02T13:27:44.4487197+00:00"
     }
   ],
   "standings": [

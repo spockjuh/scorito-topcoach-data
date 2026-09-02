@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-02T10:44:59.733732+00:00",
-  "playerCount": 538,
+  "fetchedAt": "2026-09-02T14:58:36.622855+00:00",
+  "playerCount": 539,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5383,6 +5383,16 @@
       "teamId": 20,
       "teamName": "PEC Zwolle",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220580,
+      "playerId": 6943,
+      "name": "Thilo Kehrer",
+      "nationality": "Duitsland",
+      "position": 2,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "price": 3000000
     }
   ]
 }

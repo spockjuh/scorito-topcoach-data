@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-09-02T10:46:07.584189+00:00",
+  "fetchedAt": "2026-09-02T14:59:53.818722+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -3967,6 +3967,15 @@
       "teamId": 567,
       "teamName": "1. FSV Mainz 05",
       "dateCreated": "2026-09-02T10:12:39.8130673+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "J. Belocian",
+      "price": 2000000,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "dateCreated": "2026-09-02T14:27:41.082856+00:00"
     }
   ],
   "standings": [

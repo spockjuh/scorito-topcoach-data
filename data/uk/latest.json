@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-02T10:45:34.334656+00:00",
+  "fetchedAt": "2026-09-02T14:59:15.999319+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -5592,6 +5592,24 @@
       "teamId": 406,
       "teamName": "Tottenham Hotspur",
       "dateCreated": "2026-09-02T09:32:01.8212801+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Devenny",
+      "price": 1500000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-09-02T11:57:40.6567883+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "N. Clyne",
+      "price": 1250000,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "dateCreated": "2026-09-02T12:12:41.7510147+00:00"
     }
   ],
   "standings": [
