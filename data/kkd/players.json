@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-09-02T14:58:56.795414+00:00",
-  "playerCount": 559,
+  "fetchedAt": "2026-09-02T18:33:27.201824+00:00",
+  "playerCount": 561,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5593,6 +5593,26 @@
       "teamId": 5,
       "teamName": "NAC Breda",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1220742,
+      "playerId": 36390,
+      "name": "Stan Henderikx",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220581,
+      "playerId": 53480,
+      "name": "Gerónimo Spina",
+      "nationality": "Argentinië",
+      "position": 2,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "price": 500000
     }
   ]
 }

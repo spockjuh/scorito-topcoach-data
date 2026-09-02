@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-02T14:58:56.795414+00:00",
+  "fetchedAt": "2026-09-02T18:33:27.201824+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 559,
+  "playerCount": 561,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5163,6 +5163,42 @@
       "teamId": 18,
       "teamName": "De Graafschap",
       "dateCreated": "2026-09-02T09:04:24.8368174+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Henderikx",
+      "price": 1500000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-09-02T15:08:43.2568754+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "G. Spina",
+      "price": 500000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-09-02T15:09:29.2129081+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "D. Lajud",
+      "price": 1750000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-09-02T18:33:34.5785576+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "E. Bassey",
+      "price": 1250000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-09-02T18:33:34.5863925+00:00"
     }
   ],
   "standings": [
