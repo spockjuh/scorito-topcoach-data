@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-01T23:49:13.389620+00:00",
+  "fetchedAt": "2026-09-02T10:45:17.643965+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 555,
+  "playerCount": 559,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5118,6 +5118,51 @@
       "teamId": 15,
       "teamName": "VVV-Venlo",
       "dateCreated": "2026-09-01T19:41:14.2936433+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Kok",
+      "price": 1750000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-09-02T08:34:22.639241+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Bouchouari",
+      "price": 2500000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-09-02T09:03:50.6866763+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "F. Ihler",
+      "price": 3500000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-09-02T09:03:59.2062618+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "G. Misehouy",
+      "price": 3000000,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "dateCreated": "2026-09-02T09:04:19.2541387+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "P. Reverson",
+      "price": 1750000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-09-02T09:04:24.8368174+00:00"
     }
   ],
   "standings": [

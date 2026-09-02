@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-09-01T23:49:13.389620+00:00",
-  "playerCount": 555,
+  "fetchedAt": "2026-09-02T10:45:17.643965+00:00",
+  "playerCount": 559,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -3105,14 +3105,14 @@
       "price": 500000
     },
     {
-      "teamPlayerId": 624331,
+      "teamPlayerId": 1220295,
       "playerId": 45369,
       "name": "Paul Reverson",
       "nationality": "Nederland",
       "position": 1,
-      "teamId": 811,
-      "teamName": "Jong Ajax",
-      "price": 750000
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1750000
     },
     {
       "teamPlayerId": 933073,
@@ -5553,6 +5553,46 @@
       "teamId": 15,
       "teamName": "VVV-Venlo",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 875542,
+      "playerId": 9114,
+      "name": "Thomas Kok",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220577,
+      "playerId": 28222,
+      "name": "Mohamed Bouchouari",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1220273,
+      "playerId": 36085,
+      "name": "Frederik Ihler",
+      "nationality": "Denemarken",
+      "position": 8,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "price": 3500000
+    },
+    {
+      "teamPlayerId": 1220259,
+      "playerId": 37997,
+      "name": "Gabriel Misehouy",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 5,
+      "teamName": "NAC Breda",
+      "price": 3000000
     }
   ]
 }

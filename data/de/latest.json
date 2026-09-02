@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-09-01T23:50:03.561460+00:00",
+  "fetchedAt": "2026-09-02T10:46:07.584189+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -3931,6 +3931,42 @@
       "teamId": 565,
       "teamName": "Eintracht Frankfurt",
       "dateCreated": "2026-09-01T21:08:35.0133329+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "H. Larsson",
+      "price": 1750000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-09-02T07:12:40.6969852+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "J. Bahoya",
+      "price": 2000000,
+      "teamId": 565,
+      "teamName": "Eintracht Frankfurt",
+      "dateCreated": "2026-09-02T07:57:39.6785759+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Àndrés",
+      "price": 1750000,
+      "teamId": 663,
+      "teamName": "VfB Stuttgart",
+      "dateCreated": "2026-09-02T07:57:39.6868203+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "A. Hanche-Olsen",
+      "price": 1000000,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "dateCreated": "2026-09-02T10:12:39.8130673+00:00"
     }
   ],
   "standings": [

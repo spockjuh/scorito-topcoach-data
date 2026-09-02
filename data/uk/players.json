@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-09-01T23:49:30.434411+00:00",
-  "playerCount": 627,
+  "fetchedAt": "2026-09-02T10:45:34.334656+00:00",
+  "playerCount": 648,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -355,13 +355,13 @@
       "price": 1750000
     },
     {
-      "teamPlayerId": 789535,
+      "teamPlayerId": 1220537,
       "playerId": 4014,
       "name": "Tosin Adarabioyo",
       "nationality": "Engeland",
       "position": 2,
-      "teamId": 211,
-      "teamName": "Chelsea",
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
       "price": 1750000
     },
     {
@@ -505,14 +505,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 613686,
+      "teamPlayerId": 1220525,
       "playerId": 39070,
       "name": "Enzo Fernández",
       "nationality": "Argentinië",
       "position": 4,
-      "teamId": 211,
-      "teamName": "Chelsea",
-      "price": 3500000
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "price": 3000000
     },
     {
       "teamPlayerId": 664243,
@@ -625,13 +625,13 @@
       "price": 3000000
     },
     {
-      "teamPlayerId": 610290,
+      "teamPlayerId": 1220539,
       "playerId": 24430,
       "name": "Mykhaylo Mudryk",
       "nationality": "Oekraïne",
       "position": 8,
-      "teamId": 211,
-      "teamName": "Chelsea",
+      "teamId": 406,
+      "teamName": "Tottenham Hotspur",
       "price": 1500000
     },
     {
@@ -1195,14 +1195,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 986711,
+      "teamPlayerId": 1220538,
       "playerId": 4339,
       "name": "Jack Grealish",
       "nationality": "Engeland",
       "position": 8,
-      "teamId": 295,
-      "teamName": "Manchester City",
-      "price": 2000000
+      "teamId": 497,
+      "teamName": "Everton",
+      "price": 1750000
     },
     {
       "teamPlayerId": 533116,
@@ -1575,14 +1575,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 856212,
+      "teamPlayerId": 1220474,
       "playerId": 15113,
       "name": "Kevin Danso",
       "nationality": "Oostenrijk",
       "position": 2,
-      "teamId": 406,
-      "teamName": "Tottenham Hotspur",
-      "price": 1750000
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "price": 1250000
     },
     {
       "teamPlayerId": 9778,
@@ -2325,14 +2325,14 @@
       "price": 1250000
     },
     {
-      "teamPlayerId": 818292,
+      "teamPlayerId": 1220547,
       "playerId": 42407,
       "name": "Tim Iroegbunam",
       "nationality": "Engeland",
       "position": 4,
-      "teamId": 497,
-      "teamName": "Everton",
-      "price": 1250000
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
     },
     {
       "teamPlayerId": 1211297,
@@ -2385,14 +2385,14 @@
       "price": 1250000
     },
     {
-      "teamPlayerId": 818471,
+      "teamPlayerId": 1220523,
       "playerId": 34096,
       "name": "Iliman Ndiaye",
       "nationality": "Senegal",
       "position": 8,
-      "teamId": 497,
-      "teamName": "Everton",
-      "price": 1750000
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "price": 2000000
     },
     {
       "teamPlayerId": 864796,
@@ -6273,6 +6273,216 @@
       "teamId": 289,
       "teamName": "Liverpool",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1220383,
+      "playerId": 29200,
+      "name": "Taylor Harwood-Bellis",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220381,
+      "playerId": 53085,
+      "name": "Ibrahim Mbaye",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220555,
+      "playerId": 53369,
+      "name": "Chema Àndrés",
+      "nationality": "Spanje",
+      "position": 4,
+      "teamId": 630,
+      "teamName": "Brighton and Hove Albion",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220556,
+      "playerId": 4119,
+      "name": "Ben Chilwell",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220568,
+      "playerId": 26272,
+      "name": "Quinten Timber",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220564,
+      "playerId": 40586,
+      "name": "Dario Osorio",
+      "nationality": "Chili",
+      "position": 8,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220491,
+      "playerId": 53003,
+      "name": "Honest Ahanor",
+      "nationality": "Italië",
+      "position": 2,
+      "teamId": 498,
+      "teamName": "Crystal Palace",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220559,
+      "playerId": 14812,
+      "name": "Ainsley Maitland-Niles",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 497,
+      "teamName": "Everton",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220558,
+      "playerId": 33442,
+      "name": "David Affengruber",
+      "nationality": "Oostenrijk",
+      "position": 2,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220536,
+      "playerId": 38192,
+      "name": "Hugo Larsson",
+      "nationality": "Zweden",
+      "position": 4,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220535,
+      "playerId": 58697,
+      "name": "Manuel Angel",
+      "nationality": "Spanje",
+      "position": 4,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220554,
+      "playerId": 39051,
+      "name": "Sorba Thomas",
+      "nationality": "Wales",
+      "position": 8,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220557,
+      "playerId": 52928,
+      "name": "Christos Mouzakitis",
+      "nationality": "Griekenland",
+      "position": 4,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220548,
+      "playerId": 53509,
+      "name": "Brooke Norton-Cuffy",
+      "nationality": "Engeland",
+      "position": 2,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220549,
+      "playerId": 53988,
+      "name": "Robinio Vaz",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220421,
+      "playerId": 56422,
+      "name": "Ilyas Ansah",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 553,
+      "teamName": "Hull City",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220532,
+      "playerId": 20805,
+      "name": "Zian Flemming",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 971,
+      "teamName": "Ipswich Town",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220551,
+      "playerId": 29459,
+      "name": "Melvin Bard",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220562,
+      "playerId": 41417,
+      "name": "Jean Bahoya",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 864,
+      "teamName": "Leeds United",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220489,
+      "playerId": 44946,
+      "name": "Matias Fernandez",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 503,
+      "teamName": "Newcastle United",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220560,
+      "playerId": 38475,
+      "name": "Malick Fofana",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "price": 750000
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-01T23:48:55.856633+00:00",
-  "playerCount": 535,
+  "fetchedAt": "2026-09-02T10:44:59.733732+00:00",
+  "playerCount": 538,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -1225,14 +1225,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 794850,
+      "teamPlayerId": 1220462,
       "playerId": 41398,
       "name": "Sami Ouaissa",
       "nationality": "Nederland",
       "position": 4,
-      "teamId": 6,
-      "teamName": "N.E.C.",
-      "price": 3000000
+      "teamId": 7,
+      "teamName": "PSV",
+      "price": 2500000
     },
     {
       "teamPlayerId": 1204917,
@@ -1305,14 +1305,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 923758,
+      "teamPlayerId": 1220576,
       "playerId": 15965,
       "name": "Vito van Crooij",
       "nationality": "Nederland",
-      "position": 8,
-      "teamId": 6,
-      "teamName": "N.E.C.",
-      "price": 1500000
+      "position": 4,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 1250000
     },
     {
       "teamPlayerId": 1210206,
@@ -3735,14 +3735,14 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 870407,
+      "teamPlayerId": 1220571,
       "playerId": 56423,
       "name": "Ayoni Santos",
       "nationality": "Kaapverdië",
       "position": 4,
-      "teamId": 351,
-      "teamName": "Sparta Rotterdam",
-      "price": 1250000
+      "teamId": 7,
+      "teamName": "PSV",
+      "price": 2000000
     },
     {
       "teamPlayerId": 863606,
@@ -5353,6 +5353,36 @@
       "teamId": 6,
       "teamName": "N.E.C.",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220524,
+      "playerId": 8842,
+      "name": "Nordin Amrabat",
+      "nationality": "Marokko",
+      "position": 8,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220569,
+      "playerId": 30923,
+      "name": "Nikolas Panagiotou",
+      "nationality": "Cyprus",
+      "position": 2,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220521,
+      "playerId": 20798,
+      "name": "Sydney van Hooijdonk",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "price": 1250000
     }
   ]
 }

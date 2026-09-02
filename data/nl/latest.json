@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-01T23:48:55.856633+00:00",
+  "fetchedAt": "2026-09-02T10:44:59.733732+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 535,
+  "playerCount": 538,
   "playerPoints": [
     {
       "marketId": 312,
@@ -5236,6 +5236,87 @@
       "teamId": 6,
       "teamName": "N.E.C.",
       "dateCreated": "2026-09-01T19:52:41.9850856+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "V. Van Crooij",
+      "price": 1500000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-09-02T06:42:39.3146126+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Amrabat",
+      "price": 1000000,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "dateCreated": "2026-09-02T08:12:30.673843+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "N. Panagiotou",
+      "price": 1500000,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "dateCreated": "2026-09-02T08:13:00.3585352+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Van Hooijdonk",
+      "price": 1250000,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "dateCreated": "2026-09-02T08:16:45.67076+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "S. Ouaissa",
+      "price": 2500000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-09-02T08:27:40.585293+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "V. Van Crooij",
+      "price": 1250000,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "dateCreated": "2026-09-02T08:32:33.1699636+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "A. Santos",
+      "price": 1250000,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "dateCreated": "2026-09-02T08:42:40.2158291+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Santos",
+      "price": 2000000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-09-02T09:03:39.4557239+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "L. Brouwers",
+      "price": 2000000,
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
+      "dateCreated": "2026-09-02T10:12:39.8216746+00:00"
     }
   ],
   "standings": [
