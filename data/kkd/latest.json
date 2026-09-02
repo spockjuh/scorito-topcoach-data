@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-02T18:33:27.201824+00:00",
+  "fetchedAt": "2026-09-02T21:37:00.066600+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 561,
+  "playerCount": 567,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5199,6 +5199,87 @@
       "teamId": 810,
       "teamName": "Jong PSV",
       "dateCreated": "2026-09-02T18:33:34.5863925+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Visser",
+      "price": 1000000,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "dateCreated": "2026-09-02T19:06:57.9694627+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Golic",
+      "price": 750000,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "dateCreated": "2026-09-02T19:07:03.4517166+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Verstraeten",
+      "price": 1000000,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "dateCreated": "2026-09-02T19:07:13.5087242+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "N. Martens",
+      "price": 1500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-09-02T19:07:20.0452264+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "L. Abildgaard",
+      "price": 750000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-09-02T19:07:25.6418192+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Y. Meftahi",
+      "price": 2000000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-09-02T19:07:29.7865634+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "D. Beukers",
+      "price": 2500000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-09-02T19:27:41.955975+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "J. Kruiver",
+      "price": 2500000,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "dateCreated": "2026-09-02T19:33:45.2114885+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "A. Van Dongen",
+      "price": 1000000,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "dateCreated": "2026-09-02T19:57:40.5778489+00:00"
     }
   ],
   "standings": [

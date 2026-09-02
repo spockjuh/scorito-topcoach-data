@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-09-02T18:33:27.201824+00:00",
-  "playerCount": 561,
+  "fetchedAt": "2026-09-02T21:37:00.066600+00:00",
+  "playerCount": 567,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5613,6 +5613,66 @@
       "teamId": 811,
       "teamName": "Jong Ajax",
       "price": 500000
+    },
+    {
+      "teamPlayerId": 1220922,
+      "playerId": 50062,
+      "name": "Andy Visser",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 809,
+      "teamName": "TOP Oss",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220837,
+      "playerId": 50240,
+      "name": "Lovro Golic",
+      "nationality": "Slovenië",
+      "position": 2,
+      "teamId": 813,
+      "teamName": "Helmond Sport",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220921,
+      "playerId": 53403,
+      "name": "Andreas Verstraeten",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220919,
+      "playerId": 54095,
+      "name": "Nolan Martens",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220917,
+      "playerId": 57615,
+      "name": "Lasse Abildgaard",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220838,
+      "playerId": 58487,
+      "name": "Younes Jaber el Meftahi",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "price": 2000000
     }
   ]
 }

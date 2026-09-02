@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-09-02T18:34:25.220256+00:00",
+  "fetchedAt": "2026-09-02T21:37:51.355291+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -3976,6 +3976,24 @@
       "teamId": 158,
       "teamName": "Bayer Leverkusen",
       "dateCreated": "2026-09-02T14:27:41.082856+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "S. Mbangula",
+      "price": 1250000,
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "dateCreated": "2026-09-02T19:57:40.5910522+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "J. Ceka",
+      "price": 500000,
+      "teamId": 1062,
+      "teamName": "SV Elversberg",
+      "dateCreated": "2026-09-02T20:31:07.8111382+00:00"
     }
   ],
   "standings": [

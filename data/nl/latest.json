@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-02T18:33:07.040492+00:00",
+  "fetchedAt": "2026-09-02T21:36:42.313987+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 539,
+  "playerCount": 545,
   "playerPoints": [
     {
       "marketId": 312,
@@ -5344,6 +5344,141 @@
       "teamId": 351,
       "teamName": "Sparta Rotterdam",
       "dateCreated": "2026-09-02T15:06:59.4465059+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "N. Martens",
+      "price": 750000,
+      "teamId": 17,
+      "teamName": "Excelsior Rotterdam",
+      "dateCreated": "2026-09-02T18:33:34.5380222+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "L. Abildgaard",
+      "price": 500000,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "dateCreated": "2026-09-02T18:33:34.5540621+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "I. Maach",
+      "price": 1500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-09-02T19:00:27.4794543+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "T. Booth",
+      "price": 1500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-09-02T19:00:27.4878514+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "S. Lammers",
+      "price": 2500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-09-02T19:00:27.5033261+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Lammers",
+      "price": 2000000,
+      "teamId": 7,
+      "teamName": "PSV",
+      "dateCreated": "2026-09-02T19:00:57.3861774+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "P. Boevink",
+      "price": 1500000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-09-02T19:01:10.5018321+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "I. Babadi",
+      "price": 1250000,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "dateCreated": "2026-09-02T19:01:17.779882+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Adingra",
+      "price": 2000000,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "dateCreated": "2026-09-02T19:01:21.8932803+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "R. Nelson",
+      "price": 1750000,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "dateCreated": "2026-09-02T19:32:46.2226769+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Rosiak",
+      "price": 1500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-09-02T19:32:50.9015551+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "G. Peixoto",
+      "price": 1500000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-09-02T20:27:41.4166246+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Ceka",
+      "price": 500000,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "dateCreated": "2026-09-02T20:31:18.0315382+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "M. Dekker",
+      "price": 1250000,
+      "teamId": 13,
+      "teamName": "AZ",
+      "dateCreated": "2026-09-02T21:19:06.3973341+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Dekker",
+      "price": 750000,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "dateCreated": "2026-09-02T21:27:08.8858967+00:00"
     }
   ],
   "standings": [

@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-02T18:33:07.040492+00:00",
-  "playerCount": 539,
+  "fetchedAt": "2026-09-02T21:36:42.313987+00:00",
+  "playerCount": 545,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -1725,14 +1725,14 @@
       "price": 1500000
     },
     {
-      "teamPlayerId": 822884,
+      "teamPlayerId": 1220924,
       "playerId": 14826,
       "name": "Sam Lammers",
       "nationality": "Nederland",
       "position": 8,
-      "teamId": 10,
-      "teamName": "FC Twente",
-      "price": 2500000
+      "teamId": 7,
+      "teamName": "PSV",
+      "price": 2000000
     },
     {
       "teamPlayerId": 878146,
@@ -2115,14 +2115,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 557129,
+      "teamPlayerId": 1221008,
       "playerId": 34251,
       "name": "Maxim Dekker",
       "nationality": "Nederland",
       "position": 2,
-      "teamId": 13,
-      "teamName": "AZ",
-      "price": 1250000
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 750000
     },
     {
       "teamPlayerId": 940308,
@@ -5393,6 +5393,66 @@
       "teamId": 1,
       "teamName": "Ajax",
       "price": 3000000
+    },
+    {
+      "teamPlayerId": 1220923,
+      "playerId": 15600,
+      "name": "Pelle Boevink",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220943,
+      "playerId": 34266,
+      "name": "Isaac Babadi",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 351,
+      "teamName": "Sparta Rotterdam",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220925,
+      "playerId": 39027,
+      "name": "Simon Adingra",
+      "nationality": "Ivoorkust",
+      "position": 8,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1220955,
+      "playerId": 18212,
+      "name": "Reiss Nelson",
+      "nationality": "Engeland",
+      "position": 8,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220954,
+      "playerId": 54817,
+      "name": "Michal Rosiak",
+      "nationality": "Polen",
+      "position": 2,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221001,
+      "playerId": 60043,
+      "name": "Jason Ceka",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 500000
     }
   ]
 }

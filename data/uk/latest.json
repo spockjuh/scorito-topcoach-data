@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-02T18:33:46.634065+00:00",
+  "fetchedAt": "2026-09-02T21:37:17.751467+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -5610,6 +5610,15 @@
       "teamId": 498,
       "teamName": "Crystal Palace",
       "dateCreated": "2026-09-02T12:12:41.7510147+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "S. Adingra",
+      "price": 1000000,
+      "teamId": 501,
+      "teamName": "Sunderland",
+      "dateCreated": "2026-09-02T19:00:27.4953267+00:00"
     }
   ],
   "standings": [
