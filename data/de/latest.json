@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-09-03T10:46:56.963355+00:00",
+  "fetchedAt": "2026-09-03T14:54:14.205139+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -3994,6 +3994,24 @@
       "teamId": 1062,
       "teamName": "SV Elversberg",
       "dateCreated": "2026-09-02T20:31:07.8111382+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "N. Mbuku",
+      "price": 500000,
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "dateCreated": "2026-09-03T12:57:41.2378477+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "H. Hong",
+      "price": 1000000,
+      "teamId": 567,
+      "teamName": "1. FSV Mainz 05",
+      "dateCreated": "2026-09-03T14:12:42.4294851+00:00"
     }
   ],
   "standings": [

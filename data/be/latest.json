@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-09-03T10:46:38.408042+00:00",
+  "fetchedAt": "2026-09-03T14:53:55.433696+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4876,6 +4876,33 @@
       "teamId": 1059,
       "teamName": "Lommel SK",
       "dateCreated": "2026-09-03T06:39:27.2692201+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "N. Makanza",
+      "price": 1000000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-09-03T12:57:41.2262539+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "S. Gueulette",
+      "price": 750000,
+      "teamId": 1036,
+      "teamName": "RAAL La Louvière",
+      "dateCreated": "2026-09-03T13:12:39.7555029+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "M. Ashimeru",
+      "price": 1500000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-09-03T14:12:42.4274411+00:00"
     }
   ],
   "standings": [
