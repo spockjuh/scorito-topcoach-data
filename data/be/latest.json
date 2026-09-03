@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-09-02T23:54:02.564075+00:00",
+  "fetchedAt": "2026-09-03T10:46:38.408042+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -4867,6 +4867,15 @@
       "teamId": 628,
       "teamName": "Antwerp",
       "dateCreated": "2026-09-02T18:33:34.5889331+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "F. Krastev",
+      "price": 1000000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-09-03T06:39:27.2692201+00:00"
     }
   ],
   "standings": [

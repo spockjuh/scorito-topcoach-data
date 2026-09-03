@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-02T23:53:03.297820+00:00",
+  "fetchedAt": "2026-09-03T10:45:39.981040+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       471
     ]
   },
-  "playerCount": 545,
+  "playerCount": 550,
   "playerPoints": [
     {
       "marketId": 312,
@@ -5479,6 +5479,60 @@
       "teamId": 19,
       "teamName": "Willem II",
       "dateCreated": "2026-09-02T21:27:08.8858967+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "J. Lotomba",
+      "price": 2500000,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "dateCreated": "2026-09-03T06:39:27.2524554+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "R. Uldrikis",
+      "price": 1000000,
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
+      "dateCreated": "2026-09-03T06:39:54.4779079+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "C. Obi",
+      "price": 1250000,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "dateCreated": "2026-09-03T06:40:15.8764394+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "W. Asselman",
+      "price": 500000,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "dateCreated": "2026-09-03T06:41:22.6085247+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "F. Krastev",
+      "price": 1000000,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "dateCreated": "2026-09-03T06:44:07.5456451+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "A. Martha",
+      "price": 500000,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "dateCreated": "2026-09-03T08:30:47.3138569+00:00"
     }
   ],
   "standings": [

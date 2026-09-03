@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-02T23:53:03.297820+00:00",
-  "playerCount": 545,
+  "fetchedAt": "2026-09-03T10:45:39.981040+00:00",
+  "playerCount": 550,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5452,6 +5452,56 @@
       "position": 8,
       "teamId": 22,
       "teamName": "SC Cambuur",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1221073,
+      "playerId": 15904,
+      "name": "Roberts Uldrikis",
+      "nationality": "Letland",
+      "position": 8,
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221071,
+      "playerId": 54281,
+      "name": "Chidozie Obi",
+      "nationality": "Denemarken",
+      "position": 8,
+      "teamId": 19,
+      "teamName": "Willem II",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221074,
+      "playerId": 58707,
+      "name": "Wout Asselman",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1221072,
+      "playerId": 21035,
+      "name": "Filip Krastev",
+      "nationality": "Bulgarije",
+      "position": 4,
+      "teamId": 20,
+      "teamName": "PEC Zwolle",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221086,
+      "playerId": 32177,
+      "name": "Ar'Jani Martha",
+      "nationality": "Curaçao",
+      "position": 8,
+      "teamId": 816,
+      "teamName": "Telstar",
       "price": 500000
     }
   ]

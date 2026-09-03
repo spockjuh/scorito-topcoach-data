@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-09-02T23:53:24.282568+00:00",
-  "playerCount": 567,
+  "fetchedAt": "2026-09-03T10:46:00.356873+00:00",
+  "playerCount": 574,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -1185,14 +1185,14 @@
       "price": 1000000
     },
     {
-      "teamPlayerId": 872078,
+      "teamPlayerId": 1221091,
       "playerId": 50895,
       "name": "Luuk Verheij",
       "nationality": "Nederland",
       "position": 2,
-      "teamId": 15,
-      "teamName": "VVV-Venlo",
-      "price": 1000000
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "price": 1750000
     },
     {
       "teamPlayerId": 863375,
@@ -5673,6 +5673,76 @@
       "teamId": 190,
       "teamName": "FC Volendam",
       "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221039,
+      "playerId": 61947,
+      "name": "Mattheos Tsigkas",
+      "nationality": "Griekenland",
+      "position": 8,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221017,
+      "playerId": 61945,
+      "name": "Leo Salazar",
+      "nationality": "Spanje",
+      "position": 8,
+      "teamId": 811,
+      "teamName": "Jong Ajax",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1220970,
+      "playerId": 30451,
+      "name": "Luuk Wouters",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 12,
+      "teamName": "Vitesse",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220988,
+      "playerId": 56468,
+      "name": "Guilherme Peixoto",
+      "nationality": "Portugal",
+      "position": 2,
+      "teamId": 9,
+      "teamName": "Roda JC",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221075,
+      "playerId": 61946,
+      "name": "Mika Luijendijk",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1220908,
+      "playerId": 61941,
+      "name": "Vincent Poppler",
+      "nationality": "Zweden",
+      "position": 8,
+      "teamId": 14,
+      "teamName": "Heracles Almelo",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221092,
+      "playerId": 54246,
+      "name": "Mikkel Bro Hansen",
+      "nationality": "Denemarken",
+      "position": 8,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "price": 1500000
     }
   ]
 }
