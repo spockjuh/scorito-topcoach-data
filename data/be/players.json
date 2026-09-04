@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-09-04T01:11:48.921730+00:00",
-  "playerCount": 555,
+  "fetchedAt": "2026-09-04T10:44:27.431415+00:00",
+  "playerCount": 574,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -1535,14 +1535,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 881412,
+      "teamPlayerId": 1221607,
       "playerId": 54350,
       "name": "Robin Mirisola",
       "nationality": "België",
       "position": 8,
-      "teamId": 545,
-      "teamName": "Racing Genk",
-      "price": 2500000
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "price": 1750000
     },
     {
       "teamPlayerId": 608001,
@@ -3085,14 +3085,14 @@
       "price": 2000000
     },
     {
-      "teamPlayerId": 890001,
+      "teamPlayerId": 1221616,
       "playerId": 45001,
       "name": "Ousseynou Niang",
       "nationality": "Senegal",
       "position": 4,
-      "teamId": 625,
-      "teamName": "Union",
-      "price": 2500000
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "price": 1250000
     },
     {
       "teamPlayerId": 959528,
@@ -3475,14 +3475,14 @@
       "price": 1000000
     },
     {
-      "teamPlayerId": 670209,
+      "teamPlayerId": 1221612,
       "playerId": 29630,
       "name": "Tobe Leysen",
       "nationality": "België",
       "position": 1,
-      "teamId": 680,
-      "teamName": "OH Leuven",
-      "price": 1250000
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "price": 2000000
     },
     {
       "teamPlayerId": 1174389,
@@ -4235,7 +4235,7 @@
       "price": 750000
     },
     {
-      "teamPlayerId": 929570,
+      "teamPlayerId": 1221228,
       "playerId": 59841,
       "name": "Sam de Grand",
       "nationality": "Nederland",
@@ -5553,6 +5553,196 @@
       "teamId": 560,
       "teamName": "Westerlo",
       "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221112,
+      "playerId": 34480,
+      "name": "Andrew Omobamidele",
+      "nationality": "Ierland",
+      "position": 2,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221133,
+      "playerId": 38191,
+      "name": "Romeo Amane",
+      "nationality": "Ivoorkust",
+      "position": 4,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1221111,
+      "playerId": 54603,
+      "name": "Thelo Aasgaard",
+      "nationality": "Noorwegen",
+      "position": 4,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221614,
+      "playerId": 40019,
+      "name": "Arthur Vermeeren",
+      "nationality": "België",
+      "position": 4,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1220594,
+      "playerId": 53756,
+      "name": "Álvaro Cortés",
+      "nationality": "Spanje",
+      "position": 2,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221606,
+      "playerId": 57582,
+      "name": "Bahmed Deuff",
+      "nationality": "Frankrijk",
+      "position": 4,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221107,
+      "playerId": 37024,
+      "name": "Yann Lienard",
+      "nationality": "Frankrijk",
+      "position": 1,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221603,
+      "playerId": 45386,
+      "name": "Tunde Akinsola",
+      "nationality": "Nigeria",
+      "position": 8,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1221132,
+      "playerId": 56849,
+      "name": "Jamie Roche",
+      "nationality": "Zweden",
+      "position": 4,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1220932,
+      "playerId": 61943,
+      "name": "Rok Storman",
+      "nationality": "Slovenië",
+      "position": 4,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221105,
+      "playerId": 61312,
+      "name": "Basile Vroninks",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1221610,
+      "playerId": 56699,
+      "name": "Elijah Olaniyi Odede",
+      "nationality": "Nigeria",
+      "position": 8,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1221611,
+      "playerId": 37416,
+      "name": "Kiany Vroman",
+      "nationality": "België",
+      "position": 1,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221604,
+      "playerId": 41544,
+      "name": "Alessandro Fontanarosa",
+      "nationality": "Italië",
+      "position": 2,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221108,
+      "playerId": 56499,
+      "name": "Milan Roganovic",
+      "nationality": "Montenegro",
+      "position": 2,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221109,
+      "playerId": 32295,
+      "name": "Nathanaël Mbuku",
+      "nationality": "Congo DR",
+      "position": 8,
+      "teamId": 570,
+      "teamName": "STVV",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221106,
+      "playerId": 57839,
+      "name": "Jeremy Kandje Mbambi",
+      "nationality": "België",
+      "position": 2,
+      "teamId": 570,
+      "teamName": "STVV",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221134,
+      "playerId": 61957,
+      "name": "Dylan Aquino",
+      "nationality": "Uruguay",
+      "position": 4,
+      "teamId": 625,
+      "teamName": "Union",
+      "price": 2500000
+    },
+    {
+      "teamPlayerId": 1221615,
+      "playerId": 2667,
+      "name": "Nikola Storm",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "price": 1500000
     }
   ]
 }

@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-04T01:10:50.396395+00:00",
+  "fetchedAt": "2026-09-04T10:43:32.397690+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -5551,6 +5551,15 @@
       "teamId": 11,
       "teamName": "FC Utrecht",
       "dateCreated": "2026-09-03T20:57:53.3472292+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "I. Sadiq",
+      "price": 1500000,
+      "teamId": 13,
+      "teamName": "AZ",
+      "dateCreated": "2026-09-04T07:57:40.3640326+00:00"
     }
   ],
   "standings": [

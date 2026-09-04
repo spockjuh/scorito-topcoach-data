@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-04T01:11:29.979850+00:00",
+  "fetchedAt": "2026-09-04T10:44:09.006529+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -5619,6 +5619,33 @@
       "teamId": 501,
       "teamName": "Sunderland",
       "dateCreated": "2026-09-02T19:00:27.4953267+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "C. Echeverri",
+      "price": 2000000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-09-04T06:27:41.5789129+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "G. Martinelli",
+      "price": 2000000,
+      "teamId": 312,
+      "teamName": "Arsenal",
+      "dateCreated": "2026-09-04T06:27:41.5881403+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "L. Bailey",
+      "price": 1500000,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "dateCreated": "2026-09-04T06:27:41.5881403+00:00"
     }
   ],
   "standings": [

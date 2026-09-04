@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-09-04T01:11:48.921730+00:00",
+  "fetchedAt": "2026-09-04T10:44:27.431415+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       475
     ]
   },
-  "playerCount": 555,
+  "playerCount": 574,
   "playerPoints": [
     {
       "marketId": 315,
@@ -4933,6 +4933,285 @@
       "teamId": 160,
       "teamName": "Anderlecht",
       "dateCreated": "2026-09-03T14:12:42.4274411+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "S. Nioule",
+      "price": 1000000,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "dateCreated": "2026-09-04T07:57:40.3737109+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "D. Rigo",
+      "price": 500000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-09-04T07:57:40.3959591+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "R. Mirisola",
+      "price": 2500000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-04T07:57:40.4297333+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 8,
+      "playerName": "B. Adinany",
+      "price": 750000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-09-04T07:57:40.4412796+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "G. Hairemans",
+      "price": 1250000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-09-04T07:57:40.454906+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "O. Niang",
+      "price": 2500000,
+      "teamId": 625,
+      "teamName": "Union",
+      "dateCreated": "2026-09-04T08:02:29.0966453+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 4,
+      "playerName": "L. Lalic",
+      "price": 750000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-09-04T08:02:29.1047758+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 1,
+      "playerName": "T. Leysen",
+      "price": 1250000,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "dateCreated": "2026-09-04T08:02:29.1175882+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Omobamidele",
+      "price": 2000000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-09-04T08:15:48.9631634+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "R. Amane",
+      "price": 1750000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-09-04T08:17:32.8987671+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "T. Aasgaard",
+      "price": 2000000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-09-04T08:18:09.167458+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Vermeeren",
+      "price": 1750000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-09-04T08:19:15.6868059+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Á. Cortés",
+      "price": 1500000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-09-04T08:19:44.6847585+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "B. Deuff",
+      "price": 1250000,
+      "teamId": 628,
+      "teamName": "Antwerp",
+      "dateCreated": "2026-09-04T08:20:07.5391755+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "Y. Lienard",
+      "price": 1000000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-09-04T08:20:51.7134814+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "T. Akinsola",
+      "price": 750000,
+      "teamId": 683,
+      "teamName": "Cercle Brugge",
+      "dateCreated": "2026-09-04T08:21:31.875572+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "J. Roche",
+      "price": 1000000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-09-04T08:23:28.0995979+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "R. Storman",
+      "price": 1000000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-09-04T08:24:08.0674456+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "B. Vroninks",
+      "price": 750000,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "dateCreated": "2026-09-04T08:25:11.7763862+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "E. Odede",
+      "price": 500000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-09-04T08:25:53.2908304+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. De Grand",
+      "price": 1250000,
+      "teamId": 1059,
+      "teamName": "Lommel SK",
+      "dateCreated": "2026-09-04T08:26:57.3161595+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "K. Vroman",
+      "price": 1250000,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "dateCreated": "2026-09-04T08:27:25.1224366+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "A. Fontanarosa",
+      "price": 1000000,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "dateCreated": "2026-09-04T08:28:02.290774+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "R. Mirisola",
+      "price": 1750000,
+      "teamId": 680,
+      "teamName": "OH Leuven",
+      "dateCreated": "2026-09-04T08:30:18.6434238+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "T. Leysen",
+      "price": 2000000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-04T08:31:43.8778329+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Roganovic",
+      "price": 2000000,
+      "teamId": 545,
+      "teamName": "Racing Genk",
+      "dateCreated": "2026-09-04T08:32:46.0023469+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Mbuku",
+      "price": 1250000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-09-04T08:35:03.1333226+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "J. Mbambi",
+      "price": 1250000,
+      "teamId": 570,
+      "teamName": "STVV",
+      "dateCreated": "2026-09-04T08:35:28.8048012+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "D. Aquino",
+      "price": 2500000,
+      "teamId": 625,
+      "teamName": "Union",
+      "dateCreated": "2026-09-04T08:36:22.9787497+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Storm",
+      "price": 1500000,
+      "teamId": 560,
+      "teamName": "Westerlo",
+      "dateCreated": "2026-09-04T08:37:51.5049585+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "O. Niang",
+      "price": 1250000,
+      "teamId": 572,
+      "teamName": "Zulte Waregem",
+      "dateCreated": "2026-09-04T08:39:20.2036992+00:00"
     }
   ],
   "standings": [
