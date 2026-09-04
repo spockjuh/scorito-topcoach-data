@@ -1,8 +1,8 @@
 {
   "competition": "de",
   "marketId": 328,
-  "fetchedAt": "2026-09-04T10:44:45.519418+00:00",
-  "playerCount": 577,
+  "fetchedAt": "2026-09-04T14:50:32.488440+00:00",
+  "playerCount": 582,
   "players": [
     {
       "teamPlayerId": 870061,
@@ -545,14 +545,14 @@
       "price": 1750000
     },
     {
-      "teamPlayerId": 657950,
+      "teamPlayerId": 1221627,
       "playerId": 45137,
       "name": "Arthur",
       "nationality": "Brazilië",
       "position": 2,
-      "teamId": 158,
-      "teamName": "Bayer Leverkusen",
-      "price": 3000000
+      "teamId": 564,
+      "teamName": "Werder Bremen",
+      "price": 1500000
     },
     {
       "teamPlayerId": 878898,
@@ -975,14 +975,14 @@
       "price": 2500000
     },
     {
-      "teamPlayerId": 944118,
+      "teamPlayerId": 1221631,
       "playerId": 37751,
       "name": "Arijon Ibrahimovic",
       "nationality": "Duitsland",
       "position": 4,
-      "teamId": 165,
-      "teamName": "Bayern München",
-      "price": 2500000
+      "teamId": 392,
+      "teamName": "FC Augsburg",
+      "price": 1250000
     },
     {
       "teamPlayerId": 863053,
@@ -5773,6 +5773,56 @@
       "teamId": 565,
       "teamName": "Eintracht Frankfurt",
       "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221632,
+      "playerId": 10149,
+      "name": "Hee-Chan Hwang",
+      "nationality": "Zuid-Korea",
+      "position": 8,
+      "teamId": 266,
+      "teamName": "FC Schalke 04",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220957,
+      "playerId": 26423,
+      "name": "Nicolas Kühn",
+      "nationality": "Duitsland",
+      "position": 8,
+      "teamId": 97,
+      "teamName": "Borussia Mönchengladbach",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1220632,
+      "playerId": 41540,
+      "name": "Guéla Doué",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 158,
+      "teamName": "Bayer Leverkusen",
+      "price": 3000000
+    },
+    {
+      "teamPlayerId": 1221626,
+      "playerId": 45801,
+      "name": "David Møller Wolfe",
+      "nationality": "Noorwegen",
+      "position": 2,
+      "teamId": 573,
+      "teamName": "Hamburger SV",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1220959,
+      "playerId": 46887,
+      "name": "Neil El Aynaoui",
+      "nationality": "Frankrijk",
+      "position": 4,
+      "teamId": 556,
+      "teamName": "RB Leipzig",
+      "price": 2500000
     }
   ]
 }

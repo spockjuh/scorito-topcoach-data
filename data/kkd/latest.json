@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-04T10:43:50.956073+00:00",
+  "fetchedAt": "2026-09-04T14:49:39.683355+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       481
     ]
   },
-  "playerCount": 574,
+  "playerCount": 578,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5388,6 +5388,42 @@
       "teamId": 14,
       "teamName": "Heracles Almelo",
       "dateCreated": "2026-09-04T07:57:40.4174987+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "R. Buifrahi",
+      "price": 1000000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-09-04T12:28:22.4873483+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "L. Oldenstam",
+      "price": 750000,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "dateCreated": "2026-09-04T12:28:46.979629+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "A. Rais",
+      "price": 1000000,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "dateCreated": "2026-09-04T12:32:07.5306656+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Touré",
+      "price": 750000,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "dateCreated": "2026-09-04T12:33:01.5520002+00:00"
     }
   ],
   "standings": [

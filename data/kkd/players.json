@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-09-04T10:43:50.956073+00:00",
-  "playerCount": 574,
+  "fetchedAt": "2026-09-04T14:49:39.683355+00:00",
+  "playerCount": 578,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5743,6 +5743,46 @@
       "teamId": 810,
       "teamName": "Jong PSV",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221101,
+      "playerId": 46297,
+      "name": "Rayan Buifrahi",
+      "nationality": "België",
+      "position": 8,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221601,
+      "playerId": 53746,
+      "name": "Lyfe Oldenstam",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 810,
+      "teamName": "Jong PSV",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1221103,
+      "playerId": 61952,
+      "name": "Amir Rais",
+      "nationality": "Nederland",
+      "position": 4,
+      "teamId": 15,
+      "teamName": "VVV-Venlo",
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1221102,
+      "playerId": 61953,
+      "name": "Safyan Touré",
+      "nationality": "Frankrijk",
+      "position": 8,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "price": 750000
     }
   ]
 }
