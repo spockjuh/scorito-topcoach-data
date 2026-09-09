@@ -1,8 +1,8 @@
 {
   "competition": "be",
   "marketId": 315,
-  "fetchedAt": "2026-09-08T23:33:04.582300+00:00",
-  "playerCount": 574,
+  "fetchedAt": "2026-09-09T10:51:28.099133+00:00",
+  "playerCount": 577,
   "players": [
     {
       "teamPlayerId": 359832,
@@ -5743,6 +5743,36 @@
       "teamId": 560,
       "teamName": "Westerlo",
       "price": 1500000
+    },
+    {
+      "teamPlayerId": 1222135,
+      "playerId": 59971,
+      "name": "Ilias Koutsoupias",
+      "nationality": "Griekenland",
+      "position": 4,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221647,
+      "playerId": 61966,
+      "name": "Gaku Nawata",
+      "nationality": "Japan",
+      "position": 8,
+      "teamId": 367,
+      "teamName": "Charleroi",
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1222082,
+      "playerId": 61983,
+      "name": "Axel Drouhin",
+      "nationality": "Frankrijk",
+      "position": 2,
+      "teamId": 563,
+      "teamName": "Kortrijk",
+      "price": 750000
     }
   ]
 }
