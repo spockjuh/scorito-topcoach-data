@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-09T10:50:53.515671+00:00",
+  "fetchedAt": "2026-09-09T15:01:41.057104+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -70,7 +70,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-08-31T08:00:00",
             "Name": "5",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-09-08T09:00:00"
           },
           {
             "Id": 7490,
@@ -95,7 +95,7 @@
           {
             "Id": 7492,
             "Order": 8,
-            "Deadline": "2026-09-25T18:00:00",
+            "Deadline": "2026-09-25T19:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-09-21T08:00:00",
@@ -105,7 +105,7 @@
           {
             "Id": 7493,
             "Order": 9,
-            "Deadline": "2026-10-02T18:00:00",
+            "Deadline": "2026-10-02T19:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-09-28T08:00:00",
@@ -468,7 +468,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-08-31T08:00:00",
         "Name": "5",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-09-08T09:00:00"
       },
       {
         "Id": 7490,
@@ -493,7 +493,7 @@
       {
         "Id": 7492,
         "Order": 8,
-        "Deadline": "2026-09-25T18:00:00",
+        "Deadline": "2026-09-25T19:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-09-21T08:00:00",
@@ -503,7 +503,7 @@
       {
         "Id": 7493,
         "Order": 9,
-        "Deadline": "2026-10-02T18:00:00",
+        "Deadline": "2026-10-02T19:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-09-28T08:00:00",

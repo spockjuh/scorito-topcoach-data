@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-09T10:51:10.784311+00:00",
+  "fetchedAt": "2026-09-09T15:01:59.183008+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -43,12 +43,12 @@
             "IsStarted": true,
             "StartDateTime": "2026-08-31T08:00:00",
             "Name": "3",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-09-07T09:00:00"
           },
           {
             "Id": 7526,
             "Order": 4,
-            "Deadline": "2026-09-11T19:00:00",
+            "Deadline": "2026-09-12T14:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": true,
             "StartDateTime": "2026-09-07T08:00:00",
@@ -75,7 +75,7 @@
           {
             "Id": 7528,
             "Order": 6,
-            "Deadline": "2026-10-09T19:00:00",
+            "Deadline": "2026-10-10T11:30:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-09-21T08:00:00",
@@ -85,7 +85,7 @@
           {
             "Id": 7529,
             "Order": 7,
-            "Deadline": "2026-10-16T19:00:00",
+            "Deadline": "2026-10-17T11:30:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-10-12T08:00:00",
@@ -105,7 +105,7 @@
           {
             "Id": 7531,
             "Order": 9,
-            "Deadline": "2026-10-30T20:00:00",
+            "Deadline": "2026-10-31T12:30:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-10-26T08:00:00",
@@ -115,7 +115,7 @@
           {
             "Id": 7532,
             "Order": 10,
-            "Deadline": "2026-11-06T20:00:00",
+            "Deadline": "2026-11-07T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-11-02T09:00:00",
@@ -125,7 +125,7 @@
           {
             "Id": 7533,
             "Order": 11,
-            "Deadline": "2026-11-20T20:00:00",
+            "Deadline": "2026-11-21T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-11-09T09:00:00",
@@ -135,7 +135,7 @@
           {
             "Id": 7534,
             "Order": 12,
-            "Deadline": "2026-11-27T20:00:00",
+            "Deadline": "2026-11-28T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-11-23T09:00:00",
@@ -155,7 +155,7 @@
           {
             "Id": 7536,
             "Order": 14,
-            "Deadline": "2026-12-05T20:00:00",
+            "Deadline": "2026-12-05T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-12-05T09:00:00",
@@ -165,7 +165,7 @@
           {
             "Id": 7537,
             "Order": 15,
-            "Deadline": "2026-12-11T20:00:00",
+            "Deadline": "2026-12-12T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-12-07T09:00:00",
@@ -175,7 +175,7 @@
           {
             "Id": 7538,
             "Order": 16,
-            "Deadline": "2026-12-18T20:00:00",
+            "Deadline": "2026-12-19T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-12-14T09:00:00",
@@ -185,7 +185,7 @@
           {
             "Id": 7539,
             "Order": 17,
-            "Deadline": "2026-12-26T12:00:00",
+            "Deadline": "2026-12-26T15:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": false,
             "StartDateTime": "2026-12-21T09:00:00",
@@ -448,12 +448,12 @@
         "IsStarted": true,
         "StartDateTime": "2026-08-31T08:00:00",
         "Name": "3",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-09-07T09:00:00"
       },
       {
         "Id": 7526,
         "Order": 4,
-        "Deadline": "2026-09-11T19:00:00",
+        "Deadline": "2026-09-12T14:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": true,
         "StartDateTime": "2026-09-07T08:00:00",
@@ -473,7 +473,7 @@
       {
         "Id": 7528,
         "Order": 6,
-        "Deadline": "2026-10-09T19:00:00",
+        "Deadline": "2026-10-10T11:30:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-09-21T08:00:00",
@@ -483,7 +483,7 @@
       {
         "Id": 7529,
         "Order": 7,
-        "Deadline": "2026-10-16T19:00:00",
+        "Deadline": "2026-10-17T11:30:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-10-12T08:00:00",
@@ -503,7 +503,7 @@
       {
         "Id": 7531,
         "Order": 9,
-        "Deadline": "2026-10-30T20:00:00",
+        "Deadline": "2026-10-31T12:30:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-10-26T08:00:00",
@@ -513,7 +513,7 @@
       {
         "Id": 7532,
         "Order": 10,
-        "Deadline": "2026-11-06T20:00:00",
+        "Deadline": "2026-11-07T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-11-02T09:00:00",
@@ -523,7 +523,7 @@
       {
         "Id": 7533,
         "Order": 11,
-        "Deadline": "2026-11-20T20:00:00",
+        "Deadline": "2026-11-21T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-11-09T09:00:00",
@@ -533,7 +533,7 @@
       {
         "Id": 7534,
         "Order": 12,
-        "Deadline": "2026-11-27T20:00:00",
+        "Deadline": "2026-11-28T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-11-23T09:00:00",
@@ -553,7 +553,7 @@
       {
         "Id": 7536,
         "Order": 14,
-        "Deadline": "2026-12-05T20:00:00",
+        "Deadline": "2026-12-05T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-12-05T09:00:00",
@@ -563,7 +563,7 @@
       {
         "Id": 7537,
         "Order": 15,
-        "Deadline": "2026-12-11T20:00:00",
+        "Deadline": "2026-12-12T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-12-07T09:00:00",
@@ -573,7 +573,7 @@
       {
         "Id": 7538,
         "Order": 16,
-        "Deadline": "2026-12-18T20:00:00",
+        "Deadline": "2026-12-19T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-12-14T09:00:00",
@@ -583,7 +583,7 @@
       {
         "Id": 7539,
         "Order": 17,
-        "Deadline": "2026-12-26T12:00:00",
+        "Deadline": "2026-12-26T15:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": false,
         "StartDateTime": "2026-12-21T09:00:00",
@@ -6254,7 +6254,7 @@
     "marketId": 314,
     "matchOfWeekId": 66183,
     "captainFactor": 2,
-    "deadline": "2026-09-11T19:00:00+00:00",
+    "deadline": "2026-09-12T14:00:00+00:00",
     "gamePhaseId": 1139
   },
   "playerAvailability": null
