@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-09-11T14:51:31.444673+00:00",
-  "playerCount": 648,
+  "fetchedAt": "2026-09-11T18:12:07.631000+00:00",
+  "playerCount": 649,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -6483,6 +6483,16 @@
       "teamId": 501,
       "teamName": "Sunderland",
       "price": 750000
+    },
+    {
+      "teamPlayerId": 1222682,
+      "playerId": 58408,
+      "name": "George Hemmings",
+      "nationality": "Engeland",
+      "position": 4,
+      "teamId": 502,
+      "teamName": "Aston Villa",
+      "price": 1500000
     }
   ]
 }
