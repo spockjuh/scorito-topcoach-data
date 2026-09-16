@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-09-16T10:56:03.393463+00:00",
+  "fetchedAt": "2026-09-16T15:21:23.723220+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       473
     ]
   },
-  "playerCount": 550,
+  "playerCount": 555,
   "playerPoints": [
     {
       "marketId": 312,
@@ -5782,6 +5782,51 @@
       "teamId": 13,
       "teamName": "AZ",
       "dateCreated": "2026-09-04T07:57:40.3640326+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "S. Padt",
+      "price": 1750000,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "dateCreated": "2026-09-16T14:16:43.7914311+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "Y. Bissouma",
+      "price": 2000000,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "dateCreated": "2026-09-16T14:17:16.9935524+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "N. Ünüvar",
+      "price": 1250000,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "dateCreated": "2026-09-16T14:17:46.2492105+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "H. Hateboer",
+      "price": 1750000,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "dateCreated": "2026-09-16T14:19:24.2634791+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "F. Turay",
+      "price": 500000,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "dateCreated": "2026-09-16T14:20:40.6077315+00:00"
     }
   ],
   "standings": [

@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-09-16T10:56:03.393463+00:00",
-  "playerCount": 550,
+  "fetchedAt": "2026-09-16T15:21:23.723220+00:00",
+  "playerCount": 555,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5499,6 +5499,56 @@
       "playerId": 32177,
       "name": "Ar'Jani Martha",
       "nationality": "Curaçao",
+      "position": 8,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1222679,
+      "playerId": 835,
+      "name": "Sergio Padt",
+      "nationality": "Nederland",
+      "position": 1,
+      "teamId": 11,
+      "teamName": "FC Utrecht",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1223400,
+      "playerId": 13647,
+      "name": "Yves Bissouma",
+      "nationality": "Mali",
+      "position": 4,
+      "teamId": 1,
+      "teamName": "Ajax",
+      "price": 2000000
+    },
+    {
+      "teamPlayerId": 1221657,
+      "playerId": 29480,
+      "name": "Naci Ünüvar",
+      "nationality": "Nederland",
+      "position": 8,
+      "teamId": 10,
+      "teamName": "FC Twente",
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1223395,
+      "playerId": 768,
+      "name": "Hans Hateboer",
+      "nationality": "Nederland",
+      "position": 2,
+      "teamId": 3,
+      "teamName": "FC Groningen",
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1221663,
+      "playerId": 45505,
+      "name": "Fofin Turay",
+      "nationality": "Nederland",
       "position": 8,
       "teamId": 816,
       "teamName": "Telstar",
