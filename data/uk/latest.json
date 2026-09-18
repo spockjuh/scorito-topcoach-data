@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-09-18T10:40:56.731785+00:00",
+  "fetchedAt": "2026-09-18T14:48:20.728671+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -5931,6 +5931,15 @@
       "teamId": 502,
       "teamName": "Aston Villa",
       "dateCreated": "2026-09-11T15:18:13.4503639+00:00"
+    },
+    {
+      "mutationType": 2,
+      "playerPosition": 2,
+      "playerName": "L. De Fougerolles",
+      "price": 750000,
+      "teamId": 689,
+      "teamName": "Fulham",
+      "dateCreated": "2026-09-18T13:44:19.6908828+00:00"
     }
   ],
   "standings": [
