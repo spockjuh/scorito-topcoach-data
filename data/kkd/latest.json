@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-09-24T11:12:43.635907+00:00",
+  "fetchedAt": "2026-09-24T15:52:57.519599+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       483
     ]
   },
-  "playerCount": 578,
+  "playerCount": 582,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5658,6 +5658,51 @@
       "teamId": 691,
       "teamName": "FC Emmen",
       "dateCreated": "2026-09-04T12:33:01.5520002+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Diemers",
+      "price": 2500000,
+      "teamId": 18,
+      "teamName": "De Graafschap",
+      "dateCreated": "2026-09-24T14:16:41.0391289+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Hilterman",
+      "price": 2000000,
+      "teamId": 12,
+      "teamName": "Vitesse",
+      "dateCreated": "2026-09-24T14:21:06.6249394+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "V. Misidjan",
+      "price": 1500000,
+      "teamId": 8,
+      "teamName": "RKC Waalwijk",
+      "dateCreated": "2026-09-24T14:21:50.0256504+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "Y. Van Osch",
+      "price": 1750000,
+      "teamId": 23,
+      "teamName": "FC Dordrecht",
+      "dateCreated": "2026-09-24T14:22:25.1357647+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "T. Reinders",
+      "price": 500000,
+      "teamId": 815,
+      "teamName": "Jong FC Utrecht",
+      "dateCreated": "2026-09-24T14:22:49.5456324+00:00"
     }
   ],
   "standings": [
