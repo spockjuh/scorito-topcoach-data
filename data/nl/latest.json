@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-10-10T02:33:54.717434+00:00",
+  "fetchedAt": "2026-10-10T11:59:45.287868+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -5895,30 +5895,30 @@
           "TeamId": 13
         },
         {
-          "GoalsAgainst": 7,
-          "GoalsFor": 25,
-          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_2.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries",
-          "MatchesPlayed": 7,
-          "Points": 17,
-          "Rank": 2,
-          "TeamNameShort": "FEY",
-          "TeamType": 0,
-          "TranslatedName": "Feyenoord",
-          "TeamId": 2
-        },
-        {
           "GoalsAgainst": 10,
-          "GoalsFor": 24,
+          "GoalsFor": 26,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_7.png",
-          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs",
-          "MatchesPlayed": 7,
-          "Points": 16,
-          "Rank": 3,
+          "LabelKey": "EventRankingCategory.League.QualifiedForChampionsLeaguePreliminaries",
+          "MatchesPlayed": 8,
+          "Points": 19,
+          "Rank": 2,
           "TeamNameShort": "PSV",
           "TeamType": 0,
           "TranslatedName": "PSV",
           "TeamId": 7
+        },
+        {
+          "GoalsAgainst": 7,
+          "GoalsFor": 25,
+          "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_2.png",
+          "LabelKey": "EventRankingCategory.League.QualifiedForEuroLeaguePlayoffs",
+          "MatchesPlayed": 7,
+          "Points": 17,
+          "Rank": 3,
+          "TeamNameShort": "FEY",
+          "TeamType": 0,
+          "TranslatedName": "Feyenoord",
+          "TeamId": 2
         },
         {
           "GoalsAgainst": 7,
@@ -5999,11 +5999,11 @@
           "TeamId": 21
         },
         {
-          "GoalsAgainst": 9,
+          "GoalsAgainst": 11,
           "GoalsFor": 11,
           "ImageUrl": "https://cdn.scorito.com/football/club/shirts/shirt_4.png",
           "LabelKey": null,
-          "MatchesPlayed": 7,
+          "MatchesPlayed": 8,
           "Points": 9,
           "Rank": 10,
           "TeamNameShort": "HEE",
