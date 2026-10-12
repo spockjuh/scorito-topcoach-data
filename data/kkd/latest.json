@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-10-12T01:02:51.569488+00:00",
+  "fetchedAt": "2026-10-12T14:35:07.082479+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -127,7 +127,7 @@
             "Order": 11,
             "Deadline": "2026-10-16T18:00:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-10-12T08:00:00",
             "Name": "11",
             "DefinitiveCalculationDate": null
@@ -525,7 +525,7 @@
         "Order": 11,
         "Deadline": "2026-10-16T18:00:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-10-12T08:00:00",
         "Name": "11",
         "DefinitiveCalculationDate": null
