@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-10-19T00:21:47.106807+00:00",
+  "fetchedAt": "2026-10-19T12:18:15.927488+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -110,14 +110,14 @@
             "IsStarted": true,
             "StartDateTime": "2026-10-12T07:00:00",
             "Name": "9",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-10-19T09:00:00"
           },
           {
             "Id": 7349,
             "Order": 10,
             "Deadline": "2026-10-23T18:00:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-10-19T07:00:00",
             "Name": "10",
             "DefinitiveCalculationDate": null
@@ -468,14 +468,14 @@
         "IsStarted": true,
         "StartDateTime": "2026-10-12T07:00:00",
         "Name": "9",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-10-19T09:00:00"
       },
       {
         "Id": 7349,
         "Order": 10,
         "Deadline": "2026-10-23T18:00:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-10-19T07:00:00",
         "Name": "10",
         "DefinitiveCalculationDate": null
