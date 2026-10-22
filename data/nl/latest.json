@@ -2,7 +2,7 @@
   "competition": "nl",
   "marketId": 312,
   "name": "TopCoach NL (Eredivisie)",
-  "fetchedAt": "2026-10-22T11:15:11.244515+00:00",
+  "fetchedAt": "2026-10-22T15:56:52.733769+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 312,
@@ -778,7 +778,7 @@
       473
     ]
   },
-  "playerCount": 555,
+  "playerCount": 564,
   "playerPoints": [
     {
       "marketId": 312,
@@ -5947,6 +5947,87 @@
       "teamId": 816,
       "teamName": "Telstar",
       "dateCreated": "2026-09-16T14:20:40.6077315+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "J. Cillessen",
+      "price": 1750000,
+      "teamId": 21,
+      "teamName": "Go Ahead Eagles",
+      "dateCreated": "2026-10-22T11:52:36.9926329+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "D. Sinkgraven",
+      "price": 1000000,
+      "teamId": 692,
+      "teamName": "Fortuna Sittard",
+      "dateCreated": "2026-10-22T11:55:46.1302551+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "Á. Pozo",
+      "price": 500000,
+      "teamId": 16,
+      "teamName": "ADO Den Haag",
+      "dateCreated": "2026-10-22T11:56:54.4921171+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "M. Bakker",
+      "price": 1500000,
+      "teamId": 6,
+      "teamName": "N.E.C.",
+      "dateCreated": "2026-10-22T11:58:36.1521757+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "S. Eekhout",
+      "price": 500000,
+      "teamId": 16,
+      "teamName": "ADO Den Haag",
+      "dateCreated": "2026-10-22T11:59:13.9455218+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "W. Van Der Heide",
+      "price": 500000,
+      "teamId": 22,
+      "teamName": "SC Cambuur",
+      "dateCreated": "2026-10-22T12:04:19.709475+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Schaken",
+      "price": 1500000,
+      "teamId": 2,
+      "teamName": "Feyenoord",
+      "dateCreated": "2026-10-22T12:04:52.5602134+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "T. Schreuder",
+      "price": 1250000,
+      "teamId": 4,
+      "teamName": "sc Heerenveen",
+      "dateCreated": "2026-10-22T12:06:18.3044+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "F. Mulder",
+      "price": 500000,
+      "teamId": 816,
+      "teamName": "Telstar",
+      "dateCreated": "2026-10-22T12:06:33.1448268+00:00"
     }
   ],
   "standings": null,

@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-10-22T11:16:08.503281+00:00",
+  "fetchedAt": "2026-10-22T15:57:48.142490+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -778,7 +778,7 @@
       477
     ]
   },
-  "playerCount": 577,
+  "playerCount": 584,
   "playerPoints": [
     {
       "marketId": 315,
@@ -5593,6 +5593,69 @@
       "teamId": 563,
       "teamName": "Kortrijk",
       "dateCreated": "2026-09-09T08:02:14.8294315+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "C. Konate",
+      "price": 750000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-10-22T12:34:21.0165475+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "V. Olatunji",
+      "price": 1000000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-10-22T12:36:13.53794+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Z. Keita",
+      "price": 1500000,
+      "teamId": 160,
+      "teamName": "Anderlecht",
+      "dateCreated": "2026-10-22T12:41:04.6871863+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "E. Seck",
+      "price": 1250000,
+      "teamId": 233,
+      "teamName": "AA Gent",
+      "dateCreated": "2026-10-22T12:41:39.8092567+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "J. Diouf",
+      "price": 500000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-10-22T12:44:06.3365033+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "M. Decherf",
+      "price": 750000,
+      "teamId": 574,
+      "teamName": "KV Mechelen",
+      "dateCreated": "2026-10-22T12:46:23.8374673+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "S. Keller",
+      "price": 500000,
+      "teamId": 555,
+      "teamName": "SK Beveren",
+      "dateCreated": "2026-10-22T12:49:01.5266231+00:00"
     }
   ],
   "standings": null,

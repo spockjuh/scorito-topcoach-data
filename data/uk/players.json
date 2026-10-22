@@ -1,8 +1,8 @@
 {
   "competition": "uk",
   "marketId": 314,
-  "fetchedAt": "2026-10-22T11:15:49.438796+00:00",
-  "playerCount": 649,
+  "fetchedAt": "2026-10-22T15:57:29.643787+00:00",
+  "playerCount": 653,
   "players": [
     {
       "teamPlayerId": 675998,
@@ -6491,6 +6491,46 @@
       "nationality": null,
       "position": 4,
       "teamId": 502,
+      "teamName": null,
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1223594,
+      "playerId": 23767,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 1060,
+      "teamName": null,
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1224890,
+      "playerId": 50166,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 289,
+      "teamName": null,
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1225006,
+      "playerId": 53430,
+      "name": null,
+      "nationality": null,
+      "position": 2,
+      "teamId": 295,
+      "teamName": null,
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1225002,
+      "playerId": 58971,
+      "name": null,
+      "nationality": null,
+      "position": 4,
+      "teamId": 295,
       "teamName": null,
       "price": 1500000
     }

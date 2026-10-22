@@ -1,8 +1,8 @@
 {
   "competition": "kkd",
   "marketId": 313,
-  "fetchedAt": "2026-10-22T11:15:30.480568+00:00",
-  "playerCount": 582,
+  "fetchedAt": "2026-10-22T15:57:11.487547+00:00",
+  "playerCount": 588,
   "players": [
     {
       "teamPlayerId": 789547,
@@ -5823,6 +5823,66 @@
       "teamId": 23,
       "teamName": null,
       "price": 1750000
+    },
+    {
+      "teamPlayerId": 1224381,
+      "playerId": 669,
+      "name": null,
+      "nationality": null,
+      "position": 1,
+      "teamId": 691,
+      "teamName": null,
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1224596,
+      "playerId": 31928,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 807,
+      "teamName": null,
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1224155,
+      "playerId": 32175,
+      "name": null,
+      "nationality": null,
+      "position": 2,
+      "teamId": 817,
+      "teamName": null,
+      "price": 750000
+    },
+    {
+      "teamPlayerId": 1224401,
+      "playerId": 32930,
+      "name": null,
+      "nationality": null,
+      "position": 4,
+      "teamId": 806,
+      "teamName": null,
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1224207,
+      "playerId": 61870,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 190,
+      "teamName": null,
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1224408,
+      "playerId": 62157,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 814,
+      "teamName": null,
+      "price": 500000
     }
   ]
 }

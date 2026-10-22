@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-10-22T11:15:49.438796+00:00",
+  "fetchedAt": "2026-10-22T15:57:29.643787+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -858,7 +858,7 @@
       487
     ]
   },
-  "playerCount": 649,
+  "playerCount": 653,
   "playerPoints": [
     {
       "marketId": 314,
@@ -6108,6 +6108,42 @@
       "teamId": 689,
       "teamName": "Fulham",
       "dateCreated": "2026-09-18T13:44:19.6908828+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "Y. Gboho",
+      "price": 750000,
+      "teamId": 1060,
+      "teamName": "Coventry City",
+      "dateCreated": "2026-10-22T12:25:15.6841903+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "L. Koumas",
+      "price": 1500000,
+      "teamId": 289,
+      "teamName": "Liverpool",
+      "dateCreated": "2026-10-22T12:25:46.0291596+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "K. Braithwaite",
+      "price": 1750000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-10-22T12:28:21.1779413+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "F. Samba",
+      "price": 1500000,
+      "teamId": 295,
+      "teamName": "Manchester City",
+      "dateCreated": "2026-10-22T12:28:55.2819584+00:00"
     }
   ],
   "standings": null,

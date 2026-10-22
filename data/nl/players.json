@@ -1,8 +1,8 @@
 {
   "competition": "nl",
   "marketId": 312,
-  "fetchedAt": "2026-10-22T11:15:11.244515+00:00",
-  "playerCount": 555,
+  "fetchedAt": "2026-10-22T15:56:52.733769+00:00",
+  "playerCount": 564,
   "players": [
     {
       "teamPlayerId": 875307,
@@ -5550,6 +5550,96 @@
       "name": null,
       "nationality": null,
       "position": 8,
+      "teamId": 816,
+      "teamName": null,
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1225001,
+      "playerId": 430,
+      "name": null,
+      "nationality": null,
+      "position": 1,
+      "teamId": 21,
+      "teamName": null,
+      "price": 1750000
+    },
+    {
+      "teamPlayerId": 1224398,
+      "playerId": 797,
+      "name": null,
+      "nationality": null,
+      "position": 2,
+      "teamId": 692,
+      "teamName": null,
+      "price": 1000000
+    },
+    {
+      "teamPlayerId": 1223442,
+      "playerId": 15836,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 16,
+      "teamName": null,
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1224386,
+      "playerId": 20136,
+      "name": null,
+      "nationality": null,
+      "position": 2,
+      "teamId": 6,
+      "teamName": null,
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221659,
+      "playerId": 50176,
+      "name": null,
+      "nationality": null,
+      "position": 1,
+      "teamId": 16,
+      "teamName": null,
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1221660,
+      "playerId": 58513,
+      "name": null,
+      "nationality": null,
+      "position": 4,
+      "teamId": 22,
+      "teamName": null,
+      "price": 500000
+    },
+    {
+      "teamPlayerId": 1221790,
+      "playerId": 58573,
+      "name": null,
+      "nationality": null,
+      "position": 8,
+      "teamId": 2,
+      "teamName": null,
+      "price": 1500000
+    },
+    {
+      "teamPlayerId": 1221658,
+      "playerId": 58681,
+      "name": null,
+      "nationality": null,
+      "position": 1,
+      "teamId": 4,
+      "teamName": null,
+      "price": 1250000
+    },
+    {
+      "teamPlayerId": 1221661,
+      "playerId": 58929,
+      "name": null,
+      "nationality": null,
+      "position": 1,
       "teamId": 816,
       "teamName": null,
       "price": 500000

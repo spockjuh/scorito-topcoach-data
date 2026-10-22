@@ -2,7 +2,7 @@
   "competition": "kkd",
   "marketId": 313,
   "name": "TopCoach KKD (Keuken Kampioen Divisie)",
-  "fetchedAt": "2026-10-22T11:15:30.480568+00:00",
+  "fetchedAt": "2026-10-22T15:57:11.487547+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 313,
@@ -858,7 +858,7 @@
       483
     ]
   },
-  "playerCount": 582,
+  "playerCount": 588,
   "playerPoints": [
     {
       "marketId": 313,
@@ -5787,6 +5787,60 @@
       "teamId": 815,
       "teamName": "Jong FC Utrecht",
       "dateCreated": "2026-09-24T14:22:49.5456324+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 1,
+      "playerName": "K. Roos",
+      "price": 1500000,
+      "teamId": 691,
+      "teamName": "FC Emmen",
+      "dateCreated": "2026-10-22T12:08:22.0231946+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "V. Besuijen",
+      "price": 1000000,
+      "teamId": 807,
+      "teamName": "FC Eindhoven",
+      "dateCreated": "2026-10-22T12:09:28.6189623+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 2,
+      "playerName": "Y. Liesdek",
+      "price": 750000,
+      "teamId": 817,
+      "teamName": "MVV Maastricht",
+      "dateCreated": "2026-10-22T12:12:11.7765413+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 4,
+      "playerName": "B. Van Schuppen",
+      "price": 1000000,
+      "teamId": 806,
+      "teamName": "FC Den Bosch",
+      "dateCreated": "2026-10-22T12:14:03.8137753+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "S. Deme",
+      "price": 1250000,
+      "teamId": 190,
+      "teamName": "FC Volendam",
+      "dateCreated": "2026-10-22T12:17:08.4571714+00:00"
+    },
+    {
+      "mutationType": 1,
+      "playerPosition": 8,
+      "playerName": "G. Groot",
+      "price": 500000,
+      "teamId": 814,
+      "teamName": "Jong AZ",
+      "dateCreated": "2026-10-22T12:17:54.3208317+00:00"
     }
   ],
   "standings": null,
