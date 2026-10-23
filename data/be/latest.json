@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-10-23T01:24:14.073771+00:00",
+  "fetchedAt": "2026-10-23T11:07:15.811429+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -100,12 +100,12 @@
             "IsStarted": true,
             "StartDateTime": "2026-09-21T08:00:00",
             "Name": "8",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-10-12T09:00:00"
           },
           {
             "Id": 7382,
             "Order": 9,
-            "Deadline": "2026-10-23T18:45:00",
+            "Deadline": "2026-10-24T14:00:00",
             "IsDeadlinePassed": false,
             "IsStarted": true,
             "StartDateTime": "2026-10-12T08:00:00",
@@ -458,12 +458,12 @@
         "IsStarted": true,
         "StartDateTime": "2026-09-21T08:00:00",
         "Name": "8",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-10-12T09:00:00"
       },
       {
         "Id": 7382,
         "Order": 9,
-        "Deadline": "2026-10-23T18:45:00",
+        "Deadline": "2026-10-24T14:00:00",
         "IsDeadlinePassed": false,
         "IsStarted": true,
         "StartDateTime": "2026-10-12T08:00:00",
@@ -5748,7 +5748,7 @@
     "marketId": 315,
     "matchOfWeekId": 65956,
     "captainFactor": 2,
-    "deadline": "2026-10-23T18:45:00+00:00",
+    "deadline": "2026-10-24T14:00:00+00:00",
     "gamePhaseId": 1137
   },
   "playerAvailability": null
