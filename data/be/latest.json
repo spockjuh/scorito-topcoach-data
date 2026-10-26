@@ -2,7 +2,7 @@
   "competition": "be",
   "marketId": 315,
   "name": "TopCoach BE (Pro League)",
-  "fetchedAt": "2026-10-26T01:32:48.534133+00:00",
+  "fetchedAt": "2026-10-26T12:22:23.196194+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 315,
@@ -117,7 +117,7 @@
             "Order": 10,
             "Deadline": "2026-10-30T19:45:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-10-26T08:00:00",
             "Name": "10",
             "DefinitiveCalculationDate": null
@@ -475,7 +475,7 @@
         "Order": 10,
         "Deadline": "2026-10-30T19:45:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-10-26T08:00:00",
         "Name": "10",
         "DefinitiveCalculationDate": null
