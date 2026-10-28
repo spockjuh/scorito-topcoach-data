@@ -2,7 +2,7 @@
   "competition": "uk",
   "marketId": 314,
   "name": "TopCoach UK (Premier League)",
-  "fetchedAt": "2026-10-28T12:13:32.605542+00:00",
+  "fetchedAt": "2026-10-28T18:26:43.053707+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 314,
@@ -80,7 +80,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-09-21T08:00:00",
             "Name": "6",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-10-13T09:00:00"
           },
           {
             "Id": 7529,
@@ -90,7 +90,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-10-12T08:00:00",
             "Name": "7",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-10-20T09:00:00"
           },
           {
             "Id": 7530,
@@ -100,7 +100,7 @@
             "IsStarted": true,
             "StartDateTime": "2026-10-19T08:00:00",
             "Name": "8",
-            "DefinitiveCalculationDate": null
+            "DefinitiveCalculationDate": "2026-10-26T10:00:00"
           },
           {
             "Id": 7531,
@@ -478,7 +478,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-09-21T08:00:00",
         "Name": "6",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-10-13T09:00:00"
       },
       {
         "Id": 7529,
@@ -488,7 +488,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-10-12T08:00:00",
         "Name": "7",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-10-20T09:00:00"
       },
       {
         "Id": 7530,
@@ -498,7 +498,7 @@
         "IsStarted": true,
         "StartDateTime": "2026-10-19T08:00:00",
         "Name": "8",
-        "DefinitiveCalculationDate": null
+        "DefinitiveCalculationDate": "2026-10-26T10:00:00"
       },
       {
         "Id": 7531,
