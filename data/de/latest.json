@@ -2,7 +2,7 @@
   "competition": "de",
   "marketId": 328,
   "name": "TopCoach DE (Bundesliga) — mogelijk nog niet live",
-  "fetchedAt": "2026-11-23T01:26:07.447969+00:00",
+  "fetchedAt": "2026-11-23T17:31:37.816218+00:00",
   "status": "active",
   "marketStructure": {
     "Id": 328,
@@ -127,7 +127,7 @@
             "Order": 11,
             "Deadline": "2026-11-27T19:30:00",
             "IsDeadlinePassed": false,
-            "IsStarted": false,
+            "IsStarted": true,
             "StartDateTime": "2026-11-23T09:00:00",
             "Name": "11",
             "DefinitiveCalculationDate": null
@@ -485,7 +485,7 @@
         "Order": 11,
         "Deadline": "2026-11-27T19:30:00",
         "IsDeadlinePassed": false,
-        "IsStarted": false,
+        "IsStarted": true,
         "StartDateTime": "2026-11-23T09:00:00",
         "Name": "11",
         "DefinitiveCalculationDate": null
